@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Marcelo Santos - aka [klvosantos]👋 
+### Hi there, I'm Marcelo Santos👋 
 
 ## Student, Developer!
 
