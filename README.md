@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Matrizes : Arranjos bidimensionais : Lógica de Programação](https://www.youtube.com/watch?v=whb0b7pzu7g)
 - [Top [20] Web Dev Videos You NEED to Watch! | STACKr News 2021 (February Week 1)](https://www.youtube.com/watch?v=b6rMI_h49fo)
 - [300+ FREE Developer Resources (2021) | Software & Web Development](https://www.youtube.com/watch?v=WS4CjQx4IUA)
 - [Orientação a Objetos : Introdução prática : Programação Orientada a Objetos](https://www.youtube.com/watch?v=aBhVJM31nBM)
 - [Top 20 Web Dev Videos You NEED to Watch! | STACKr News 2021 (January Week 4)](https://www.youtube.com/watch?v=GgVN0e0Trns)
-- [TypeScript Crash Course 2021 | The Basics From Scratch!](https://www.youtube.com/watch?v=wyO8RWl1ges)
 <!-- YOUTUBE:END -->
 
 
