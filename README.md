@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Try THIS GitHub 1 Second Shortcut Trick | VS Code in Browser!! (github1s)](https://www.youtube.com/watch?v=AXXwgJJVeiQ)
 - [HTML e CSS na prática: Projeto Catálogo de Carros](https://www.youtube.com/watch?v=WzO5QlkjVLA)
 - [Matrizes : Arranjos bidimensionais : Lógica de Programação](https://www.youtube.com/watch?v=whb0b7pzu7g)
 - [Top [20] Web Dev Videos You NEED to Watch! | STACKr News 2021 (February Week 1)](https://www.youtube.com/watch?v=b6rMI_h49fo)
 - [300+ FREE Developer Resources (2021) | Software & Web Development](https://www.youtube.com/watch?v=WS4CjQx4IUA)
-- [Orientação a Objetos : Introdução prática : Programação Orientada a Objetos](https://www.youtube.com/watch?v=aBhVJM31nBM)
 <!-- YOUTUBE:END -->
 
 
