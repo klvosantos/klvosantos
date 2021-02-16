@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Top Web Dev Videos You NEED to Watch! | STACKr News 2021 (February Week 2)](https://www.youtube.com/watch?v=V2HUBo0P_BA)
 - [Lista encadeada : Introdução prática : Estruturas de dados](https://www.youtube.com/watch?v=wRXdDK3zGZs)
 - [BEST Way to Build a DISCORD Slash Command BOT with Cloudflare Workers!! Deploy FREE!](https://www.youtube.com/watch?v=xRt9PwphmY8)
 - [Try THIS GitHub 1 Second Shortcut Trick | VS Code in Browser!! (github1s)](https://www.youtube.com/watch?v=AXXwgJJVeiQ)
 - [HTML e CSS na prática: Projeto Catálogo de Carros](https://www.youtube.com/watch?v=WzO5QlkjVLA)
-- [Matrizes : Arranjos bidimensionais : Lógica de Programação](https://www.youtube.com/watch?v=whb0b7pzu7g)
 <!-- YOUTUBE:END -->
 
 
