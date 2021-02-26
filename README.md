@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Generics : Fundamentos e prática : Programação orientada a objetos](https://www.youtube.com/watch?v=XuR756Q37bk)
 - [[#7] Top Web Dev Videos You NEED to Watch! (STACKr News 2021, Issue #7)](https://www.youtube.com/watch?v=pQyR71kNTo8)
 - [Top VS Code Updates | v1.53 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=vTf_KPsD0pQ)
 - [Node.js Crash Course for Beginners Tutorial - Learn Node Basics in 30 Minutes!](https://www.youtube.com/watch?v=2LUdnb-mls0)
 - [Lista encadeada : Introdução prática : Estruturas de dados](https://www.youtube.com/watch?v=wRXdDK3zGZs)
-- [[#6] Top Web Dev Videos You NEED to Watch! (STACKr News 2021, Issue #6)](https://www.youtube.com/watch?v=V2HUBo0P_BA)
 <!-- YOUTUBE:END -->
 
 
