@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [🛑 Don't MISS These Amazing Web Dev Videos! (STACKr News 2021, Issue #8)](https://www.youtube.com/watch?v=tSSzfT5Txv8)
+- [Don't MISS These Amazing Web Dev Videos! (STACKr News 2021, Issue #8)](https://www.youtube.com/watch?v=tSSzfT5Txv8)
 - [How To Write Clean Code! | JavaScript Pro Tips (2021)](https://www.youtube.com/watch?v=ZI3q-_vjSZE)
 - [Generics : Fundamentos e prática : Programação orientada a objetos](https://www.youtube.com/watch?v=XuR756Q37bk)
 - [[#7] Top Web Dev Videos You NEED to Watch! (STACKr News 2021, Issue #7)](https://www.youtube.com/watch?v=pQyR71kNTo8)
