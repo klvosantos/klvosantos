@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Estrutura for : Lógica de Programação](https://www.youtube.com/watch?v=KsGYZqQNK9k)
 - [Brackets is Dead | Switch to VS Code (Visual Studio Code Setup 2021)](https://www.youtube.com/watch?v=MQxLbUX5BFA)
 - [Map em Java : Aprenda na prática : Coleções](https://www.youtube.com/watch?v=c64a76Fen5U)
 - [[#8] Don't MISS These Amazing Web Dev Videos! (STACKr News 2021, Issue #8)](https://www.youtube.com/watch?v=tSSzfT5Txv8)
 - [How To Write Clean Code! | JavaScript Pro Tips (2021)](https://www.youtube.com/watch?v=ZI3q-_vjSZE)
-- [Generics : Fundamentos e prática : Programação orientada a objetos](https://www.youtube.com/watch?v=XuR756Q37bk)
 <!-- YOUTUBE:END -->
 
 
