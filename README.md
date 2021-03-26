@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Don't Mess Up This Technical Interview Question | Use JavaScript Map() & Set() Objects](https://www.youtube.com/watch?v=oMvzICS-9l4)
 - [Injeção de dependência no Spring : Aprenda desde a base](https://www.youtube.com/watch?v=WhJbchqq5bU)
 - [🔴 DevOps.js Conference Stream by GitNation // Day 1](https://www.youtube.com/watch?v=SmCvCjDnXMM)
 - [😢 STACKr News Canceled?? This Could Be The Last Issue (STACKr News 2021, Issue #11)](https://www.youtube.com/watch?v=jpox3uizTs8)
 - [10 Things I Wish I Knew Before I Started Programming](https://www.youtube.com/watch?v=x4gu6JGwKAI)
-- [[#10] Don't MISS These Amazing Web Dev Videos! (STACKr News 2021, Issue #10)](https://www.youtube.com/watch?v=xDVgpW1tig4)
 <!-- YOUTUBE:END -->
 
 
