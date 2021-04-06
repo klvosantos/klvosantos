@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tratamento de exceções : aprenda na prática : exemplo Java](https://www.youtube.com/watch?v=AiIuJqJ0r8A)
 - [I QUIT My Job as an Engineer...](https://www.youtube.com/watch?v=wskcgc2AeV8)
 - [Padrão camadas : como usar no Spring REST](https://www.youtube.com/watch?v=ZaNVBhZUFIg)
 - [Don't Mess Up This Technical Interview Question | Use JavaScript Map() & Set() Objects](https://www.youtube.com/watch?v=oMvzICS-9l4)
 - [Injeção de dependência no Spring : Aprenda desde a base](https://www.youtube.com/watch?v=WhJbchqq5bU)
-- [😢 STACKr News Canceled?? This Could Be The Last Issue (STACKr News 2021, Issue #11)](https://www.youtube.com/watch?v=jpox3uizTs8)
 <!-- YOUTUBE:END -->
 
 
