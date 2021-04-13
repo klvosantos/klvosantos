@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [JpaRepository : Interface boladona do Spring](https://www.youtube.com/watch?v=os6hdZbCnpM)
 - [Super revisão de OO e SQL - DevSuperior   Nelio Alves](https://www.youtube.com/watch?v=xC_yKw3MYX4)
 - [Web Development Tutorial (JavaScript, HTML, CSS) Rock Paper Scissors Game](https://www.youtube.com/watch?v=P_H4_miTKsI)
 - [🔴 React Summit: Remote Edition | GitNation // DAY 1](https://www.youtube.com/watch?v=1j56SavIeCs)
 - [Top VS Code Updates | v1.55 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=rXPmjkaTA9A)
-- [Tratamento de exceções : aprenda na prática : exemplo Java](https://www.youtube.com/watch?v=AiIuJqJ0r8A)
 <!-- YOUTUBE:END -->
 
 
