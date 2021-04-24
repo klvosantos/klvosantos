@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Vite 2.0 Crash Course | Super Fast Build Tool for JavaScript, React, Vue, Svelte, & Lit (2021)](https://www.youtube.com/watch?v=LQQ3CR2JTX8)
 - [Modelo de domínio : como implementar no Spring](https://www.youtube.com/watch?v=OX5MmJrFTdw)
 - [Edit Images in VS Code!?! | Luna Paint Extension](https://www.youtube.com/watch?v=I_6bZQZheC0)
 - [JpaRepository : Interface boladona do Spring](https://www.youtube.com/watch?v=os6hdZbCnpM)
 - [Super revisão de OO e SQL - DevSuperior   Nelio Alves](https://www.youtube.com/watch?v=xC_yKw3MYX4)
-- [Web Development Tutorial (JavaScript, HTML, CSS) Rock Paper Scissors Game](https://www.youtube.com/watch?v=P_H4_miTKsI)
 <!-- YOUTUBE:END -->
 
 
