@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Git e Github para iniciantes - Bem-vindos à playlist](https://www.youtube.com/watch?v=KLG-jC1fh28)
+- [Git e Github para iniciantes](https://www.youtube.com/watch?v=KLG-jC1fh28)
 - [Vite 2.0 Crash Course | Super Fast Build Tool for JavaScript, React, Vue, Svelte, & Lit (2021)](https://www.youtube.com/watch?v=LQQ3CR2JTX8)
 - [Modelo de domínio : como implementar no Spring](https://www.youtube.com/watch?v=OX5MmJrFTdw)
 - [Edit Images in VS Code!?! | Luna Paint Extension](https://www.youtube.com/watch?v=I_6bZQZheC0)
