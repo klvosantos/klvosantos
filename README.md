@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Semana Spring React Episódio 2](https://www.youtube.com/watch?v=e4tb5xRQOt8)
 - [Live especial : Semana Spring React](https://www.youtube.com/watch?v=Y94gVm80OLk)
 - [Semana Spring React Episódio 1](https://www.youtube.com/watch?v=ACgfVbm5_YQ)
 - [CSS Nesting Is Coming Soon! 🤯 How To Nest Selector Styles TODAY!! (2021)](https://www.youtube.com/watch?v=V7Xinz27XQA)
 - [Git e Github para iniciantes](https://www.youtube.com/watch?v=KLG-jC1fh28)
-- [Vite 2.0 Crash Course | Super Fast Build Tool for JavaScript, React, Vue, Svelte, & Lit (2021)](https://www.youtube.com/watch?v=LQQ3CR2JTX8)
 <!-- YOUTUBE:END -->
 
 
