@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Top VS Code Updates | v1.56 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=t4_h9DBF2hE)
 - [Semana Spring React Episódio 3](https://www.youtube.com/watch?v=aq6pSY2cfL4)
 - [Semana Spring React Episódio 2](https://www.youtube.com/watch?v=e4tb5xRQOt8)
 - [Live especial : Semana Spring React](https://www.youtube.com/watch?v=Y94gVm80OLk)
 - [Semana Spring React Episódio 1](https://www.youtube.com/watch?v=ACgfVbm5_YQ)
-- [CSS Nesting Is Coming Soon! 🤯 How To Nest Selector Styles TODAY!! (2021)](https://www.youtube.com/watch?v=V7Xinz27XQA)
 <!-- YOUTUBE:END -->
 
 
