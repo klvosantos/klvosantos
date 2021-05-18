@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 
 <!-- YOUTUBE:START -->
 - [Can You Code Without A Keyboard?? VS Code Voice ONLY Coding Challenge!](https://www.youtube.com/watch?v=2kJRuAmZgIA)
+- [Dúvidas Semana Spring React](https://www.youtube.com/watch?v=oBJ6oleu9BE)
 - [Top VS Code Updates | v1.56 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=t4_h9DBF2hE)
 - [CSS Nesting Is Coming Soon! 🤯 How To Nest Selector Styles TODAY!! (2021)](https://www.youtube.com/watch?v=V7Xinz27XQA)
-- [Vite 2.0 Crash Course | Super Fast Build Tool for JavaScript, React, Vue, Svelte, & Lit (2021)](https://www.youtube.com/watch?v=LQQ3CR2JTX8)
-- [Edit Images in VS Code!?! | Luna Paint Extension](https://www.youtube.com/watch?v=I_6bZQZheC0)
+- [Git e Github para iniciantes](https://www.youtube.com/watch?v=KLG-jC1fh28)
 <!-- YOUTUBE:END -->
 
 
