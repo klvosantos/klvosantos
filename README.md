@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 
 <!-- YOUTUBE:START -->
 - [Who Will Win? No-Code, Low-Code, AI. Should You Be Worried?](https://www.youtube.com/watch?v=0ldB86iVu9w)
-- [🔴 JSNation Live 2021 | The Biggest JavaScript Conference In The Cloud | GitNation // DAY 1](https://www.youtube.com/watch?v=XAMQBdQzWMI)
 - [ReactJS e CSS - Projeto player de música DSPlayer](https://www.youtube.com/watch?v=eD2rEVSQaU8)
 - [How To Manage Multiple APIs with RapidAPI (2021)](https://www.youtube.com/watch?v=NFToND6x_nI)
 - [How Core Web Vitals Will Affect Google Rankings in 2021 | Interview :: Lee Robinson](https://www.youtube.com/watch?v=-lcDZDfjekc)
+- [Build Fullstack Apps in Record Time with Blitz.js | Interview :: Brandon Bayer (2021)](https://www.youtube.com/watch?v=S9qqImLjJFY)
 <!-- YOUTUBE:END -->
 
 
