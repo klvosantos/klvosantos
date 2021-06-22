@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Secret Blog Writing Formula That Actually Works](https://www.youtube.com/watch?v=-7ztydZcSgY)
+- [How To Blog #short](https://www.youtube.com/watch?v=CGcv1wuwNG0)
+- [Keyword Research #short](https://www.youtube.com/watch?v=5X3NjLoqUgQ)
+- [Catchy Blog Titles #short](https://www.youtube.com/watch?v=gLwPcnaqSMc)
 - [Top VS Code Updates | v1.57 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=R6AgcZ9oJ4k)
-- [Everything New In React 18!](https://www.youtube.com/watch?v=t8E_xtofvVY)
-- [Who Will Win? No-Code, Low-Code, AI. Should You Be Worried?](https://www.youtube.com/watch?v=0ldB86iVu9w)
-- [ReactJS e CSS - Projeto player de música DSPlayer](https://www.youtube.com/watch?v=eD2rEVSQaU8)
-- [How To Manage Multiple APIs with RapidAPI (2021)](https://www.youtube.com/watch?v=NFToND6x_nI)
 <!-- YOUTUBE:END -->
 
 
