@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 
 <!-- YOUTUBE:START -->
 - [Terminal Linux no Windows com WSL](https://www.youtube.com/watch?v=trto4i0Olwg)
-- [The Origins of React // Jenn Creighton React Advanced London Interview](https://www.youtube.com/watch?v=lIJHjamOPfM)
-- [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60)
-- [⭐ BONUS: STACKr News Shorts - How To Accept Payments With Stripe](https://www.youtube.com/watch?v=dOnI3CtvFD4)
-- [Intentional Career Building with Kent C. Dodds // React Advanced London Interview](https://www.youtube.com/watch?v=1lxAnODL7GU)
+- [ReactJS e CSS - Projeto player de música DSPlayer](https://www.youtube.com/watch?v=eD2rEVSQaU8)
+- [Git e Github para iniciantes](https://www.youtube.com/watch?v=KLG-jC1fh28)
+- [Modelo de domínio : como implementar no Spring](https://www.youtube.com/watch?v=OX5MmJrFTdw)
+- [JpaRepository : Interface boladona do Spring](https://www.youtube.com/watch?v=os6hdZbCnpM)
 <!-- YOUTUBE:END -->
 
 
