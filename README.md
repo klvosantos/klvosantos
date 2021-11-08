@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 
 <!-- YOUTUBE:START -->
 - [Semana Spring React - Episódio 4](https://www.youtube.com/watch?v=FFXBXf5_2vg)
-- [Semana Spring React - Episódio 3](https://www.youtube.com/watch?v=i4PPYH5XT2s)
 - [STACKr News Weekly: What is DevOps? 🤔 Next.js 12 💪, Mr. Beast Collab! 🌊](https://www.youtube.com/watch?v=Rt6vtIxiJ4k)
 - [API Crash Course - Integrate, Build, &amp; Sell an API $$$ &lpar;EASY!&rpar;](https://www.youtube.com/watch?v=FMJwaA2WMjc)
 - [#TeamSeas - Let&#39;s Clean up our Oceans!! 🌊 #Shorts](https://www.youtube.com/watch?v=XyIXjjEW56w)
+- [EASY to add Animation to any Site! | #Teamseas website animation using GSAP](https://www.youtube.com/watch?v=0sxnQCfJL2g)
 <!-- YOUTUBE:END -->
 
 
