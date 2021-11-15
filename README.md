@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 TestJS Summit Live | Test with JavaScript | GitNation](https://www.youtube.com/watch?v=p4lUGK_J9KI)
 - [Entendendo Box Sizing do CSS](https://www.youtube.com/watch?v=fkaJ3qMPuMg)
 - [STACKr News Weekly: Learn to code FAST ⚡, Choose a DB in 9.49 min ⌛, BEST Blog app with React ⚛](https://www.youtube.com/watch?v=KZGzo0bkiLY)
 - [Top VS Code Updates | v1.62 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=JENei5X1vzs)
 - [Semana Spring React - Episódio 4](https://www.youtube.com/watch?v=FFXBXf5_2vg)
-- [STACKr News Weekly: What is DevOps? 🤔 Next.js 12 💪, Mr. Beast Collab! 🌊](https://www.youtube.com/watch?v=Rt6vtIxiJ4k)
 <!-- YOUTUBE:END -->
 
 
