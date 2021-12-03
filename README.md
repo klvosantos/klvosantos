@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [My ULTIMATE 2021 Studio Tour!! - How I Make My Videos - Welcome to STACKr Studio!!](https://www.youtube.com/watch?v=fSsfuyRgCZI)
 - [INNER JOIN vs LEFT JOIN - Estudo de caso SQL](https://www.youtube.com/watch?v=UAdgclFF1cs)
 - [STACKr News Weekly - Cyber Monday Sale: Crypto 💲, Self-Taught Programmers 📚, JavaScript 🆚 React](https://www.youtube.com/watch?v=zt6uMtxrq8M)
 - [Padrão camadas teoria e prática com Java e Spring](https://www.youtube.com/watch?v=7HvOBCqHWvA)
 - [STACKr News Weekly: Quit to build a Game Studio, 10 Ways - better Developer, Move to a boring city!](https://www.youtube.com/watch?v=R_XwamGcCBQ)
-- [Consultas com Query Methods e ORDER BY no Spring Boot](https://www.youtube.com/watch?v=THu5p7aIw-E)
 <!-- YOUTUBE:END -->
 
 
