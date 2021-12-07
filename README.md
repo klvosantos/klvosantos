@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [STACKr News Weekly: Developer Trends 2022 🔥, Studio Tour 📷, 5 Steps to become a Programmer 5️⃣](https://www.youtube.com/watch?v=Pqa55L8Yjvw)
 - [JavaScript Funções Construtoras e Prototype](https://www.youtube.com/watch?v=cSFskNH1E5k)
 - [My ULTIMATE 2021 Studio Tour!! - How I Make My Videos - Welcome to STACKr Studio!!](https://www.youtube.com/watch?v=fSsfuyRgCZI)
 - [INNER JOIN vs LEFT JOIN - Estudo de caso SQL](https://www.youtube.com/watch?v=UAdgclFF1cs)
 - [STACKr News Weekly - Cyber Monday Sale: Crypto 💲, Self-Taught Programmers 📚, JavaScript 🆚 React](https://www.youtube.com/watch?v=zt6uMtxrq8M)
-- [Java e Spring: camadas, ORM, DTO](https://www.youtube.com/watch?v=7HvOBCqHWvA)
 <!-- YOUTUBE:END -->
 
 
