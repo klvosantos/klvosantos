@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Treinamento gratuito full stack dias 10 a 16. Conheça o app que vamos desenvolver.](https://www.youtube.com/watch?v=yUap8HpPzdk)
 - [Seu primeiro projeto Java web no Spring Boot 2022](https://www.youtube.com/watch?v=D4frmIHAxEY)
 - [STACKr News Weekly: Quit Google, GoLang Course, Rewind 2021: Coding Edition](https://www.youtube.com/watch?v=KBSRZh8HQ4M)
 - [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips &amp; Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
 - [React Datepicker para data local e timestamp](https://www.youtube.com/watch?v=iYZryimRK9w)
-- [STACKr News Weekly: 2022 Web Dev Roadmap 🛣, Sabotaging your career? 🐱‍👤, It&#39;s ok to take a break 🏖](https://www.youtube.com/watch?v=zrEKyscb15A)
 <!-- YOUTUBE:END -->
 
 
