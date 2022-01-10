@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Semana Spring React Episódio 1](https://www.youtube.com/watch?v=NMaSpjVilcM)
 - [MySQL no Docker para desenvolvedores](https://www.youtube.com/watch?v=NB90MurXiQo)
 - [How To List &amp; Reveal An ENTIRE NFT Collection &lpar;10,000+&rpar; Without Coding Knowledge on OpenSea](https://www.youtube.com/watch?v=Iy1n_LxUwZs)
 - [Treinamento gratuito full stack dias 10 a 16. Conheça o app que vamos desenvolver.](https://www.youtube.com/watch?v=yUap8HpPzdk)
 - [Seu primeiro projeto Java web no Spring Boot 2022](https://www.youtube.com/watch?v=D4frmIHAxEY)
-- [STACKr News Weekly: Quit Google, GoLang Course, Rewind 2021: Coding Edition](https://www.youtube.com/watch?v=KBSRZh8HQ4M)
 <!-- YOUTUBE:END -->
 
 
