@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Semana Spring React Episodio 3](https://www.youtube.com/watch?v=VF_316XYjJk)
 - [Semana Spring React Episódio 2](https://www.youtube.com/watch?v=h6VC9mZwNnY)
 - [STACKr News Weekly: Top Paying Tech Jobs in 2022, Visual Studio Code 2022, Code a 2D Game](https://www.youtube.com/watch?v=fnvYfRcfRIU)
 - [10 Life-Saving JavaScript One-Liners 🔥 CODE LIKE A PRO 2022](https://www.youtube.com/watch?v=tfdD9y6AMiE)
 - [Semana Spring React Episódio 1](https://www.youtube.com/watch?v=NMaSpjVilcM)
-- [MySQL no Docker para desenvolvedores](https://www.youtube.com/watch?v=NB90MurXiQo)
 <!-- YOUTUBE:END -->
 
 
