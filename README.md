@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Student, Developer!
 
-- 🌱 I’m currently learning everything related to Spring, react in general 🤣
+- 🌱 I’m currently learning everything related to Spring, React and Blockchain🤣
 - 🥅 2022 Goals: Contribute to Open Source projects, blockchain projects, and be more fluent on technologies mentioned above.
 
 
@@ -44,6 +44,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Java" width="30px" src="https://github.com/klvosantos/assets/blob/main/icons/java.png" />
 <img align="left" alt="jUnit" width="30px" src="https://github.com/klvosantos/assets/blob/main/icons/junit.png" />
 <img align="left" alt="Mockito" width="30px" src="https://github.com/klvosantos/assets/blob/main/icons/mockito.png" />
+<img align="left" alt="Mockito" width="30px" src="https://raw.githubusercontent.com/klvosantos/assets/main/icons/Blockchain.jpg" />
+
+
 
 <br />
 <br />
