@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Student, Developer!
 
 - 🌱 I’m currently learning everything related to Spring, react in general 🤣
-- 🥅 2021 Goals: Contribute to Open Source projects and be more fluent on technologies mentioned above.
+- 🥅 2022 Goals: Contribute to Open Source projects, blockchain projects, and be more fluent on technologies mentioned above.
 
 
 <br />
