@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 <!-- YOUTUBE:START -->
 - [Semana Spring React - resumo, dúvidas, cursos](https://www.youtube.com/watch?v=d75BDOOataI)
 - [STEP BY STEP Create LAYERS for your 10,000 NFT Collection for FREE - Make NFTs in Photoshop or Figma](https://www.youtube.com/watch?v=k72aCI1VyKM)
-- [Semana Spring React Episódio 3](https://www.youtube.com/watch?v=NsIkwuog6So)
-- [Semana Spring React Episódio 2](https://www.youtube.com/watch?v=h6VC9mZwNnY)
 - [STACKr News Weekly: Top Paying Tech Jobs in 2022, Visual Studio Code 2022, Code a 2D Game](https://www.youtube.com/watch?v=fnvYfRcfRIU)
+- [10 Life-Saving JavaScript One-Liners 🔥 CODE LIKE A PRO 2022](https://www.youtube.com/watch?v=tfdD9y6AMiE)
+- [MySQL no Docker para desenvolvedores](https://www.youtube.com/watch?v=NB90MurXiQo)
 <!-- YOUTUBE:END -->
 
 
