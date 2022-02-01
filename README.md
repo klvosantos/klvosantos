@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [STACKr News Weekly: Trade Stocks with JavaScript, Create an NFT Landing Page, Ultimate Pandas Guide!](https://www.youtube.com/watch?v=_fuYgCxbvLw)
 - [How To Google Like A Pro! Top 18 Google Search Tips &amp; Tricks 2022](https://www.youtube.com/watch?v=LrVN52dhRxY)
 - [Configurar Eclipse: plugin Spring Tools e versão do Java](https://www.youtube.com/watch?v=hytIn5-Wws4)
 - [How to create an NFT website landing page &amp; Deploy for FREE &lpar;Complete tutorial | EASY!&rpar;](https://www.youtube.com/watch?v=WZQSVv67NBc)
 - [STACKr News Weekly: Crypto, Tech Jobs, and Remix](https://www.youtube.com/watch?v=UUjIUNMlFno)
-- [AngularJS is Dead](https://www.youtube.com/watch?v=y4I_ITZIpxM)
 <!-- YOUTUBE:END -->
 
 
