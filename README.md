@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [STACKr News Weekly: Coding WORDLE, Markdown Crash Course, Build Frogger with JavaScript](https://www.youtube.com/watch?v=ZX6J28qJCrw)
 - [Tutorial Git e Github - Introdução prática para iniciantes](https://www.youtube.com/watch?v=_hZf1teRFNg)
 - [🔴 Node Congress Live Stream](https://www.youtube.com/watch?v=xBICbUafQrw)
 - [GitHub Profile README Image Hacks](https://www.youtube.com/watch?v=jHr6Pc8oQjM)
 - [Markdown Tips &amp; Tricks 2022 - Markdown Crash Course](https://www.youtube.com/watch?v=ftOBvusMHjQ)
-- [STACKr News Weekly: FAANG, 2022 Developer Roadmap, In-Demand Tech Roles](https://www.youtube.com/watch?v=Cl1hMoUlXfE)
 <!-- YOUTUBE:END -->
 
 
