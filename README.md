@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 - [ERC-20 vs ERC-721 vs ERC-1155 | &lpar;Non&rpar;Fungible Token Contracts Explained | FT vs NFT](https://www.youtube.com/watch?v=_rxHurlszUE)
 - [STACKr News Weekly: Coding WORDLE, Markdown Crash Course, Build Frogger with JavaScript](https://www.youtube.com/watch?v=ZX6J28qJCrw)
 - [Tutorial Git e Github - Introdução prática para iniciantes](https://www.youtube.com/watch?v=_hZf1teRFNg)
-- [🔴 Node Congress Live Stream](https://www.youtube.com/watch?v=xBICbUafQrw)
+- [GitHub Profile README Image Hacks](https://www.youtube.com/watch?v=jHr6Pc8oQjM)
 <!-- YOUTUBE:END -->
 
 
