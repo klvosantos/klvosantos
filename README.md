@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [STACKr News Weekly: BIG Next.js Update!, ERC Contracts Explained, Kubernetes What??](https://www.youtube.com/watch?v=PaSCBCWtZnE)
 - [Consultas SQL Nativo com Spring Boot e Java](https://www.youtube.com/watch?v=nYF5AtVciOc)
 - [ERC-20 vs ERC-721 vs ERC-1155 | &lpar;Non&rpar;Fungible Token Contracts Explained | FT vs NFT](https://www.youtube.com/watch?v=_rxHurlszUE)
 - [STACKr News Weekly: Coding WORDLE, Markdown Crash Course, Build Frogger with JavaScript](https://www.youtube.com/watch?v=ZX6J28qJCrw)
 - [Tutorial Git e Github - Introdução prática para iniciantes](https://www.youtube.com/watch?v=_hZf1teRFNg)
-- [GitHub Profile README Image Hacks](https://www.youtube.com/watch?v=jHr6Pc8oQjM)
 <!-- YOUTUBE:END -->
 
 
