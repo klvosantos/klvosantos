@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ERC-721 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=UCQaEbIyHcM)
 - [Como encontrar motivação para estudar programação](https://www.youtube.com/watch?v=eOek_XEj2Hk)
 - [ERC-20 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=v5BPna3v1Pw)
 - [What the Heck is ERC!? Ethereum Blockchain](https://www.youtube.com/watch?v=hf-Qk0Hx00E)
 - [STACKr News Weekly: BIG Next.js Update!, ERC Contracts Explained, Kubernetes What??](https://www.youtube.com/watch?v=PaSCBCWtZnE)
-- [Consultas SQL Nativo com Spring Boot e Java](https://www.youtube.com/watch?v=nYF5AtVciOc)
 <!-- YOUTUBE:END -->
 
 
