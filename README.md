@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [ERC-1155 Contracts Explained | Ethereum Blockchain](https://www.youtube.com/watch?v=S-2TuS9ISAg)
-- [ERC-721 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=UCQaEbIyHcM)
 - [Como encontrar motivação para estudar programação](https://www.youtube.com/watch?v=eOek_XEj2Hk)
-- [ERC-20 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=v5BPna3v1Pw)
-- [What the Heck is ERC!? Ethereum Blockchain](https://www.youtube.com/watch?v=hf-Qk0Hx00E)
+- [Consultas SQL Nativo com Spring Boot e Java](https://www.youtube.com/watch?v=nYF5AtVciOc)
+- [Tutorial Git e Github 2022 - Introdução prática para iniciantes](https://www.youtube.com/watch?v=_hZf1teRFNg)
+- [Enum com Java e Spring Boot](https://www.youtube.com/watch?v=YzDcDNPo4KI)
+- [Configurar Eclipse: plugin Spring Tools e versão do Java](https://www.youtube.com/watch?v=hytIn5-Wws4)
 <!-- YOUTUBE:END -->
 
 
