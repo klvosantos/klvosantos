@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Semana Spring React - Trilha profissional - Episódio 2](https://www.youtube.com/watch?v=7831wco6Wfo)
+- [Semana Spring React - Trilha para iniciantes - Episódio 2](https://www.youtube.com/watch?v=Op5zWBc8zfY)
 - [Aula ao vivo especial - Semana Spring React](https://www.youtube.com/watch?v=8bgL_r10_0s)
 - [Semana Spring React - Trilha para iniciantes - Episódio 1](https://www.youtube.com/watch?v=Z8ZCEx6XoT8)
 - [Semana Spring React - Trilha Profissionalizante - Episódio 1](https://www.youtube.com/watch?v=pvqmDcQNDz8)
-- [STOP!! Know Before You Buy or Sell! Is Your NFT Rare? - NFT Rarity Calculator](https://www.youtube.com/watch?v=Uz1y4j9gvP8)
-- [ERC-1155 Contracts Explained | Ethereum Blockchain](https://www.youtube.com/watch?v=S-2TuS9ISAg)
 <!-- YOUTUBE:END -->
 
 
