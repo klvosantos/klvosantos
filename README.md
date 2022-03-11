@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Semana Spring React - Trilha para iniciantes - Episódio 3](https://www.youtube.com/watch?v=7G5PF-INO8w)
+- [Semana Spring React - Trilha profissional - Episódio 3](https://www.youtube.com/watch?v=USQAe3w0bsk)
 - [NEW: How To Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT With ZERO Coding Knowledge - v2.0.0](https://www.youtube.com/watch?v=quGdJweadFM)
 - [Semana Spring React - Trilha profissional - Episódio 2](https://www.youtube.com/watch?v=7831wco6Wfo)
 - [Semana Spring React - Trilha para iniciantes - Episódio 2](https://www.youtube.com/watch?v=Op5zWBc8zfY)
-- [Aula ao vivo especial - Semana Spring React](https://www.youtube.com/watch?v=8bgL_r10_0s)
-- [Semana Spring React - Trilha para iniciantes - Episódio 1](https://www.youtube.com/watch?v=Z8ZCEx6XoT8)
 <!-- YOUTUBE:END -->
 
 
