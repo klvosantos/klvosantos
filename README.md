@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 
 <!-- YOUTUBE:START -->
 - [Semana Spring React - Episódio 4](https://www.youtube.com/watch?v=xVaRrdAs5NI)
-- [Semana Spring React - Trilha para iniciantes - Episódio 3](https://www.youtube.com/watch?v=7G5PF-INO8w)
-- [Semana Spring React - Trilha profissional - Episódio 3](https://www.youtube.com/watch?v=USQAe3w0bsk)
 - [NEW: How To Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT With ZERO Coding Knowledge - v2.0.0](https://www.youtube.com/watch?v=quGdJweadFM)
-- [Semana Spring React - Trilha profissional - Episódio 2](https://www.youtube.com/watch?v=7831wco6Wfo)
+- [Aula ao vivo especial - Semana Spring React](https://www.youtube.com/watch?v=8bgL_r10_0s)
+- [STOP!! Know Before You Buy or Sell! Is Your NFT Rare? - NFT Rarity Calculator](https://www.youtube.com/watch?v=Uz1y4j9gvP8)
+- [ERC-1155 Contracts Explained | Ethereum Blockchain](https://www.youtube.com/watch?v=S-2TuS9ISAg)
 <!-- YOUTUBE:END -->
 
 
