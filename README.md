@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Recado para os alunos sobre os conteúdos do curso Formação Desenvolvedor Moderno](https://www.youtube.com/watch?v=XWUiMYLKE2Q)
 - [Semana Spring React - Episódio 4](https://www.youtube.com/watch?v=xVaRrdAs5NI)
 - [BEST PFP Generator: Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT With ZERO Coding Knowledge](https://www.youtube.com/watch?v=quGdJweadFM)
 - [Aula ao vivo especial - Semana Spring React](https://www.youtube.com/watch?v=8bgL_r10_0s)
 - [STOP!! Know Before You Buy or Sell! Is Your NFT Rare? - NFT Rarity Calculator](https://www.youtube.com/watch?v=Uz1y4j9gvP8)
-- [ERC-1155 Contracts Explained | Ethereum Blockchain](https://www.youtube.com/watch?v=S-2TuS9ISAg)
 <!-- YOUTUBE:END -->
 
 
