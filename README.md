@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 - [EASY Minting dApp with WHITELISTING - Entire Process!! Launch an Entire NFT Collection &lpar;10,000+&rpar;](https://www.youtube.com/watch?v=cLB7u0KQFIs)
 - [Recado para os alunos sobre os conteúdos do curso Formação Desenvolvedor Moderno](https://www.youtube.com/watch?v=XWUiMYLKE2Q)
 - [UPDATED: Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT With ZERO Coding Knowledge - PFP Generator](https://www.youtube.com/watch?v=quGdJweadFM)
-- [Aula ao vivo especial - Semana Spring React](https://www.youtube.com/watch?v=8bgL_r10_0s)
 - [STOP!! Know Before You Buy or Sell! Is Your NFT Rare? - NFT Rarity Calculator](https://www.youtube.com/watch?v=Uz1y4j9gvP8)
+- [ERC-1155 Contracts Explained | Ethereum Blockchain](https://www.youtube.com/watch?v=S-2TuS9ISAg)
 <!-- YOUTUBE:END -->
 
 
