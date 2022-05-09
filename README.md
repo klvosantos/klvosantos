@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Semana Spring React - Episódio 1 - Trilha para iniciantes](https://www.youtube.com/watch?v=2WQRQ0ctyNs)
+- [Semana Spring React - Episódio 1 - Trilha Profissional](https://www.youtube.com/watch?v=MklJAM97GfY)
 - [Lembrete: começa dia 9 a Semana Spring React](https://www.youtube.com/watch?v=n7dIzzE5Jbk)
 - [The Edge is the Future! What are Edge Functions? Exploring Netlify Edge Functions](https://www.youtube.com/watch?v=mQwWWxYd-SY)
 - [Fastest Upgrade to React 18!! Only 1 Second! 🤯](https://www.youtube.com/watch?v=JLyVyURIWG0)
-- [5 Reasons You Should NOT Create an NFT Collection!!](https://www.youtube.com/watch?v=1ktrrwasouc)
-- [Do You Need To Know Web Dev To Become A Web3 Developer? With Hashlips](https://www.youtube.com/watch?v=oQBRZMo0e34)
 <!-- YOUTUBE:END -->
 
 
