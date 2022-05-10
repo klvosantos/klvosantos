@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Aula ao vivo especial: Jogo de combate &lpar;estudo de caso&rpar;](https://www.youtube.com/watch?v=4aP0i_tIQX8)
 - [Semana Spring React - Episódio 1 - Trilha para iniciantes](https://www.youtube.com/watch?v=2WQRQ0ctyNs)
 - [Semana Spring React - Episódio 1 - Trilha Profissional](https://www.youtube.com/watch?v=MklJAM97GfY)
 - [Lembrete: começa dia 9 a Semana Spring React](https://www.youtube.com/watch?v=n7dIzzE5Jbk)
 - [The Edge is the Future! What are Edge Functions? Exploring Netlify Edge Functions](https://www.youtube.com/watch?v=mQwWWxYd-SY)
-- [Fastest Upgrade to React 18!! Only 1 Second! 🤯](https://www.youtube.com/watch?v=JLyVyURIWG0)
 <!-- YOUTUBE:END -->
 
 
