@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 
 <!-- YOUTUBE:START -->
 - [Semana Spring React - Episódio 4](https://www.youtube.com/watch?v=fMSTZnn9GOo)
-- [Semana Spring React - Episódio 3 - Trilha Profissional](https://www.youtube.com/watch?v=06pjfN7mkT0)
-- [Semana Spring React - Episódio 3 - Trilha para iniciantes](https://www.youtube.com/watch?v=r2G7gLdpE9U)
-- [Semana Spring React - Episódio 2 - Trilha Profissional](https://www.youtube.com/watch?v=yesisPRB1NQ)
-- [Semana Spring React - Episódio 2 - Trilha para iniciantes](https://www.youtube.com/watch?v=HUy0ynIMu8Y)
+- [Aula ao vivo especial: Jogo de combate &lpar;estudo de caso&rpar;](https://www.youtube.com/watch?v=4aP0i_tIQX8)
+- [The Edge is the Future! What are Edge Functions? Exploring Netlify Edge Functions](https://www.youtube.com/watch?v=mQwWWxYd-SY)
+- [Fastest Upgrade to React 18!! Only 1 Second! 🤯](https://www.youtube.com/watch?v=JLyVyURIWG0)
+- [5 Reasons You Should NOT Create an NFT Collection!!](https://www.youtube.com/watch?v=1ktrrwasouc)
 <!-- YOUTUBE:END -->
 
 
