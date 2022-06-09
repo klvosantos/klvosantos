@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 React Summit 2022 LIVE](https://www.youtube.com/watch?v=un4Ka7S9Kz0)
+- [🔴 JSNation 2022 LIVE](https://www.youtube.com/watch?v=I96NaUIFTog)
 - [Quando usar o void em uma função? Exemplo em Java](https://www.youtube.com/watch?v=UlvasL3R1ZU)
 - [Withdraw Funds from ANY NFT Contract!!](https://www.youtube.com/watch?v=v-udnslmqIE)
 - [Diferença entre parâmetro e argumento](https://www.youtube.com/watch?v=UWd5FfnPB9U)
-- [Semana Spring React - Episódio 4](https://www.youtube.com/watch?v=fMSTZnn9GOo)
-- [Aula ao vivo especial: Jogo de combate &lpar;estudo de caso&rpar;](https://www.youtube.com/watch?v=4aP0i_tIQX8)
 <!-- YOUTUBE:END -->
 
 
