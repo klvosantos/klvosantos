@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 <!-- YOUTUBE:START -->
 - [Aula sobre estrutura Map no Java com exemplo prático](https://www.youtube.com/watch?v=wzJTpzHHoVg)
 - [🔴 React Summit 2022 LIVE](https://www.youtube.com/watch?v=un4Ka7S9Kz0)
-- [🔴 JSNation 2022 LIVE](https://www.youtube.com/watch?v=I96NaUIFTog)
 - [Quando usar o void em uma função? Exemplo em Java](https://www.youtube.com/watch?v=UlvasL3R1ZU)
 - [Withdraw Funds from ANY NFT Contract!!](https://www.youtube.com/watch?v=v-udnslmqIE)
+- [Diferença entre parâmetro e argumento](https://www.youtube.com/watch?v=UWd5FfnPB9U)
 <!-- YOUTUBE:END -->
 
 
