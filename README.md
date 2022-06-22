@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Web3 Discussion Panel featuring Hashlips, codeSTACKr, plus special guests!](https://www.youtube.com/watch?v=UMK_6D7ApSE)
 - [Aula sobre estrutura Map no Java com exemplo prático](https://www.youtube.com/watch?v=wzJTpzHHoVg)
 - [Quando usar o void em uma função? Exemplo em Java](https://www.youtube.com/watch?v=UlvasL3R1ZU)
 - [Withdraw Funds from ANY NFT Contract!!](https://www.youtube.com/watch?v=v-udnslmqIE)
 - [Diferença entre parâmetro e argumento](https://www.youtube.com/watch?v=UWd5FfnPB9U)
+- [Semana Spring React - Episódio 4](https://www.youtube.com/watch?v=fMSTZnn9GOo)
 <!-- YOUTUBE:END -->
 
 
