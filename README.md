@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Learning to code is HARD - Unless you do this!](https://www.youtube.com/watch?v=VGGWcy6__Fg)
 - [HTML e CSS a partir do Figma 2/2: Preparação para Semana Spring React](https://www.youtube.com/watch?v=EsQ07Og1yFM)
 - [Web3 101: What is an ERC1155 Smart Contract?](https://www.youtube.com/watch?v=q0M21Gk1ZnI)
 - [HTML e CSS a partir do Figma 1/2: Preparação para Semana Spring React](https://www.youtube.com/watch?v=FYgIpVf9TBI)
 - [Web3 101: What is an ERC721/a Smart Contract?](https://www.youtube.com/watch?v=_XAxn0glwAI)
-- [Web3 101: What Is A Blockchain?](https://www.youtube.com/watch?v=145m3Ev4zbo)
 <!-- YOUTUBE:END -->
 
 
