@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Aula ao vivo especial - Banco de dados - conceitual vs. relacional](https://www.youtube.com/watch?v=koqMgHSG6Bw)
 - [Semana Spring React - Episódio 1 - Seja um desenvolvedor profissional](https://www.youtube.com/watch?v=Bmg-6ry12po)
 - [Learning to code is HARD - Unless you do this!](https://www.youtube.com/watch?v=VGGWcy6__Fg)
 - [HTML e CSS a partir do Figma 2/2: Preparação para Semana Spring React](https://www.youtube.com/watch?v=EsQ07Og1yFM)
 - [Web3 101: What is an ERC1155 Smart Contract?](https://www.youtube.com/watch?v=q0M21Gk1ZnI)
-- [HTML e CSS a partir do Figma 1/2: Preparação para Semana Spring React](https://www.youtube.com/watch?v=FYgIpVf9TBI)
 <!-- YOUTUBE:END -->
 
 
