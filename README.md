@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 
 <!-- YOUTUBE:START -->
 - [Semana Spring React - Episódio 4 - Seja um desenvolvedor profissional](https://www.youtube.com/watch?v=ZxQwfnHQ92Y)
-- [Semana Spring React - Episódio 3 - Seja um desenvolvedor profissional](https://www.youtube.com/watch?v=2D-dPkxEd2M)
-- [Semana Spring React - Episódio 2 &lpar;repost&rpar; - Seja um desenvolvedor profissional](https://www.youtube.com/watch?v=kMlWQ_p29cs)
 - [Aula ao vivo especial - Banco de dados - conceitual vs. relacional](https://www.youtube.com/watch?v=koqMgHSG6Bw)
-- [Semana Spring React - Episódio 1 - Seja um desenvolvedor profissional](https://www.youtube.com/watch?v=Bmg-6ry12po)
+- [Learning to code is HARD - Unless you do this!](https://www.youtube.com/watch?v=VGGWcy6__Fg)
+- [HTML e CSS a partir do Figma 2/2: Preparação para Semana Spring React](https://www.youtube.com/watch?v=EsQ07Og1yFM)
+- [Web3 101: What is an ERC1155 Smart Contract?](https://www.youtube.com/watch?v=q0M21Gk1ZnI)
 <!-- YOUTUBE:END -->
 
 
