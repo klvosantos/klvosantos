@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Top VS Code Updates | v1.69 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=2ncAmRBCN1w)
+- [Top VS Code Updates | v1.69 Released!! | Tips &amp; Tricks 2022 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=2ncAmRBCN1w)
 - [Semana Spring React - Episódio 4 - Seja um desenvolvedor profissional](https://www.youtube.com/watch?v=ZxQwfnHQ92Y)
 - [Aula ao vivo especial - Banco de dados - conceitual vs. relacional](https://www.youtube.com/watch?v=koqMgHSG6Bw)
 - [Learning to code is HARD - Unless you do this!](https://www.youtube.com/watch?v=VGGWcy6__Fg)
