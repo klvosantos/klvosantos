@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [JavaScript Variables](https://www.youtube.com/watch?v=oXegXhqGQ30)
 - [What is JavaScript? Click to watch more 👇](https://www.youtube.com/watch?v=asyHJSlYwX0)
 - [Free Up Disk Space NOW!! No More node_modules Folders Taking Up Space!!](https://www.youtube.com/watch?v=OuuO6EM7DL0)
 - [Intellij e Java - Tutorial como usar em 2022-2 - Integrado JDK WSL Linux](https://www.youtube.com/watch?v=0_e9Egeyk2E)
 - [Manipulando arquivos e pastas com Java](https://www.youtube.com/watch?v=bIPd_451uEg)
-- [Data e hora em Java Aulão completo LocalDate Instant LocalDateTime](https://www.youtube.com/watch?v=WnJUI-jMQGE)
 <!-- YOUTUBE:END -->
 
 
