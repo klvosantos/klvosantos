@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Semana Spring React - Episódio 3 - Seja um desenvolvedor profissional](https://www.youtube.com/watch?v=-y0vg0mb2L8)
 - [Semana Spring React - Episódio 2 - Seja um desenvolvedor profissional](https://www.youtube.com/watch?v=Tp56F4cEUKI)
 - [Aula ao vivo especial - ORM - Como sistemas modernos acessam banco de dados relacional](https://www.youtube.com/watch?v=nW0k-BSrbbk)
 - [Semana Spring React - Episódio 1 - Seja um desenvolvedor profissional](https://www.youtube.com/watch?v=t8CQ6ILCGaM)
 - [Learning to Code is NOT Hard!!](https://www.youtube.com/watch?v=5jzIjU7Ed9o)
-- [12 ways to center a div](https://www.youtube.com/watch?v=WM02RIeE1Fs)
 <!-- YOUTUBE:END -->
 
 
