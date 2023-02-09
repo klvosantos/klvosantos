@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Modelo de dados não normalizado: como identificar?](https://www.youtube.com/watch?v=LvTlA1VoLsg)
 - [Position relative no CSS](https://www.youtube.com/watch?v=cgkZlUadYrM)
 - [Best CSS Tool for VS Code!! 🪞 Mirror Editing](https://www.youtube.com/watch?v=ELVkK-N3kBs)
 - [The FASTEST Way to Learn to Code &amp; Become a Successful Web Developer](https://www.youtube.com/watch?v=LIxBJ_jw9tE)
 - [Efeito circular no CSS com border-radius 50%](https://www.youtube.com/watch?v=J1mlWPZUr0A)
-- [🛑 STOP Renaming Things in VS Code This Way!](https://www.youtube.com/watch?v=83Bk97PqaW4)
 <!-- YOUTUBE:END -->
 
 
