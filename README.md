@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Pro Tip 🔥 Multiple Terminal Management in VS Code](https://www.youtube.com/watch?v=i90sURfAXYw)
 - [Modelo de dados não normalizado: como identificar?](https://www.youtube.com/watch?v=LvTlA1VoLsg)
 - [Position relative no CSS](https://www.youtube.com/watch?v=cgkZlUadYrM)
 - [Best CSS Tool for VS Code!! 🪞 Mirror Editing](https://www.youtube.com/watch?v=ELVkK-N3kBs)
 - [The FASTEST Way to Learn to Code &amp; Become a Successful Web Developer](https://www.youtube.com/watch?v=LIxBJ_jw9tE)
-- [Efeito circular no CSS com border-radius 50%](https://www.youtube.com/watch?v=J1mlWPZUr0A)
 <!-- YOUTUBE:END -->
 
 
