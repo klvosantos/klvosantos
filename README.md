@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔥 Best Shortcut You Didn’t Know!!](https://www.youtube.com/watch?v=oSLDZGUQN2A)
 - [Como resolver bugs no projeto Java Spring &lpar;exemplo real&rpar;](https://www.youtube.com/watch?v=G-Dlito6Zkw)
 - [Top 10 VS Code Keyboard Shortcuts You Must Learn to Use!](https://www.youtube.com/watch?v=rwc0Pr8ANpQ)
 - [Pro Tip 🔥 Multiple Terminal Management in VS Code](https://www.youtube.com/watch?v=i90sURfAXYw)
 - [Modelo de dados não normalizado: como identificar?](https://www.youtube.com/watch?v=LvTlA1VoLsg)
-- [Position relative no CSS](https://www.youtube.com/watch?v=cgkZlUadYrM)
 <!-- YOUTUBE:END -->
 
 
