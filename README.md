@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Pimp my Font - VS Code Style](https://www.youtube.com/watch?v=3S6Fot3oQ1g)
 - [As duas etapas para resolver um problema](https://www.youtube.com/watch?v=S6XGOpuKDrY)
 - [Ao analisar um problema, não deixe de conferir os cálculos](https://www.youtube.com/watch?v=2NRxEQHhAbE)
 - [🔥 Best Shortcut You Didn’t Know!!](https://www.youtube.com/watch?v=oSLDZGUQN2A)
 - [Como resolver bugs no projeto Java Spring &lpar;exemplo real&rpar;](https://www.youtube.com/watch?v=G-Dlito6Zkw)
-- [Top 10 VS Code Keyboard Shortcuts You Must Learn to Use!](https://www.youtube.com/watch?v=rwc0Pr8ANpQ)
 <!-- YOUTUBE:END -->
 
 
