@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring está para Java assim como React está para Javascript](https://www.youtube.com/watch?v=DrdVxr9D2gc)
 - [A santa trindade da web: HTML, CSS e Javascript](https://www.youtube.com/watch?v=1ZOlMGQ1uQ4)
 - [Pimp my Font - VS Code Style](https://www.youtube.com/watch?v=3S6Fot3oQ1g)
 - [As duas etapas para resolver um problema](https://www.youtube.com/watch?v=S6XGOpuKDrY)
 - [Ao analisar um problema, não deixe de conferir os cálculos](https://www.youtube.com/watch?v=2NRxEQHhAbE)
-- [🔥 Best Shortcut You Didn’t Know!!](https://www.youtube.com/watch?v=oSLDZGUQN2A)
 <!-- YOUTUBE:END -->
 
 
