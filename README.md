@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring e React: estudar ambos ao mesmo tempo, ou um de cada vez?](https://www.youtube.com/watch?v=eyYoX7jeIg4)
 - [Exercício de programação orientada a objetos combate dos campeões](https://www.youtube.com/watch?v=V3Xc0Dcp7Eg)
 - [Exemplo de composição de objetos](https://www.youtube.com/watch?v=0oqmOHIfUmc)
 - [Casos de uso efetivos devem especificar entradas e saídas](https://www.youtube.com/watch?v=IiT3-QOVlIU)
 - [Validação de dados deve ser no back end ou front end?](https://www.youtube.com/watch?v=FSdQZM8t9o8)
-- [Quem é júnior não vai modelar dados de um sistema, mas...](https://www.youtube.com/watch?v=Suh66N8Xg4c)
 <!-- YOUTUBE:END -->
 
 
