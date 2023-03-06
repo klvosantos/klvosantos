@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Conhecimento em Java pode ajudar até mesmo em outras linguagens?](https://www.youtube.com/watch?v=EN9IT_YOsns)
 - [Banco de dados relacional ou orientado a objetos: qual mais usado?](https://www.youtube.com/watch?v=qTi7sIIltNg)
 - [Spring e React: estudar ambos ao mesmo tempo, ou um de cada vez?](https://www.youtube.com/watch?v=eyYoX7jeIg4)
 - [Exercício de programação orientada a objetos combate dos campeões](https://www.youtube.com/watch?v=V3Xc0Dcp7Eg)
 - [Exemplo de composição de objetos](https://www.youtube.com/watch?v=0oqmOHIfUmc)
-- [Casos de uso efetivos devem especificar entradas e saídas](https://www.youtube.com/watch?v=IiT3-QOVlIU)
 <!-- YOUTUBE:END -->
 
 
