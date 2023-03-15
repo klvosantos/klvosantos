@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ao analisar um problema, elabore exemplos e confira os cálculos](https://www.youtube.com/watch?v=sMcmnmayNFM)
 - [Qual a vantagem de contribuir em projetos open source?](https://www.youtube.com/watch?v=RFJsIRMmvZc)
 - [Dados estáticos são compartilhados por todos objetos](https://www.youtube.com/watch?v=oT-YEtXnu14)
 - [Métodos estáticos não podem depender de dados não estáticos do objeto](https://www.youtube.com/watch?v=s5hi0higweg)
 - [A JPA mantém um cache das entidades durante a sessão JPA](https://www.youtube.com/watch?v=WGZ9Lik5dD0)
-- [Conhecimento em Java pode ajudar até mesmo em outras linguagens?](https://www.youtube.com/watch?v=EN9IT_YOsns)
 <!-- YOUTUBE:END -->
 
 
