@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Open VS Code from Finder in macOS](https://www.youtube.com/watch?v=UY_WJBlQKj0)
 - [O que é Bootstrap e quando utilizá-lo?](https://www.youtube.com/watch?v=dn-nbzHZawg)
 - [Encontrar bugs é difícil, mas te faz evoluir na programação](https://www.youtube.com/watch?v=3CPwusmwKU0)
 - [Ao analisar um problema, elabore exemplos e confira os cálculos](https://www.youtube.com/watch?v=sMcmnmayNFM)
 - [Qual a vantagem de contribuir em projetos open source?](https://www.youtube.com/watch?v=RFJsIRMmvZc)
-- [Dados estáticos são compartilhados por todos objetos](https://www.youtube.com/watch?v=oT-YEtXnu14)
 <!-- YOUTUBE:END -->
 
 
