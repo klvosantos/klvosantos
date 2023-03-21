@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como acessar os valores acima da diagonal de uma matriz](https://www.youtube.com/watch?v=A8PJaRoHyHY)
 - [Vale a pena tirar  certificação Java?](https://www.youtube.com/watch?v=Szh4eSmiRwk)
 - [🔥 VS Code Database Management Extension](https://www.youtube.com/watch?v=Gz8TBhcf3dk)
 - [É preciso decorar tags e propriedades do HTML e CSS?](https://www.youtube.com/watch?v=g2EV68gmyN8)
 - [Para que serve a annotation @Bean?](https://www.youtube.com/watch?v=TmFRXEI5HEA)
-- [Open VS Code from Finder in macOS](https://www.youtube.com/watch?v=UY_WJBlQKj0)
 <!-- YOUTUBE:END -->
 
 
