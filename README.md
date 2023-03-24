@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Propriedade align-items do Flexbox](https://www.youtube.com/watch?v=AMUYF7v04_o)
 - [Open VS Code from Windows 11 New Right-Click Context Menu](https://www.youtube.com/watch?v=yzsb_il7aPw)
 - [O grande vilão da JPA](https://www.youtube.com/watch?v=tP08ukbNqkw)
 - [🔥 VS Code: Edit Like A Pro](https://www.youtube.com/watch?v=2oXXk9aHKAk)
 - [Banco de dados relacional e NoSQL: qual estudar?](https://www.youtube.com/watch?v=uXcsLO2rYiM)
-- [Como acessar os valores acima da diagonal de uma matriz](https://www.youtube.com/watch?v=A8PJaRoHyHY)
 <!-- YOUTUBE:END -->
 
 
