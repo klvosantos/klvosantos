@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como ler uma data com formato customizado LocalDate e DateTimeFormatter](https://www.youtube.com/watch?v=GkAjC7vXsaQ)
 - [🔥 Best VS Code Feature! Never Lose Your Code!](https://www.youtube.com/watch?v=MwssRihPgJg)
 - [O que é lambda na programação?](https://www.youtube.com/watch?v=tfEYDTdiaOs)
 - [Propriedade align-items do Flexbox](https://www.youtube.com/watch?v=AMUYF7v04_o)
 - [Open VS Code from Windows 11 New Right-Click Context Menu](https://www.youtube.com/watch?v=yzsb_il7aPw)
-- [O grande vilão da JPA](https://www.youtube.com/watch?v=tP08ukbNqkw)
 <!-- YOUTUBE:END -->
 
 
