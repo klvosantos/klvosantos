@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Oh No Vim in VS Code 🤯](https://www.youtube.com/watch?v=QCbBBuN7P_k)
+- [Programação procedural, procedimental ou imperativa](https://www.youtube.com/watch?v=kcDRWGt77Ek)
 - [Como ler uma data com formato customizado LocalDate e DateTimeFormatter](https://www.youtube.com/watch?v=GkAjC7vXsaQ)
 - [🔥 Best VS Code Feature! Never Lose Your Code!](https://www.youtube.com/watch?v=MwssRihPgJg)
 - [O que é lambda na programação?](https://www.youtube.com/watch?v=tfEYDTdiaOs)
-- [Propriedade align-items do Flexbox](https://www.youtube.com/watch?v=AMUYF7v04_o)
-- [Open VS Code from Windows 11 New Right-Click Context Menu](https://www.youtube.com/watch?v=yzsb_il7aPw)
 <!-- YOUTUBE:END -->
 
 
