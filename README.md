@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Diferença entre map e foreach no componente React](https://www.youtube.com/watch?v=LdWCo6WLqbo)
 - [Classe com campos calculados](https://www.youtube.com/watch?v=UkPHOS5gxPQ)
 - [Oh No Vim in VS Code 🤯](https://www.youtube.com/watch?v=QCbBBuN7P_k)
 - [Programação procedural, procedimental ou imperativa](https://www.youtube.com/watch?v=kcDRWGt77Ek)
 - [Como ler uma data com formato customizado LocalDate e DateTimeFormatter](https://www.youtube.com/watch?v=GkAjC7vXsaQ)
-- [🔥 Best VS Code Feature! Never Lose Your Code!](https://www.youtube.com/watch?v=MwssRihPgJg)
 <!-- YOUTUBE:END -->
 
 
