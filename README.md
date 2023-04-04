@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como ler o diagrama de dados de um sistema](https://www.youtube.com/watch?v=J8W7TO_7ouE)
 - [Diferença de sintaxe entre Postgres e MySQL](https://www.youtube.com/watch?v=2ARirY5kgZ0)
 - [🔥 Best VS Code Extension for Writers &amp; Speakers](https://www.youtube.com/watch?v=2R20LH1uG2E)
 - [Clean Up File Tree in VS Code](https://www.youtube.com/watch?v=fHAiCCXqV7Y)
 - [Diferença entre map e foreach no componente React](https://www.youtube.com/watch?v=LdWCo6WLqbo)
-- [Classe com campos calculados](https://www.youtube.com/watch?v=UkPHOS5gxPQ)
 <!-- YOUTUBE:END -->
 
 
