@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Fireship in 100 Seconds](https://www.youtube.com/watch?v=cYoY_WbqNSw)
 - [Banco de dados relacional a partir do modelo conceitual](https://www.youtube.com/watch?v=iX73FUWCIFY)
 - [Never Go To Settings Again in VS Code!!](https://www.youtube.com/watch?v=q_oExJyObUw)
 - [Como ler o diagrama de dados de um sistema](https://www.youtube.com/watch?v=J8W7TO_7ouE)
 - [Diferença de sintaxe entre Postgres e MySQL](https://www.youtube.com/watch?v=2ARirY5kgZ0)
-- [🔥 Best VS Code Extension for Writers &amp; Speakers](https://www.youtube.com/watch?v=2R20LH1uG2E)
 <!-- YOUTUBE:END -->
 
 
