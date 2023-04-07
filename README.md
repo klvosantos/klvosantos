@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Keep Your Packages Up-To-Date with this VS Code Extension](https://www.youtube.com/watch?v=FIHFLGEPolg)
 - [Camel case e snake case](https://www.youtube.com/watch?v=umg6tXDA3UU)
 - [Fireship in 100 Seconds](https://www.youtube.com/watch?v=cYoY_WbqNSw)
 - [Banco de dados relacional a partir do modelo conceitual](https://www.youtube.com/watch?v=iX73FUWCIFY)
 - [Never Go To Settings Again in VS Code!!](https://www.youtube.com/watch?v=q_oExJyObUw)
-- [Como ler o diagrama de dados de um sistema](https://www.youtube.com/watch?v=J8W7TO_7ouE)
 <!-- YOUTUBE:END -->
 
 
