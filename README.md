@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Entidade fraca no diagrama UML](https://www.youtube.com/watch?v=bg5D455r4QI)
 - [Custom Icons in VS Code](https://www.youtube.com/watch?v=srGCblsKmDs)
 - [Exemplo de objetos para banco de dados relacional](https://www.youtube.com/watch?v=0lyJjPmpWHA)
 - [Keep Your Packages Up-To-Date with this VS Code Extension](https://www.youtube.com/watch?v=FIHFLGEPolg)
 - [Camel case e snake case](https://www.youtube.com/watch?v=umg6tXDA3UU)
-- [Fireship in 100 Seconds](https://www.youtube.com/watch?v=cYoY_WbqNSw)
 <!-- YOUTUBE:END -->
 
 
