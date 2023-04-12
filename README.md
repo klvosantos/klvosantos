@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🛑 Stop Creating Folder Structures the Hard Way in VS Code!](https://www.youtube.com/watch?v=_XbEX5kuATY)
 - [Projeto de UI precisa ser muito detalhado?](https://www.youtube.com/watch?v=YyKWlkvG34I)
 - [Entidade fraca no diagrama UML](https://www.youtube.com/watch?v=bg5D455r4QI)
 - [Custom Icons in VS Code](https://www.youtube.com/watch?v=srGCblsKmDs)
 - [Exemplo de objetos para banco de dados relacional](https://www.youtube.com/watch?v=0lyJjPmpWHA)
-- [Keep Your Packages Up-To-Date with this VS Code Extension](https://www.youtube.com/watch?v=FIHFLGEPolg)
 <!-- YOUTUBE:END -->
 
 
