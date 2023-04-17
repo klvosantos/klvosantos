@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tipagem estática e dinâmica: Java C# JavaScript Python](https://www.youtube.com/watch?v=PqIoC8BQ5rY)
 - [Dependência de componentes no diagrama UML](https://www.youtube.com/watch?v=1McncQrWS0M)
 - [StringBuilder: quando e por que usar?](https://www.youtube.com/watch?v=TZ41ZVyKK4c)
 - [Mobile first não está relacionado a tecnologia](https://www.youtube.com/watch?v=BHHDcpGUajI)
 - [🛑 Stop Creating Folder Structures the Hard Way in VS Code!](https://www.youtube.com/watch?v=_XbEX5kuATY)
-- [Projeto de UI precisa ser muito detalhado?](https://www.youtube.com/watch?v=YyKWlkvG34I)
 <!-- YOUTUBE:END -->
 
 
