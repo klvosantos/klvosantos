@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dicas de estudo para quem está com dificuldade na lógica](https://www.youtube.com/watch?v=ITLeVKN6RmU)
 - [Tipagem estática e dinâmica: Java C# JavaScript Python](https://www.youtube.com/watch?v=PqIoC8BQ5rY)
 - [Dependência de componentes no diagrama UML](https://www.youtube.com/watch?v=1McncQrWS0M)
 - [StringBuilder: quando e por que usar?](https://www.youtube.com/watch?v=TZ41ZVyKK4c)
 - [Mobile first não está relacionado a tecnologia](https://www.youtube.com/watch?v=BHHDcpGUajI)
-- [🛑 Stop Creating Folder Structures the Hard Way in VS Code!](https://www.youtube.com/watch?v=_XbEX5kuATY)
 <!-- YOUTUBE:END -->
 
 
