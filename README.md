@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [VueJS Live Promo - Register Now!](https://www.youtube.com/watch?v=zTCpVNRMpEw)
 - [Display none e display unset no mobile first](https://www.youtube.com/watch?v=dGUOdNvSMK8)
 - [Precisa estilizar para breakpoint abaixo de 320px?](https://www.youtube.com/watch?v=0aHps2NiM0g)
 - [Dicas de estudo para quem está com dificuldade na lógica](https://www.youtube.com/watch?v=ITLeVKN6RmU)
 - [Tipagem estática e dinâmica: Java C# JavaScript Python](https://www.youtube.com/watch?v=PqIoC8BQ5rY)
-- [Dependência de componentes no diagrama UML](https://www.youtube.com/watch?v=1McncQrWS0M)
 <!-- YOUTUBE:END -->
 
 
