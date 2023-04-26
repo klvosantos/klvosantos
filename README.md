@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Principais IDEs para Java e Spring](https://www.youtube.com/watch?v=rMuHty2zn_4)
 - [Como se manter atualizado.](https://www.youtube.com/watch?v=4eojELnkYdE)
 - [Melhor forma de resolver os problemas](https://www.youtube.com/watch?v=1_opWSkPyf0)
 - [VueJS Live Promo - Register Now!](https://www.youtube.com/watch?v=zTCpVNRMpEw)
 - [Display none e display unset no mobile first](https://www.youtube.com/watch?v=dGUOdNvSMK8)
-- [Precisa estilizar para breakpoint abaixo de 320px?](https://www.youtube.com/watch?v=0aHps2NiM0g)
 <!-- YOUTUBE:END -->
 
 
