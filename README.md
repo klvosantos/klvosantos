@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Precisa aprender o modelo de datas antigo do Java?](https://www.youtube.com/watch?v=655i5pQQ_3o)
 - [Por onde começar na documentação de uma tecnologia?](https://www.youtube.com/watch?v=VG3DChhz3LI)
 - [Principais IDEs para Java e Spring](https://www.youtube.com/watch?v=rMuHty2zn_4)
 - [Como se manter atualizado.](https://www.youtube.com/watch?v=4eojELnkYdE)
 - [Melhor forma de resolver os problemas](https://www.youtube.com/watch?v=1_opWSkPyf0)
-- [VueJS Live Promo - Register Now!](https://www.youtube.com/watch?v=zTCpVNRMpEw)
 <!-- YOUTUBE:END -->
 
 
