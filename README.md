@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Data JPA Entity, DTO e Projection](https://www.youtube.com/watch?v=WcGSv3zs-_s)
 - [API Rest Java e Spring - Exemplo na prática](https://www.youtube.com/watch?v=T7_j6EE3-1c)
 - [Quando usar o new na consulta JPQL](https://www.youtube.com/watch?v=A0a67WEFTA8)
 - [Precisa aprender o modelo de datas antigo do Java?](https://www.youtube.com/watch?v=655i5pQQ_3o)
 - [Por onde começar na documentação de uma tecnologia?](https://www.youtube.com/watch?v=VG3DChhz3LI)
-- [Principais IDEs para Java e Spring](https://www.youtube.com/watch?v=rMuHty2zn_4)
 <!-- YOUTUBE:END -->
 
 
