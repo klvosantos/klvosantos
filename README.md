@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Evan You -  VueJSLive talk, the future of JavaScript, AI in tech](https://www.youtube.com/watch?v=TwjUuivIrPI)
+- [The Future of JavaScript &amp; AI in Tech - Evan You at VueJSLive](https://www.youtube.com/watch?v=TwjUuivIrPI)
 - [Dica: gaste mais tempo na interpretação dos exercícios](https://www.youtube.com/watch?v=34VmfZsQwWw)
 - [Banco de dados e ORM com Java e Spring](https://www.youtube.com/watch?v=JCjvVsMe-q8)
 - [Spring Data JPA Entity, DTO e Projection](https://www.youtube.com/watch?v=WcGSv3zs-_s)
