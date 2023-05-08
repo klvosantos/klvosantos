@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como implementar um modelo de domínio](https://www.youtube.com/watch?v=86TShCJxEog)
 - [Existe revisão de modelagem, assim como existe code review?](https://www.youtube.com/watch?v=XR-YvnZAxbs)
 - [O que significa hard coded na programação?](https://www.youtube.com/watch?v=hdXAYZeZcuc)
 - [The Future of JavaScript &amp; AI in Tech - Evan You at VueJSLive](https://www.youtube.com/watch?v=TwjUuivIrPI)
 - [Dica: gaste mais tempo na interpretação dos exercícios](https://www.youtube.com/watch?v=34VmfZsQwWw)
-- [Banco de dados e ORM com Java e Spring](https://www.youtube.com/watch?v=JCjvVsMe-q8)
 <!-- YOUTUBE:END -->
 
 
