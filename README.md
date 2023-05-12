@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <!-- YOUTUBE:START -->
 - [Instant ou LocalDate?](https://www.youtube.com/watch?v=Xpxn8B9qRao)
-- [É treinamento gratuito de qualidade que você queria? Receba! 😍](https://www.youtube.com/watch?v=1G37JFHloWM)
+- [Treinamento gratuito de qualidade Java e Spring 😍](https://www.youtube.com/watch?v=1G37JFHloWM)
 - [Como implementar um modelo de domínio](https://www.youtube.com/watch?v=86TShCJxEog)
 - [Existe revisão de modelagem, assim como existe code review?](https://www.youtube.com/watch?v=XR-YvnZAxbs)
 - [O que significa hard coded na programação?](https://www.youtube.com/watch?v=hdXAYZeZcuc)
