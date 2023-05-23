@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Step-by-Step Guide to JSDoc and TypeScript in Modern JavaScript Projects in 15 Minutes!](https://www.youtube.com/watch?v=oH_-6TyxVhI)
 - [TypeScript vs JSDoc: A Shift in the Development Landscape](https://www.youtube.com/watch?v=JTYhDiJiiFI)
 - [Instant ou LocalDate?](https://www.youtube.com/watch?v=Xpxn8B9qRao)
 - [Treinamento gratuito de qualidade Java e Spring 😍](https://www.youtube.com/watch?v=1G37JFHloWM)
 - [Como implementar um modelo de domínio](https://www.youtube.com/watch?v=86TShCJxEog)
-- [Existe revisão de modelagem, assim como existe code review?](https://www.youtube.com/watch?v=XR-YvnZAxbs)
 <!-- YOUTUBE:END -->
 
 
