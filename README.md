@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Timezone Z do Instant e horário local](https://www.youtube.com/watch?v=wJFddd56W3k)
 - [Exibindo dados do Instant considerando o sistema local](https://www.youtube.com/watch?v=fJaMJC5KBI0)
 - [Composição de objetos em Java](https://www.youtube.com/watch?v=oV6gOr0ARJ4)
 - [Step-by-Step Guide to JSDoc and TypeScript in Modern JavaScript Projects in 15 Minutes!](https://www.youtube.com/watch?v=oH_-6TyxVhI)
 - [TypeScript vs JSDoc: A Shift in the Development Landscape](https://www.youtube.com/watch?v=JTYhDiJiiFI)
-- [Instant ou LocalDate?](https://www.youtube.com/watch?v=Xpxn8B9qRao)
 <!-- YOUTUBE:END -->
 
 
