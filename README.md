@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Análise de sistemas não é fácil e demanda experiência](https://www.youtube.com/watch?v=VcoEL9p3pqM)
 - [Método toString do tipo Object do Java](https://www.youtube.com/watch?v=BA7MT8WEiTw)
 - [Horário de verão em Java](https://www.youtube.com/watch?v=d2JJdVl6zNk)
 - [Entender objetos na prática](https://www.youtube.com/watch?v=kb1gIRmsFn4)
 - [Associando objetos na composição para-muitos](https://www.youtube.com/watch?v=m04bHx4AogM)
-- [Timezone Z do Instant e horário local](https://www.youtube.com/watch?v=wJFddd56W3k)
 <!-- YOUTUBE:END -->
 
 
