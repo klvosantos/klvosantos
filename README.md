@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Regra de ouro das especificações](https://www.youtube.com/watch?v=Q4bANPUHUZk)
 - [Fazer um sistema não é igual a criar um prédio](https://www.youtube.com/watch?v=52yqbWfh4_c)
 - [Análise de sistemas não é fácil e demanda experiência](https://www.youtube.com/watch?v=VcoEL9p3pqM)
 - [Método toString do tipo Object do Java](https://www.youtube.com/watch?v=BA7MT8WEiTw)
 - [Horário de verão em Java](https://www.youtube.com/watch?v=d2JJdVl6zNk)
-- [Entender objetos na prática](https://www.youtube.com/watch?v=kb1gIRmsFn4)
 <!-- YOUTUBE:END -->
 
 
