@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dois objetivos da especificação de sistemas](https://www.youtube.com/watch?v=Q-FWTJaTWwo)
 - [O que especificar em um sistema?](https://www.youtube.com/watch?v=EpC8eT2wxPM)
 - [Especifique o que for suficiente para a equipe entender](https://www.youtube.com/watch?v=xEPkVc1Lzug)
 - [Regra de ouro das especificações](https://www.youtube.com/watch?v=Q4bANPUHUZk)
 - [Fazer um sistema não é igual a criar um prédio](https://www.youtube.com/watch?v=52yqbWfh4_c)
-- [Análise de sistemas não é fácil e demanda experiência](https://www.youtube.com/watch?v=VcoEL9p3pqM)
 <!-- YOUTUBE:END -->
 
 
