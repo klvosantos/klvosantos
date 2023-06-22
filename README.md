@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dicas para evitar ataques em sistemas na nuvem](https://www.youtube.com/watch?v=4iqccySgfho)
 - [Recomendação de ferramentas de pagamento](https://www.youtube.com/watch?v=UiEpAsf9YS4)
 - [Casos de uso dão subsídios para elaborar as operações do sistema](https://www.youtube.com/watch?v=SZcA_uCrIkw)
 - [Dois objetivos da especificação de sistemas](https://www.youtube.com/watch?v=Q-FWTJaTWwo)
 - [O que especificar em um sistema?](https://www.youtube.com/watch?v=EpC8eT2wxPM)
-- [Especifique o que for suficiente para a equipe entender](https://www.youtube.com/watch?v=xEPkVc1Lzug)
 <!-- YOUTUBE:END -->
 
 
