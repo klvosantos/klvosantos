@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [As três grandes plataformas de cloud](https://www.youtube.com/watch?v=8VAzTKhkwCM)
 - [Vale a pena hospedar banco de dados e storage na AWS?](https://www.youtube.com/watch?v=Mm8XGNXgNdk)
 - [Dicas para evitar ataques em sistemas na nuvem](https://www.youtube.com/watch?v=4iqccySgfho)
 - [Recomendação de ferramentas de pagamento](https://www.youtube.com/watch?v=UiEpAsf9YS4)
 - [Casos de uso dão subsídios para elaborar as operações do sistema](https://www.youtube.com/watch?v=SZcA_uCrIkw)
-- [Dois objetivos da especificação de sistemas](https://www.youtube.com/watch?v=Q-FWTJaTWwo)
 <!-- YOUTUBE:END -->
 
 
