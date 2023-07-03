@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Consulta SQL com diferença not in](https://www.youtube.com/watch?v=Wb1itM9HEQU)
 - [Banco de dados e álgebra relacional](https://www.youtube.com/watch?v=FjuIkB663gA)
 - [Sobre ser professor e desenvolvedor &lpar;e não apenas um dos dois&rpar;](https://www.youtube.com/watch?v=r2Fzi4VjClQ)
 - [Deploy com CI/CD integrado ao Git](https://www.youtube.com/watch?v=IDNcBFuSwu4)
 - [As três grandes plataformas de cloud](https://www.youtube.com/watch?v=8VAzTKhkwCM)
-- [Vale a pena hospedar banco de dados e storage na AWS?](https://www.youtube.com/watch?v=Mm8XGNXgNdk)
 <!-- YOUTUBE:END -->
 
 
