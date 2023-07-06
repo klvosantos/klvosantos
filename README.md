@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dados calculados no banco de dados relacional](https://www.youtube.com/watch?v=-rYxMgNPTTM)
 - [Quando usar banco de dados relacional ou NoSQL?](https://www.youtube.com/watch?v=XNBKQlkqwV8)
 - [Chave SSH do Gihtub: o que fazer se formatar o computador?](https://www.youtube.com/watch?v=begnVI1YhXg)
 - [Consulta SQL com diferença not in](https://www.youtube.com/watch?v=Wb1itM9HEQU)
 - [Banco de dados e álgebra relacional](https://www.youtube.com/watch?v=FjuIkB663gA)
-- [Sobre ser professor e desenvolvedor &lpar;e não apenas um dos dois&rpar;](https://www.youtube.com/watch?v=r2Fzi4VjClQ)
 <!-- YOUTUBE:END -->
 
 
