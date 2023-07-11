@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dificuldade nos conteúdos recém estudados](https://www.youtube.com/watch?v=FNyY3YUA_4c)
 - [Triggers e stored procedures otimizam, porém…](https://www.youtube.com/watch?v=eniqY13UUIg)
 - [Triggers: vantagem e desvantagem](https://www.youtube.com/watch?v=bJ3aF-HH4xE)
 - [Dados calculados no banco de dados relacional](https://www.youtube.com/watch?v=-rYxMgNPTTM)
 - [Quando usar banco de dados relacional ou NoSQL?](https://www.youtube.com/watch?v=XNBKQlkqwV8)
-- [Chave SSH do Gihtub: o que fazer se formatar o computador?](https://www.youtube.com/watch?v=begnVI1YhXg)
 <!-- YOUTUBE:END -->
 
 
