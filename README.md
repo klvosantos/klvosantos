@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Vale a pena implementar herança no modelo de domínio?](https://www.youtube.com/watch?v=-MEBlLkpzJk)
 - [Padrão de projetos Strategy exemplo de aplicação](https://www.youtube.com/watch?v=3E3jp63zs9A)
 - [Devo usar timestamp no UTC ou no horário local?](https://www.youtube.com/watch?v=SijTrSzU5gs)
 - [Instant ou LocalDateTime?](https://www.youtube.com/watch?v=FV-mxc93at0)
 - [Exercícios de programação para treinar grátis](https://www.youtube.com/watch?v=J-QrRO-WTDc)
-- [Dificuldade nos conteúdos recém estudados](https://www.youtube.com/watch?v=FNyY3YUA_4c)
 <!-- YOUTUBE:END -->
 
 
