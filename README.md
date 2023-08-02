@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Analise os exemplos dos exercícios para entender melhor](https://www.youtube.com/watch?v=6VawuQfbf6I)
 - [Compartilhamento de links com miniatura no ReactJS](https://www.youtube.com/watch?v=U-A-dEojPhM)
 - [Polimorfismo: associação em tempo de execução](https://www.youtube.com/watch?v=aGYS-kI5ZHM)
 - [Twitter X](https://www.youtube.com/watch?v=lncE1347QSo)
 - [Trigger e Stored Procedure vale a pena?](https://www.youtube.com/watch?v=1bWt-PARymw)
-- [AI in 5 Minutes: You Won&#39;t Believe How Simple It Is](https://www.youtube.com/watch?v=8hZmvz7GxQ4)
 <!-- YOUTUBE:END -->
 
 
