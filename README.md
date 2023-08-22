@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Shadcn/ui Unveiled: Copy, Paste, and Build with React Components!  #shadcn #ui](https://www.youtube.com/watch?v=YP4ynIwMWrs)
 - [Tratamento de exceções e sua importância](https://www.youtube.com/watch?v=e2RM89zYbYQ)
 - [The Best UI Components that EVERYONE is Using!](https://www.youtube.com/watch?v=DTGRIaAJYIo)
 - [Uma forma de tratar erros em linguagens antigas](https://www.youtube.com/watch?v=693qVz0prvU)
 - [Responsabilidade da camada service em um sistema](https://www.youtube.com/watch?v=lKNcU8wFKiU)
-- [Lógica de tratamento de erros ruim](https://www.youtube.com/watch?v=W61r_fj1GWA)
 <!-- YOUTUBE:END -->
 
 
