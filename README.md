@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que significa deprecated?](https://www.youtube.com/watch?v=MsTaB_zJYvQ)
 - [Join Fetch da JPA](https://www.youtube.com/watch?v=jj0pkAKwZH4)
 - [Problema N mais uma consultas](https://www.youtube.com/watch?v=0pEYf7cbuc4)
 - [Shadcn/UI Without Installation: Radix UI &amp; Tailwind CSS Combined! #shadcn #ui](https://www.youtube.com/watch?v=N4YiL2cHNLc)
 - [Tratando várias exceções e finalizando com RuntimeException](https://www.youtube.com/watch?v=fQy9uUYVfJc)
-- [Shadcn/ui Unveiled: Copy, Paste, and Build with React Components!  #shadcn #ui](https://www.youtube.com/watch?v=YP4ynIwMWrs)
 <!-- YOUTUBE:END -->
 
 
