@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 
 <!-- YOUTUBE:START -->
 - [Why Shadcn Over Radix? Customizable Components Made Easy! #shadcn #ui](https://www.youtube.com/watch?v=8bhHHbopE30)
-- [O que significa deprecated?](https://www.youtube.com/watch?v=MsTaB_zJYvQ)
 - [Join Fetch da JPA](https://www.youtube.com/watch?v=jj0pkAKwZH4)
 - [Problema N mais uma consultas](https://www.youtube.com/watch?v=0pEYf7cbuc4)
 - [Shadcn/UI Without Installation: Radix UI &amp; Tailwind CSS Combined! #shadcn #ui](https://www.youtube.com/watch?v=N4YiL2cHNLc)
+- [Tratando várias exceções e finalizando com RuntimeException](https://www.youtube.com/watch?v=fQy9uUYVfJc)
 <!-- YOUTUBE:END -->
 
 
