@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que significa deprecated?](https://www.youtube.com/watch?v=DCCI_jymbq8)
 - [JDBC antes do Spring Data JPA?](https://www.youtube.com/watch?v=ygDWS8jADVo)
 - [Dark Mode &amp; Themes in shadcn/ui: Style Your App with Ease! #shadcn #ui](https://www.youtube.com/watch?v=GRdAcBOLOA4)
 - [Git checkout para navegar nas versões do projeto](https://www.youtube.com/watch?v=z8ec1kmsnuY)
 - [Why Shadcn Over Radix? Customizable Components Made Easy! #shadcn #ui](https://www.youtube.com/watch?v=8bhHHbopE30)
-- [Join Fetch da JPA](https://www.youtube.com/watch?v=jj0pkAKwZH4)
 <!-- YOUTUBE:END -->
 
 
