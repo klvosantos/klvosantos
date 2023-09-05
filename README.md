@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Por que uso o STS em aulas e eventos gratuitos?](https://www.youtube.com/watch?v=Hef-82rrdTM)
 - [Astro Setup with shadcn/ui: Quick Guide to Reusable Components! #shadcn #ui](https://www.youtube.com/watch?v=TxERoQSEfIk)
 - [Precisa estudar servlet raiz hoje em dia?](https://www.youtube.com/watch?v=ie50XJGbRUM)
 - [O que significa deprecated?](https://www.youtube.com/watch?v=DCCI_jymbq8)
 - [JDBC antes do Spring Data JPA?](https://www.youtube.com/watch?v=ygDWS8jADVo)
-- [Dark Mode &amp; Themes in shadcn/ui: Style Your App with Ease! #shadcn #ui](https://www.youtube.com/watch?v=GRdAcBOLOA4)
 <!-- YOUTUBE:END -->
 
 
