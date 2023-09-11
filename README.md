@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Usando COUNT&lpar;ID&rpar; no CountQuery do Spring Data JPA](https://www.youtube.com/watch?v=HWbRyLsgi74)
 - [Cláusula countQuery no Spring Data JPA](https://www.youtube.com/watch?v=r2Oi_3PDSFM)
 - [Fixing shadcn/ui &amp; Tailwind Config Issue: A Simple Solution! #shadcn #ui](https://www.youtube.com/watch?v=wVfu7Uh7fM8)
 - [Vale a pena estudar JDBC antes da JPA?](https://www.youtube.com/watch?v=WqpgBbPaBDQ)
 - [Por que uso o STS em aulas e eventos gratuitos?](https://www.youtube.com/watch?v=Hef-82rrdTM)
-- [Astro Setup with shadcn/ui: Quick Guide to Reusable Components! #shadcn #ui](https://www.youtube.com/watch?v=TxERoQSEfIk)
 <!-- YOUTUBE:END -->
 
 
