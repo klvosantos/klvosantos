@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Camel case e snake case](https://www.youtube.com/watch?v=giGawZCj4QI)
 - [Get Started with shadcn/ui in Gatsby: A Beginner&#39;s Tutorial!](https://www.youtube.com/watch?v=1iSYpeI4mVc)
 - [Java text block](https://www.youtube.com/watch?v=tbObGUUk2eA)
 - [Vite Setup with shadcn/ui: Step-by-Step Guide to Easy Integration! #shadcn #ui](https://www.youtube.com/watch?v=PKbDGN2nxFc)
 - [Usando COUNT&lpar;ID&rpar; no CountQuery do Spring Data JPA](https://www.youtube.com/watch?v=HWbRyLsgi74)
-- [Cláusula countQuery no Spring Data JPA](https://www.youtube.com/watch?v=r2Oi_3PDSFM)
 <!-- YOUTUBE:END -->
 
 
