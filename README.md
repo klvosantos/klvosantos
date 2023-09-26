@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Java text block antes e depois](https://www.youtube.com/watch?v=9jZ0cp6R9Z8)
 - [Next.js Setup with shadcn/ui: Quick Tutorial for Seamless Integration! #shadcn #ui](https://www.youtube.com/watch?v=GNi2fE10LcU)
 - [Trazendo consultas SQL da ferramenta do banco para o Spring](https://www.youtube.com/watch?v=nOAcV9ojNgY)
 - [Remix Setup with shadcn/ui: Easy Guide to Enhance Your Project! #shadcn #ui](https://www.youtube.com/watch?v=UmmaFU7qohk)
 - [Camel case e snake case](https://www.youtube.com/watch?v=giGawZCj4QI)
-- [Get Started with shadcn/ui in Gatsby: A Beginner&#39;s Tutorial!](https://www.youtube.com/watch?v=1iSYpeI4mVc)
 <!-- YOUTUBE:END -->
 
 
