@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Classe de associação](https://www.youtube.com/watch?v=zCdePhhL0xU)
 - [Parâmetro de rota no endpoint da API Spring](https://www.youtube.com/watch?v=bZlGK8c33mA)
 - [How to Use shadcn/ui: Installing a Button Made Simple! #shadcn #ui](https://www.youtube.com/watch?v=VeAT5tPc1iQ)
 - [Java text block antes e depois](https://www.youtube.com/watch?v=9jZ0cp6R9Z8)
 - [Next.js Setup with shadcn/ui: Quick Tutorial for Seamless Integration! #shadcn #ui](https://www.youtube.com/watch?v=GNi2fE10LcU)
-- [Trazendo consultas SQL da ferramenta do banco para o Spring](https://www.youtube.com/watch?v=nOAcV9ojNgY)
 <!-- YOUTUBE:END -->
 
 
