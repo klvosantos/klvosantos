@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que é TDD?](https://www.youtube.com/watch?v=X6LvY7r-tls)
 - [Classe de associação possui id composto](https://www.youtube.com/watch?v=mly59L7_evc)
 - [Banco de dados H2 em memória para desenvolvimento](https://www.youtube.com/watch?v=Va7U4Yx1mBQ)
 - [Classe de associação](https://www.youtube.com/watch?v=zCdePhhL0xU)
 - [Parâmetro de rota no endpoint da API Spring](https://www.youtube.com/watch?v=bZlGK8c33mA)
-- [How to Use shadcn/ui: Installing a Button Made Simple! #shadcn #ui](https://www.youtube.com/watch?v=VeAT5tPc1iQ)
 <!-- YOUTUBE:END -->
 
 
