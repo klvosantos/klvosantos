@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to Use shadcn/ui: Installing a Button Made Simple! #shadcn #ui](https://www.youtube.com/watch?v=VeAT5tPc1iQ)
-- [Next.js Setup with shadcn/ui: Quick Tutorial for Seamless Integration! #shadcn #ui](https://www.youtube.com/watch?v=GNi2fE10LcU)
-- [Remix Setup with shadcn/ui: Easy Guide to Enhance Your Project! #shadcn #ui](https://www.youtube.com/watch?v=UmmaFU7qohk)
-- [Get Started with shadcn/ui in Gatsby: A Beginner&#39;s Tutorial!](https://www.youtube.com/watch?v=1iSYpeI4mVc)
-- [Vite Setup with shadcn/ui: Step-by-Step Guide to Easy Integration! #shadcn #ui](https://www.youtube.com/watch?v=PKbDGN2nxFc)
+- [Framework para que serve](https://www.youtube.com/watch?v=EgUSHZgX0Rg)
+- [O que é TDD?](https://www.youtube.com/watch?v=X6LvY7r-tls)
+- [Classe de associação possui id composto](https://www.youtube.com/watch?v=mly59L7_evc)
+- [Banco de dados H2 em memória para desenvolvimento](https://www.youtube.com/watch?v=Va7U4Yx1mBQ)
+- [Classe de associação](https://www.youtube.com/watch?v=zCdePhhL0xU)
 <!-- YOUTUBE:END -->
 
 
