@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Mapeamento objeto-relacional com JPA](https://www.youtube.com/watch?v=vvXqBJDOesM)
 - [Framework para que serve](https://www.youtube.com/watch?v=EgUSHZgX0Rg)
 - [O que é TDD?](https://www.youtube.com/watch?v=X6LvY7r-tls)
 - [Classe de associação possui id composto](https://www.youtube.com/watch?v=mly59L7_evc)
 - [Banco de dados H2 em memória para desenvolvimento](https://www.youtube.com/watch?v=Va7U4Yx1mBQ)
-- [Classe de associação](https://www.youtube.com/watch?v=zCdePhhL0xU)
 <!-- YOUTUBE:END -->
 
 
