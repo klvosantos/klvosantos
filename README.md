@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Announcing React Day Berlin 2023!!](https://www.youtube.com/watch?v=EwMUadklI4s)
 - [Classe de associação exemplo produto e pedido](https://www.youtube.com/watch?v=auwlXyt8W3o)
 - [Annotations no Spring o que são e para que servem?](https://www.youtube.com/watch?v=7LojHDlMTZM)
 - [Mapeamento objeto-relacional com JPA](https://www.youtube.com/watch?v=vvXqBJDOesM)
 - [Framework para que serve](https://www.youtube.com/watch?v=EgUSHZgX0Rg)
-- [O que é TDD?](https://www.youtube.com/watch?v=X6LvY7r-tls)
 <!-- YOUTUBE:END -->
 
 
