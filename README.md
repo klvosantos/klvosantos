@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DTO Data Transfer Object](https://www.youtube.com/watch?v=kKQyWM6eTLY)
 - [Lombok para que serve](https://www.youtube.com/watch?v=COZ0FPUHyo8)
 - [O poder do objeto JpaRepository](https://www.youtube.com/watch?v=f3yKzBAE3-w)
 - [Announcing React Day Berlin 2023!!](https://www.youtube.com/watch?v=EwMUadklI4s)
 - [Classe de associação exemplo produto e pedido](https://www.youtube.com/watch?v=auwlXyt8W3o)
-- [Annotations no Spring o que são e para que servem?](https://www.youtube.com/watch?v=7LojHDlMTZM)
 <!-- YOUTUBE:END -->
 
 
