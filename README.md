@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Construtor para copiar dados de entidade para DTO](https://www.youtube.com/watch?v=rxaN9YZgzzA)
 - [DTO Data Transfer Object](https://www.youtube.com/watch?v=kKQyWM6eTLY)
 - [Lombok para que serve](https://www.youtube.com/watch?v=COZ0FPUHyo8)
 - [O poder do objeto JpaRepository](https://www.youtube.com/watch?v=f3yKzBAE3-w)
 - [Announcing React Day Berlin 2023!!](https://www.youtube.com/watch?v=EwMUadklI4s)
-- [Classe de associação exemplo produto e pedido](https://www.youtube.com/watch?v=auwlXyt8W3o)
 <!-- YOUTUBE:END -->
 
 
