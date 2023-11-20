@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <!-- YOUTUBE:START -->
 - [React&#39;s Future: Tejas Kumar on Server Components](https://www.youtube.com/watch?v=zn-nFWDxyiw)
-- [BEST Collaboration Workflow for Web Development](https://www.youtube.com/watch?v=DZV33RjeXW0)
+- [Collaboration is HARD! You Need this Web Development Workflow](https://www.youtube.com/watch?v=DZV33RjeXW0)
 - [Analisando um exemplo real de erro](https://www.youtube.com/watch?v=3n0EmkZSVKo)
 - [Exemplo de teste de API no Spring](https://www.youtube.com/watch?v=zsV_PM9rF3s)
 - [Construtor para copiar dados de entidade para DTO](https://www.youtube.com/watch?v=rxaN9YZgzzA)
