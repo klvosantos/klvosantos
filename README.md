@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [TDD com MockMvc no Spring com Java](https://www.youtube.com/watch?v=dmbbPiw9lx0)
 - [React&#39;s Future: Tejas Kumar on Server Components](https://www.youtube.com/watch?v=zn-nFWDxyiw)
 - [Collaboration is HARD! You Need this Web Development Workflow](https://www.youtube.com/watch?v=DZV33RjeXW0)
 - [Analisando um exemplo real de erro](https://www.youtube.com/watch?v=3n0EmkZSVKo)
 - [Exemplo de teste de API no Spring](https://www.youtube.com/watch?v=zsV_PM9rF3s)
-- [Construtor para copiar dados de entidade para DTO](https://www.youtube.com/watch?v=rxaN9YZgzzA)
 <!-- YOUTUBE:END -->
 
 
