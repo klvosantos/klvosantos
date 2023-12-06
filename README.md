@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Teste automatizado é uma forma de especificação](https://www.youtube.com/watch?v=ADO6CZRvCSw)
 - [🔴 Welcome to the Reactverse | React Day Berlin 2023 Live | GitNation](https://www.youtube.com/watch?v=lvD8KfL9Txs)
 - [TDD com MockMvc no Spring com Java](https://www.youtube.com/watch?v=dmbbPiw9lx0)
 - [React&#39;s Future: Tejas Kumar on Server Components](https://www.youtube.com/watch?v=zn-nFWDxyiw)
 - [Collaboration is HARD! You Need this Web Development Workflow](https://www.youtube.com/watch?v=DZV33RjeXW0)
-- [Analisando um exemplo real de erro](https://www.youtube.com/watch?v=3n0EmkZSVKo)
 <!-- YOUTUBE:END -->
 
 
