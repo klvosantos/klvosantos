@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [This VS Code AI Coding Assistant Is A Game Changer!](https://www.youtube.com/watch?v=dNskJAl5dBw)
-- [I Cannot Believe How Powerful This Headless CMS Is!](https://www.youtube.com/watch?v=43Eznupydng)
-- [I Cannot Believe How Good This VS Code AI Coding Assistant Is!](https://www.youtube.com/watch?v=TALwI3J4asY)
-- [Eddie Jaoude Explains &amp; Talks about MDX Documentation](https://www.youtube.com/watch?v=ZTX9-_MyaIw)
 - [Desenvolvimento iterativo: é normal fazer ajustes na especificação](https://www.youtube.com/watch?v=higYpHtpqeo)
+- [Teste automatizado é uma forma de especificação](https://www.youtube.com/watch?v=ADO6CZRvCSw)
+- [TDD com MockMvc no Spring com Java](https://www.youtube.com/watch?v=dmbbPiw9lx0)
+- [Analisando um exemplo real de erro](https://www.youtube.com/watch?v=3n0EmkZSVKo)
+- [Exemplo de teste de API no Spring](https://www.youtube.com/watch?v=zsV_PM9rF3s)
 <!-- YOUTUBE:END -->
 
 
