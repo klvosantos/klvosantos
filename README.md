@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 
 <!-- YOUTUBE:START -->
 - [Unir teoria e prática no desenvolvimento - Exemplo com relacionamento um para um](https://www.youtube.com/watch?v=7WkEsJHK4Q0)
-- [Começou o Intensivão Java Spring. Só até domingo. Aproveite!](https://www.youtube.com/watch?v=AgS02GuaeIM)
 - [Projeto do Intensivão Java Spring - treinamento GRATUITO](https://www.youtube.com/watch?v=G9xwN1kyaNE)
 - [Padrão de projeto strategy no Spring | Carreira Java | Prof Nelio Alves | Devsuperior](https://www.youtube.com/watch?v=TgfdjuEGY1Y)
 - [Forget Everything you Thought you Knew about Deno | Deno 2 0 Crash Course](https://www.youtube.com/watch?v=7Yo3eO-jitQ)
+- [Stop Googling | Start Chopping!!](https://www.youtube.com/watch?v=bvCYpVqkn54)
 <!-- YOUTUBE:END -->
 
 
