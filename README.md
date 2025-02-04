@@ -70,15 +70,6 @@ Here are some ideas to get you started:
 - [How to Run a Class Within a WAR File Using the Command Line](https://feeds.feedblitz.com/~/911998601/0/baeldung~How-to-Run-a-Class-Within-a-WAR-File-Using-the-Command-Line)
 <!-- BLOG-POST-LIST:END -->
 
-### 📕 Latest Baeldung Posts
-
-<!-- BAELDUNG-POST-LIST:START -->
-- [A Simple HTTP Server With Java ServerSocket](https://feeds.feedblitz.com/~/912246938/0/baeldung~A-Simple-HTTP-Server-With-Java-ServerSocket)
-- [Count Numbers With Unique Digits](https://feeds.feedblitz.com/~/912246941/0/baeldung~Count-Numbers-With-Unique-Digits)
-- [How to Select Date From Datepicker in Selenium](https://feeds.feedblitz.com/~/912114908/0/baeldung~How-to-Select-Date-From-Datepicker-in-Selenium)
-- [Java Weekly, Issue 579](https://feeds.feedblitz.com/~/912030197/0/baeldung~Java-Weekly-Issue)
-- [How to Run a Class Within a WAR File Using the Command Line](https://feeds.feedblitz.com/~/911998601/0/baeldung~How-to-Run-a-Class-Within-a-WAR-File-Using-the-Command-Line)
-<!-- BAELDUNG-POST-LIST:END -->
 
 ---
 
