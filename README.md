@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 14: No New APIs &amp; Breaking Changes](https://dev.to/mongodb/nextjs-14-no-new-apis-breaking-changes-3nh3)
-- [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
-- [Web Development Roadmap 2023](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [A Simple HTTP Server With Java ServerSocket](https://feeds.feedblitz.com/~/912246938/0/baeldung~A-Simple-HTTP-Server-With-Java-ServerSocket)
+- [Count Numbers With Unique Digits](https://feeds.feedblitz.com/~/912246941/0/baeldung~Count-Numbers-With-Unique-Digits)
+- [How to Select Date From Datepicker in Selenium](https://feeds.feedblitz.com/~/912114908/0/baeldung~How-to-Select-Date-From-Datepicker-in-Selenium)
+- [Java Weekly, Issue 579](https://feeds.feedblitz.com/~/912030197/0/baeldung~Java-Weekly-Issue)
+- [How to Run a Class Within a WAR File Using the Command Line](https://feeds.feedblitz.com/~/911998601/0/baeldung~How-to-Run-a-Class-Within-a-WAR-File-Using-the-Command-Line)
 <!-- BLOG-POST-LIST:END -->
 
 ---
