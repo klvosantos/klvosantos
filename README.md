@@ -82,7 +82,7 @@ Here are some ideas to get you started:
   <br /> 
 
 <p align="center">
-<img alt="klvosantos's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=klvosantos&show_icons=true&hide_border=true&hide=stars,issues,contribs&theme=algolia" />  
+<img alt="klvosantos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=klvosantos&show_icons=true&hide_border=true&hide=stars,issues,contribs&theme=algolia" />  
 </p>
 
 ---
