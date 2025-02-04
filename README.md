@@ -83,6 +83,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img alt="klvosantos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=klvosantos&show_icons=true&hide_border=true&hide=stars,issues,contribs&theme=algolia" />  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klvosantos&layout-compact)](https://github.com/klvosantos/github-readme-stats&layout-compact)  
 </p>
 
 ---
