@@ -12,7 +12,7 @@ jobs:
       - name: Fetch latest blog posts
         run: |
           for i in {1..5}; do
-            curl -f https://feeder.co/discover/c761554f17/baeldung-com && break || sleep 10
+            curl -H "Accept: application/rss+xml" -f https://feeder.co/discover/c761554f17/baeldung-com && break || sleep 10
           done
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
