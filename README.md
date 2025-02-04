@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Student, Developer!
 
 - 🌱 I’m currently learning everything related to Spring, React and Blockchain🤣
-- 🥅 2024 Goals: Contribute to Open Source projects, blockchain projects, and be more fluent on technologies mentioned above.
+- 🥅 2025 Goals: Contribute to Open Source projects, blockchain projects, and be more fluent on technologies mentioned above.
 
 
 <br />
