@@ -11,8 +11,8 @@ jobs:
       - uses: actions/checkout@v2
       - name: Fetch latest blog posts
         run: |
-          for i in {1..5}; do
-            curl -H "Accept: application/rss+xml" -H "User-Agent: Mozilla/5.0" -f http://feeds.feedburner.com/Baeldung && break || sleep 10
+          for i in {1..10}; do
+            curl -H "Accept: application/rss+xml" -H "User-Agent: Mozilla/5.0" -f http://feeds.feedburner.com/Baeldung && break || sleep 30
           done
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
