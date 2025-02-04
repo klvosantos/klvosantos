@@ -1,15 +1,19 @@
-
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch:  
+  workflow_dispatch:
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Fetch latest blog posts
+        run: |
+          for i in {1..5}; do
+            curl -f https://feeder.co/discover/c761554f17/baeldung-com && break || sleep 10
+          done
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/codestackr, https://feeder.co/discover/c761554f17/baeldung-com"   
+          feed_list: "https://dev.to/feed/codestackr, https://feeder.co/discover/c761554f17/baeldung-com"
