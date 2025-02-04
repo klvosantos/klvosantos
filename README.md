@@ -80,19 +80,14 @@ Here are some ideas to get you started:
 
 
 <summary>:zap: GitHub Stats</summary>
+<p align="center">
 
-
-<p>
-<img alt="klvosantos's GitHub Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=klvosantos&show_icons=true&hide_border=true&hide=stars,issues,contribs&theme=algolia"/>  
-
+<img alt="klvosantos's GitHub Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=klvosantos&show_icons=true&hide_border=true&hide=stars,issues,contribs&theme=algolia"/> 
 <img alt="Top Langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klvosantos&layout-compact"/> 
-  
+
 </p>
 
-
 ### Connect with me:
-<br />
-
 
 [<img align="left" alt="klvosantos | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
