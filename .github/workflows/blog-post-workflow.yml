@@ -12,7 +12,7 @@ jobs:
       - name: Fetch latest blog posts
         run: |
           for i in {1..10}; do
-            curl -H "Accept: application/rss+xml" -H "User-Agent: Mozilla/5.0" -f http://feeds.feedburner.com/Baeldung && break || sleep 30
+            curl -H "Accept: application/rss+xml" -H "User-Agent: Mozilla/5.0" -f https://feeds.feedblitz.com/baeldung && break || sleep 30
           done
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
