@@ -16,4 +16,5 @@ jobs:
           done
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://dev.to/feed/codestackr, http://feeds.feedburner.com/Baeldung"
