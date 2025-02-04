@@ -56,23 +56,21 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Ciência da Computação ou ADS: qual escolher? Algumas reflexões - Devsuperior - Prof Nelio Alves](https://www.youtube.com/watch?v=MvY0zUmMQv8)
-- [Desafio Técnico Integração de API - Dicas sobre o que é mais importante - Devsuperior - Nelio Alves](https://www.youtube.com/watch?v=25AliLOMYtY)
-- [Unir teoria e prática no desenvolvimento - Exemplo com relacionamento um para um](https://www.youtube.com/watch?v=7WkEsJHK4Q0)
-- [Projeto do Intensivão Java Spring - treinamento GRATUITO](https://www.youtube.com/watch?v=G9xwN1kyaNE)
-- [Padrão de projeto strategy no Spring | Carreira Java | Prof Nelio Alves | Devsuperior](https://www.youtube.com/watch?v=TgfdjuEGY1Y)
+
 <!-- YOUTUBE:END -->
 
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A Simple HTTP Server With Java ServerSocket](https://feeds.feedblitz.com/~/912246938/0/baeldung~A-Simple-HTTP-Server-With-Java-ServerSocket)
-- [Count Numbers With Unique Digits](https://feeds.feedblitz.com/~/912246941/0/baeldung~Count-Numbers-With-Unique-Digits)
-- [How to Select Date From Datepicker in Selenium](https://feeds.feedblitz.com/~/912114908/0/baeldung~How-to-Select-Date-From-Datepicker-in-Selenium)
-- [Java Weekly, Issue 579](https://feeds.feedblitz.com/~/912030197/0/baeldung~Java-Weekly-Issue)
-- [How to Run a Class Within a WAR File Using the Command Line](https://feeds.feedblitz.com/~/911998601/0/baeldung~How-to-Run-a-Class-Within-a-WAR-File-Using-the-Command-Line)
+
 <!-- BLOG-POST-LIST:END -->
+
+### 📕 Latest Baeldung Posts
+
+<!-- BAELDUNG-POST-LIST:START -->
+
+<!-- BAELDUNG-POST-LIST:END -->
 
 ---
 
