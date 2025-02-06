@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Amazon Nova Models With Spring AI](https://feeds.feedblitz.com/~/912378740/0/baeldung~Using-Amazon-Nova-Models-With-Spring-AI)
 - [How to Execute Load Tests Using the k6 Framework](https://feeds.feedblitz.com/~/912377963/0/baeldung~How-to-Execute-Load-Tests-Using-the-k-Framework)
 - [Preconditions in Liquibase](https://feeds.feedblitz.com/~/912318320/0/baeldung~Preconditions-in-Liquibase)
 - [A Simple HTTP Server With Java ServerSocket](https://feeds.feedblitz.com/~/912246938/0/baeldung~A-Simple-HTTP-Server-With-Java-ServerSocket)
 - [Count Numbers With Unique Digits](https://feeds.feedblitz.com/~/912246941/0/baeldung~Count-Numbers-With-Unique-Digits)
-- [How to Select Date From Datepicker in Selenium](https://feeds.feedblitz.com/~/912114908/0/baeldung~How-to-Select-Date-From-Datepicker-in-Selenium)
 <!-- BLOG-POST-LIST:END -->
 
 
