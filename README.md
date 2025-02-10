@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Pkl With Spring Boot](https://feeds.feedblitz.com/~/912661361/0/baeldung~Integrating-Pkl-With-Spring-Boot)
+- [Introduction to Pulumi With Java](https://feeds.feedblitz.com/~/912661364/0/baeldung~Introduction-to-Pulumi-With-Java)
+- [Putting Value Into Map if Not Null in Java](https://feeds.feedblitz.com/~/912660632/0/baeldung~Putting-Value-Into-Map-if-Not-Null-in-Java)
 - [Java Weekly, Issue 580](https://feeds.feedblitz.com/~/912481238/0/baeldung~Java-Weekly-Issue)
 - [Execute a JAR File From a Java Program](https://feeds.feedblitz.com/~/912468569/0/baeldung~Execute-a-JAR-File-From-a-Java-Program)
-- [Using Amazon Nova Models With Spring AI](https://feeds.feedblitz.com/~/912378740/0/baeldung~Using-Amazon-Nova-Models-With-Spring-AI)
-- [How to Execute Load Tests Using the k6 Framework](https://feeds.feedblitz.com/~/912377963/0/baeldung~How-to-Execute-Load-Tests-Using-the-k-Framework)
-- [Preconditions in Liquibase](https://feeds.feedblitz.com/~/912318320/0/baeldung~Preconditions-in-Liquibase)
 <!-- BLOG-POST-LIST:END -->
 
 
