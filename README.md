@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Difference Between isA&lpar;&rpar; and anyObject&lpar;&rpar; in EasyMock](https://feeds.feedblitz.com/~/912826709/0/baeldung~Difference-Between-isA-and-anyObject-in-EasyMock)
 - [Testing LLM Responses Using Spring AI Evaluators](https://feeds.feedblitz.com/~/912662426/0/baeldung~Testing-LLM-Responses-Using-Spring-AI-Evaluators)
 - [Integrating Pkl With Spring Boot](https://feeds.feedblitz.com/~/912661361/0/baeldung~Integrating-Pkl-With-Spring-Boot)
 - [Introduction to Pulumi With Java](https://feeds.feedblitz.com/~/912661364/0/baeldung~Introduction-to-Pulumi-With-Java)
 - [Putting Value Into Map if Not Null in Java](https://feeds.feedblitz.com/~/912660632/0/baeldung~Putting-Value-Into-Map-if-Not-Null-in-Java)
-- [Java Weekly, Issue 580](https://feeds.feedblitz.com/~/912481238/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
