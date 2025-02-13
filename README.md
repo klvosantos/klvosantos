@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resolving ClassCastException: Ljava.lang.Object; cannot be cast to Ljava.lang.Integer](https://feeds.feedblitz.com/~/912932009/0/baeldung~Resolving-ClassCastException-LjavalangObject-cannot-be-cast-to-LjavalangInteger)
+- [Using Greater-Than-Or-Equal-to in a Switch Statement in Java](https://feeds.feedblitz.com/~/912932012/0/baeldung~Using-GreaterThanOrEqualto-in-a-Switch-Statement-in-Java)
 - [Difference Between isA&lpar;&rpar; and anyObject&lpar;&rpar; in EasyMock](https://feeds.feedblitz.com/~/912826709/0/baeldung~Difference-Between-isA-and-anyObject-in-EasyMock)
 - [Testing LLM Responses Using Spring AI Evaluators](https://feeds.feedblitz.com/~/912662426/0/baeldung~Testing-LLM-Responses-Using-Spring-AI-Evaluators)
 - [Integrating Pkl With Spring Boot](https://feeds.feedblitz.com/~/912661361/0/baeldung~Integrating-Pkl-With-Spring-Boot)
-- [Introduction to Pulumi With Java](https://feeds.feedblitz.com/~/912661364/0/baeldung~Introduction-to-Pulumi-With-Java)
-- [Putting Value Into Map if Not Null in Java](https://feeds.feedblitz.com/~/912660632/0/baeldung~Putting-Value-Into-Map-if-Not-Null-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
