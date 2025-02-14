@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 581](https://feeds.feedblitz.com/~/912963116/0/baeldung~Java-Weekly-Issue)
 - [Resolving ClassCastException: Ljava.lang.Object; cannot be cast to Ljava.lang.Integer](https://feeds.feedblitz.com/~/912932009/0/baeldung~Resolving-ClassCastException-LjavalangObject-cannot-be-cast-to-LjavalangInteger)
 - [Using Greater-Than-Or-Equal-to in a Switch Statement in Java](https://feeds.feedblitz.com/~/912932012/0/baeldung~Using-GreaterThanOrEqualto-in-a-Switch-Statement-in-Java)
 - [Difference Between isA&lpar;&rpar; and anyObject&lpar;&rpar; in EasyMock](https://feeds.feedblitz.com/~/912826709/0/baeldung~Difference-Between-isA-and-anyObject-in-EasyMock)
 - [Testing LLM Responses Using Spring AI Evaluators](https://feeds.feedblitz.com/~/912662426/0/baeldung~Testing-LLM-Responses-Using-Spring-AI-Evaluators)
-- [Integrating Pkl With Spring Boot](https://feeds.feedblitz.com/~/912661361/0/baeldung~Integrating-Pkl-With-Spring-Boot)
 <!-- BLOG-POST-LIST:END -->
 
 
