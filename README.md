@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Connect Kafka with ElasticSearch](https://feeds.feedblitz.com/~/913194614/0/baeldung~How-to-Connect-Kafka-with-ElasticSearch)
 - [Sorting Alphanumeric Strings in Java](https://feeds.feedblitz.com/~/913054787/0/baeldung~Sorting-Alphanumeric-Strings-in-Java)
 - [How to Distinguish Between Field Absent vs. Null in Jackson](https://feeds.feedblitz.com/~/913054790/0/baeldung~How-to-Distinguish-Between-Field-Absent-vs-Null-in-Jackson)
 - [Create Kafka Consumers With Reactor Kafka](https://feeds.feedblitz.com/~/913054793/0/baeldung~Create-Kafka-Consumers-With-Reactor-Kafka)
 - [How to Execute Multiple SQL Statements as One in JDBC](https://feeds.feedblitz.com/~/913053995/0/baeldung~How-to-Execute-Multiple-SQL-Statements-as-One-in-JDBC)
-- [Building and Running a Micronaut Application in a Docker Container](https://feeds.feedblitz.com/~/913053998/0/baeldung~Building-and-Running-a-Micronaut-Application-in-a-Docker-Container)
 <!-- BLOG-POST-LIST:END -->
 
 
