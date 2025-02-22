@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Weekly, Issue 582](https://feeds.feedblitz.com/~/913480544/0/baeldung~Java-Weekly-Issue)
-- [Implement SASL Authentication in Kafka With JAAS Config](https://feeds.feedblitz.com/~/913456490/0/baeldung~Implement-SASL-Authentication-in-Kafka-With-JAAS-Config)
-- [Introduction to ActiveJ](https://feeds.feedblitz.com/~/913456493/0/baeldung~Introduction-to-ActiveJ)
-- [How to Connect Kafka with ElasticSearch](https://feeds.feedblitz.com/~/913194614/0/baeldung~How-to-Connect-Kafka-with-ElasticSearch)
-- [Sorting Alphanumeric Strings in Java](https://feeds.feedblitz.com/~/913054787/0/baeldung~Sorting-Alphanumeric-Strings-in-Java)
+- [Getting Started With jMonkeyEngine](https://feeds.feedblitz.com/~/913558460/0/baeldung)
+- [Composite Item Reader in Spring Batch](https://feeds.feedblitz.com/~/913557128/0/baeldung)
+- [How to Add Partitions to an Existing Topic in Kafka](https://feeds.feedblitz.com/~/913557131/0/baeldung)
+- [Java Weekly, Issue 582](https://feeds.feedblitz.com/~/913480544/0/baeldung)
+- [Implement SASL Authentication in Kafka With JAAS Config](https://feeds.feedblitz.com/~/913456490/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
