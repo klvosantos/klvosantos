@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started With jMonkeyEngine](https://feeds.feedblitz.com/~/913558460/0/baeldung)
-- [Composite Item Reader in Spring Batch](https://feeds.feedblitz.com/~/913557128/0/baeldung)
-- [How to Add Partitions to an Existing Topic in Kafka](https://feeds.feedblitz.com/~/913557131/0/baeldung)
-- [Java Weekly, Issue 582](https://feeds.feedblitz.com/~/913480544/0/baeldung)
-- [Implement SASL Authentication in Kafka With JAAS Config](https://feeds.feedblitz.com/~/913456490/0/baeldung)
+- [Getting Started With jMonkeyEngine](https://feeds.feedblitz.com/~/913558460/0/baeldung~Getting-Started-With-jMonkeyEngine)
+- [Composite Item Reader in Spring Batch](https://feeds.feedblitz.com/~/913557128/0/baeldung~Composite-Item-Reader-in-Spring-Batch)
+- [How to Add Partitions to an Existing Topic in Kafka](https://feeds.feedblitz.com/~/913557131/0/baeldung~How-to-Add-Partitions-to-an-Existing-Topic-in-Kafka)
+- [Java Weekly, Issue 582](https://feeds.feedblitz.com/~/913480544/0/baeldung~Java-Weekly-Issue)
+- [Implement SASL Authentication in Kafka With JAAS Config](https://feeds.feedblitz.com/~/913456490/0/baeldung~Implement-SASL-Authentication-in-Kafka-With-JAAS-Config)
 <!-- BLOG-POST-LIST:END -->
 
 
