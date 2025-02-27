@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Constructing a Lexical Analyzer in Java](https://feeds.feedblitz.com/~/913805642/0/baeldung)
-- [How to Display the Last Two Digits of the Current Year in Java](https://feeds.feedblitz.com/~/913805645/0/baeldung)
-- [Printing out a LinkedList Using toString&lpar;&rpar;](https://feeds.feedblitz.com/~/913737695/0/baeldung)
-- [How to Run Selenium Regression Tests With GitHub Actions](https://feeds.feedblitz.com/~/913735505/0/baeldung)
-- [Getting Started With jMonkeyEngine](https://feeds.feedblitz.com/~/913558460/0/baeldung)
+- [Java Weekly, Issue 583](https://feeds.feedblitz.com/~/913874129/0/baeldung~Java-Weekly-Issue)
+- [Constructing a Lexical Analyzer in Java](https://feeds.feedblitz.com/~/913805642/0/baeldung~Constructing-a-Lexical-Analyzer-in-Java)
+- [How to Display the Last Two Digits of the Current Year in Java](https://feeds.feedblitz.com/~/913805645/0/baeldung~How-to-Display-the-Last-Two-Digits-of-the-Current-Year-in-Java)
+- [Printing out a LinkedList Using toString&lpar;&rpar;](https://feeds.feedblitz.com/~/913737695/0/baeldung~Printing-out-a-LinkedList-Using-toString)
+- [How to Run Selenium Regression Tests With GitHub Actions](https://feeds.feedblitz.com/~/913735505/0/baeldung~How-to-Run-Selenium-Regression-Tests-With-GitHub-Actions)
 <!-- BLOG-POST-LIST:END -->
 
 
