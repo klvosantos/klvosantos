@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Equivalent to Python’s Easy String Slicing](https://feeds.feedblitz.com/~/913938407/0/baeldung~Java-Equivalent-to-Pythons-Easy-String-Slicing)
+- [Integrating Passkeys into Spring Security](https://feeds.feedblitz.com/~/913938410/0/baeldung~Integrating-Passkeys-into-Spring-Security)
+- [What Is the Difference Between JDK_JAVA_OPTIONS and JAVA_TOOL_OPTIONS?](https://feeds.feedblitz.com/~/913938413/0/baeldung~What-Is-the-Difference-Between-JDKJAVAOPTIONS-and-JAVATOOLOPTIONS)
+- [Add External JAR File to IntelliJ Project](https://feeds.feedblitz.com/~/913938416/0/baeldung~Add-External-JAR-File-to-IntelliJ-Project)
 - [Java Weekly, Issue 583](https://feeds.feedblitz.com/~/913874129/0/baeldung~Java-Weekly-Issue)
-- [Constructing a Lexical Analyzer in Java](https://feeds.feedblitz.com/~/913805642/0/baeldung~Constructing-a-Lexical-Analyzer-in-Java)
-- [How to Display the Last Two Digits of the Current Year in Java](https://feeds.feedblitz.com/~/913805645/0/baeldung~How-to-Display-the-Last-Two-Digits-of-the-Current-Year-in-Java)
-- [Printing out a LinkedList Using toString&lpar;&rpar;](https://feeds.feedblitz.com/~/913737695/0/baeldung~Printing-out-a-LinkedList-Using-toString)
-- [How to Run Selenium Regression Tests With GitHub Actions](https://feeds.feedblitz.com/~/913735505/0/baeldung~How-to-Run-Selenium-Regression-Tests-With-GitHub-Actions)
 <!-- BLOG-POST-LIST:END -->
 
 
