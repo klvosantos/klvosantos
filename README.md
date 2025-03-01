@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Custom Linked List Data Structure in Java](https://feeds.feedblitz.com/~/914023514/0/baeldung~Creating-a-Custom-Linked-List-Data-Structure-in-Java)
 - [Java Equivalent to Python’s Easy String Slicing](https://feeds.feedblitz.com/~/913938407/0/baeldung~Java-Equivalent-to-Pythons-Easy-String-Slicing)
 - [Integrating Passkeys into Spring Security](https://feeds.feedblitz.com/~/913938410/0/baeldung~Integrating-Passkeys-into-Spring-Security)
 - [What Is the Difference Between JDK_JAVA_OPTIONS and JAVA_TOOL_OPTIONS?](https://feeds.feedblitz.com/~/913938413/0/baeldung~What-Is-the-Difference-Between-JDKJAVAOPTIONS-and-JAVATOOLOPTIONS)
 - [Add External JAR File to IntelliJ Project](https://feeds.feedblitz.com/~/913938416/0/baeldung~Add-External-JAR-File-to-IntelliJ-Project)
-- [Java Weekly, Issue 583](https://feeds.feedblitz.com/~/913874129/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
