@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Semantic Search Using Spring AI and PGVector](https://feeds.feedblitz.com/~/914063474/0/baeldung~Implementing-Semantic-Search-Using-Spring-AI-and-PGVector)
+- [Generate Avro Schema From Certain Java Class](https://feeds.feedblitz.com/~/914063477/0/baeldung~Generate-Avro-Schema-From-Certain-Java-Class)
+- [Exploring Model Context Protocol &lpar;MCP&rpar; With Spring AI](https://feeds.feedblitz.com/~/914063480/0/baeldung~Exploring-Model-Context-Protocol-MCP-With-Spring-AI)
 - [Creating a Custom Linked List Data Structure in Java](https://feeds.feedblitz.com/~/914023514/0/baeldung~Creating-a-Custom-Linked-List-Data-Structure-in-Java)
 - [Java Equivalent to Python’s Easy String Slicing](https://feeds.feedblitz.com/~/913938407/0/baeldung~Java-Equivalent-to-Pythons-Easy-String-Slicing)
-- [Integrating Passkeys into Spring Security](https://feeds.feedblitz.com/~/913938410/0/baeldung~Integrating-Passkeys-into-Spring-Security)
-- [What Is the Difference Between JDK_JAVA_OPTIONS and JAVA_TOOL_OPTIONS?](https://feeds.feedblitz.com/~/913938413/0/baeldung~What-Is-the-Difference-Between-JDKJAVAOPTIONS-and-JAVATOOLOPTIONS)
-- [Add External JAR File to IntelliJ Project](https://feeds.feedblitz.com/~/913938416/0/baeldung~Add-External-JAR-File-to-IntelliJ-Project)
 <!-- BLOG-POST-LIST:END -->
 
 
