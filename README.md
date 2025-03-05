@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI Chatbot Using DeepSeek Models With Spring AI](https://feeds.feedblitz.com/~/914263478/0/baeldung~Building-an-AI-Chatbot-Using-DeepSeek-Models-With-Spring-AI)
 - [How to Ignore Scenarios in Cucumber](https://feeds.feedblitz.com/~/914245742/0/baeldung~How-to-Ignore-Scenarios-in-Cucumber)
 - [How Hibernate Dirty Checking Mechanism Works](https://feeds.feedblitz.com/~/914245745/0/baeldung~How-Hibernate-Dirty-Checking-Mechanism-Works)
 - [Implementing Semantic Search Using Spring AI and PGVector](https://feeds.feedblitz.com/~/914063474/0/baeldung~Implementing-Semantic-Search-Using-Spring-AI-and-PGVector)
 - [Generate Avro Schema From Certain Java Class](https://feeds.feedblitz.com/~/914063477/0/baeldung~Generate-Avro-Schema-From-Certain-Java-Class)
-- [Exploring Model Context Protocol &lpar;MCP&rpar; With Spring AI](https://feeds.feedblitz.com/~/914063480/0/baeldung~Exploring-Model-Context-Protocol-MCP-With-Spring-AI)
 <!-- BLOG-POST-LIST:END -->
 
 
