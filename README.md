@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gradle Equivalents for Maven Commands](https://feeds.feedblitz.com/~/914353634/0/baeldung~Gradle-Equivalents-for-Maven-Commands)
+- [Using Google Translate API in a Java Application](https://feeds.feedblitz.com/~/914353637/0/baeldung~Using-Google-Translate-API-in-a-Java-Application)
 - [Java Weekly, Issue 584](https://feeds.feedblitz.com/~/914303771/0/baeldung~Java-Weekly-Issue)
 - [Building an AI Chatbot Using DeepSeek Models With Spring AI](https://feeds.feedblitz.com/~/914263478/0/baeldung~Building-an-AI-Chatbot-Using-DeepSeek-Models-With-Spring-AI)
 - [How to Ignore Scenarios in Cucumber](https://feeds.feedblitz.com/~/914245742/0/baeldung~How-to-Ignore-Scenarios-in-Cucumber)
-- [How Hibernate Dirty Checking Mechanism Works](https://feeds.feedblitz.com/~/914245745/0/baeldung~How-Hibernate-Dirty-Checking-Mechanism-Works)
-- [Implementing Semantic Search Using Spring AI and PGVector](https://feeds.feedblitz.com/~/914063474/0/baeldung~Implementing-Semantic-Search-Using-Spring-AI-and-PGVector)
 <!-- BLOG-POST-LIST:END -->
 
 
