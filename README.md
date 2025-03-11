@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Decreasing IntelliJ RAM Usage](https://feeds.feedblitz.com/~/914576678/0/baeldung~Decreasing-IntelliJ-RAM-Usage)
+- [List Matchers with Generics in Mockito](https://feeds.feedblitz.com/~/914576681/0/baeldung~List-Matchers-with-Generics-in-Mockito)
+- [How to Map a Source Object to the Target List Using MapStruct?](https://feeds.feedblitz.com/~/914576072/0/baeldung~How-to-Map-a-Source-Object-to-the-Target-List-Using-MapStruct)
+- [How to Convert Nested Loops to Stream in Java](https://feeds.feedblitz.com/~/914576075/0/baeldung~How-to-Convert-Nested-Loops-to-Stream-in-Java)
 - [Comparing Long Values Using Collections.sort&lpar;&rpar;](https://feeds.feedblitz.com/~/914401853/0/baeldung~Comparing-Long-Values-Using-Collectionssort)
-- [Introduction to JanusGraph](https://feeds.feedblitz.com/~/914401856/0/baeldung~Introduction-to-JanusGraph)
-- [Guide to Disable Spring Security](https://feeds.feedblitz.com/~/914401859/0/baeldung~Guide-to-Disable-Spring-Security)
-- [Gradle Equivalents for Maven Commands](https://feeds.feedblitz.com/~/914353634/0/baeldung~Gradle-Equivalents-for-Maven-Commands)
-- [Using Google Translate API in a Java Application](https://feeds.feedblitz.com/~/914353637/0/baeldung~Using-Google-Translate-API-in-a-Java-Application)
 <!-- BLOG-POST-LIST:END -->
 
 
