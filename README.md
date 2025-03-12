@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Difference Between Apache Camel and Apache Kafka](https://feeds.feedblitz.com/~/914685485/0/baeldung~Difference-Between-Apache-Camel-and-Apache-Kafka)
 - [Decreasing IntelliJ RAM Usage](https://feeds.feedblitz.com/~/914576678/0/baeldung~Decreasing-IntelliJ-RAM-Usage)
 - [List Matchers with Generics in Mockito](https://feeds.feedblitz.com/~/914576681/0/baeldung~List-Matchers-with-Generics-in-Mockito)
 - [How to Map a Source Object to the Target List Using MapStruct?](https://feeds.feedblitz.com/~/914576072/0/baeldung~How-to-Map-a-Source-Object-to-the-Target-List-Using-MapStruct)
 - [How to Convert Nested Loops to Stream in Java](https://feeds.feedblitz.com/~/914576075/0/baeldung~How-to-Convert-Nested-Loops-to-Stream-in-Java)
-- [Comparing Long Values Using Collections.sort&lpar;&rpar;](https://feeds.feedblitz.com/~/914401853/0/baeldung~Comparing-Long-Values-Using-Collectionssort)
 <!-- BLOG-POST-LIST:END -->
 
 
