@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The OpenAI API Java Client](https://feeds.feedblitz.com/~/897535991/0/baeldung~The-OpenAI-API-Java-Client)
+- [Introduction to J2CL](https://feeds.feedblitz.com/~/914775194/0/baeldung~Introduction-to-JCL)
+- [Labeled Breaks in Java: Useful Tool or Code Smell?](https://feeds.feedblitz.com/~/914775197/0/baeldung~Labeled-Breaks-in-Java-Useful-Tool-or-Code-Smell)
+- [Enable HTTP2 with Tomcat in Spring Boot](https://feeds.feedblitz.com/~/914775200/0/baeldung~Enable-HTTP-with-Tomcat-in-Spring-Boot)
 - [Java Weekly, Issue 585](https://feeds.feedblitz.com/~/914733248/0/baeldung~Java-Weekly-Issue)
-- [Difference Between Apache Camel and Apache Kafka](https://feeds.feedblitz.com/~/914685485/0/baeldung~Difference-Between-Apache-Camel-and-Apache-Kafka)
-- [Decreasing IntelliJ RAM Usage](https://feeds.feedblitz.com/~/914576678/0/baeldung~Decreasing-IntelliJ-RAM-Usage)
-- [List Matchers with Generics in Mockito](https://feeds.feedblitz.com/~/914576681/0/baeldung~List-Matchers-with-Generics-in-Mockito)
-- [How to Map a Source Object to the Target List Using MapStruct?](https://feeds.feedblitz.com/~/914576072/0/baeldung~How-to-Map-a-Source-Object-to-the-Target-List-Using-MapStruct)
 <!-- BLOG-POST-LIST:END -->
 
 
