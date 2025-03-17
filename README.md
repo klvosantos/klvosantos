@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparing Java Stream and Flux.fromIterable&lpar;&rpar;](https://feeds.feedblitz.com/~/914922452/0/baeldung~Comparing-Java-Stream-and-FluxfromIterable)
+- [Integrating Jolokia With Spring Boot](https://feeds.feedblitz.com/~/914922455/0/baeldung~Integrating-Jolokia-With-Spring-Boot)
 - [The OpenAI API Java Client](https://feeds.feedblitz.com/~/897535991/0/baeldung~The-OpenAI-API-Java-Client)
 - [Introduction to J2CL](https://feeds.feedblitz.com/~/914775194/0/baeldung~Introduction-to-JCL)
 - [Labeled Breaks in Java: Useful Tool or Code Smell?](https://feeds.feedblitz.com/~/914775197/0/baeldung~Labeled-Breaks-in-Java-Useful-Tool-or-Code-Smell)
-- [Enable HTTP2 with Tomcat in Spring Boot](https://feeds.feedblitz.com/~/914775200/0/baeldung~Enable-HTTP-with-Tomcat-in-Spring-Boot)
-- [Java Weekly, Issue 585](https://feeds.feedblitz.com/~/914733248/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
