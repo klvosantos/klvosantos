@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reusing a PreparedStatement Multiple Times in Java](https://feeds.feedblitz.com/~/915593018/0/baeldung~Reusing-a-PreparedStatement-Multiple-Times-in-Java)
 - [Introduction to OSHI](https://feeds.feedblitz.com/~/915530360/0/baeldung~Introduction-to-OSHI)
 - [Mocking JDBC for Unit Testing](https://feeds.feedblitz.com/~/915285200/0/baeldung~Mocking-JDBC-for-Unit-Testing)
 - [Session/Cookie Management in Apache JMeter](https://feeds.feedblitz.com/~/915285203/0/baeldung~SessionCookie-Management-in-Apache-JMeter)
 - [Management Interface in Quarkus](https://feeds.feedblitz.com/~/915284597/0/baeldung~Management-Interface-in-Quarkus)
-- [Send and Receive Serialized Object in Socket Channel](https://feeds.feedblitz.com/~/915284600/0/baeldung~Send-and-Receive-Serialized-Object-in-Socket-Channel)
 <!-- BLOG-POST-LIST:END -->
 
 
