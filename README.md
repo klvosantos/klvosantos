@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 587](https://feeds.feedblitz.com/~/915734399/0/baeldung~Java-Weekly-Issue)
 - [Open Multiple Projects in the Same Window in IntelliJ IDEA](https://feeds.feedblitz.com/~/915715799/0/baeldung~Open-Multiple-Projects-in-the-Same-Window-in-IntelliJ-IDEA)
 - [Closing Scanner in Java](https://feeds.feedblitz.com/~/915715802/0/baeldung~Closing-Scanner-in-Java)
 - [Monitor Non-Heap Memory Usage of a JVM](https://feeds.feedblitz.com/~/915715805/0/baeldung~Monitor-NonHeap-Memory-Usage-of-a-JVM)
 - [Java Naming Conventions](https://feeds.feedblitz.com/~/915711980/0/baeldung~Java-Naming-Conventions)
-- [Reusing a PreparedStatement Multiple Times in Java](https://feeds.feedblitz.com/~/915593018/0/baeldung~Reusing-a-PreparedStatement-Multiple-Times-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
