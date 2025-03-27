@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Multiple Projects in the Same Window in IntelliJ IDEA](https://feeds.feedblitz.com/~/915715799/0/baeldung~Open-Multiple-Projects-in-the-Same-Window-in-IntelliJ-IDEA)
+- [Closing Scanner in Java](https://feeds.feedblitz.com/~/915715802/0/baeldung~Closing-Scanner-in-Java)
+- [Monitor Non-Heap Memory Usage of a JVM](https://feeds.feedblitz.com/~/915715805/0/baeldung~Monitor-NonHeap-Memory-Usage-of-a-JVM)
+- [Java Naming Conventions](https://feeds.feedblitz.com/~/915711980/0/baeldung~Java-Naming-Conventions)
 - [Reusing a PreparedStatement Multiple Times in Java](https://feeds.feedblitz.com/~/915593018/0/baeldung~Reusing-a-PreparedStatement-Multiple-Times-in-Java)
-- [Introduction to OSHI](https://feeds.feedblitz.com/~/915530360/0/baeldung~Introduction-to-OSHI)
-- [Mocking JDBC for Unit Testing](https://feeds.feedblitz.com/~/915285200/0/baeldung~Mocking-JDBC-for-Unit-Testing)
-- [Session/Cookie Management in Apache JMeter](https://feeds.feedblitz.com/~/915285203/0/baeldung~SessionCookie-Management-in-Apache-JMeter)
-- [Management Interface in Quarkus](https://feeds.feedblitz.com/~/915284597/0/baeldung~Management-Interface-in-Quarkus)
 <!-- BLOG-POST-LIST:END -->
 
 
