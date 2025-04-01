@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Connect Java Spring Boot to Db2 Database](https://feeds.feedblitz.com/~/915967940/0/baeldung~Connect-Java-Spring-Boot-to-Db-Database)
 - [Java API for GitHub using GitHub-API](https://feeds.feedblitz.com/~/915826439/0/baeldung~Java-API-for-GitHub-using-GitHubAPI)
 - [EnableEurekaClient vs EnableDiscoveryClient: Which to Use?](https://feeds.feedblitz.com/~/915769022/0/baeldung~EnableEurekaClient-vs-EnableDiscoveryClient-Which-to-Use)
 - [Integrating WireMock with Spring Boot](https://feeds.feedblitz.com/~/915769025/0/baeldung~Integrating-WireMock-with-Spring-Boot)
 - [Output the Version Number to a Text File Using Maven](https://feeds.feedblitz.com/~/915768542/0/baeldung~Output-the-Version-Number-to-a-Text-File-Using-Maven)
-- [Java Weekly, Issue 587](https://feeds.feedblitz.com/~/915734399/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
