@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Weekly, Issue 588](https://feeds.feedblitz.com/~/916103168/0/baeldung~Java-Weekly-Issue)
-- [Connect Java Spring Boot to Db2 Database](https://feeds.feedblitz.com/~/915967940/0/baeldung~Connect-Java-Spring-Boot-to-Db-Database)
-- [Java API for GitHub using GitHub-API](https://feeds.feedblitz.com/~/915826439/0/baeldung~Java-API-for-GitHub-using-GitHubAPI)
-- [EnableEurekaClient vs EnableDiscoveryClient: Which to Use?](https://feeds.feedblitz.com/~/915769022/0/baeldung~EnableEurekaClient-vs-EnableDiscoveryClient-Which-to-Use)
-- [Integrating WireMock with Spring Boot](https://feeds.feedblitz.com/~/915769025/0/baeldung~Integrating-WireMock-with-Spring-Boot)
+- [What Is an API in Java?](https://feeds.feedblitz.com/~/916208774/0/baeldung~What-Is-an-API-in-Java)
+- [Converting a cURL Request to an HTTP Request in Java](https://feeds.feedblitz.com/~/916207919/0/baeldung~Converting-a-cURL-Request-to-an-HTTP-Request-in-Java)
+- [Load Shedding in Quarkus](https://feeds.feedblitz.com/~/916207922/0/baeldung~Load-Shedding-in-Quarkus)
+- [Copy Specific Fields by Using BeanUtils.copyProperties in Spring](https://feeds.feedblitz.com/~/916207160/0/baeldung~Copy-Specific-Fields-by-Using-BeanUtilscopyProperties-in-Spring)
+- [Synchronous Communication With Apache Kafka Using ReplyingKafkaTemplate](https://feeds.feedblitz.com/~/916207163/0/baeldung~Synchronous-Communication-With-Apache-Kafka-Using-ReplyingKafkaTemplate)
 <!-- BLOG-POST-LIST:END -->
 
 
