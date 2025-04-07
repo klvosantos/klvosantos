@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gatling Tests Monitoring](https://feeds.feedblitz.com/~/916301819/0/baeldung~Gatling-Tests-Monitoring)
 - [What Is an API in Java?](https://feeds.feedblitz.com/~/916208774/0/baeldung~What-Is-an-API-in-Java)
 - [Converting a cURL Request to an HTTP Request in Java](https://feeds.feedblitz.com/~/916207919/0/baeldung~Converting-a-cURL-Request-to-an-HTTP-Request-in-Java)
 - [Load Shedding in Quarkus](https://feeds.feedblitz.com/~/916207922/0/baeldung~Load-Shedding-in-Quarkus)
 - [Copy Specific Fields by Using BeanUtils.copyProperties in Spring](https://feeds.feedblitz.com/~/916207160/0/baeldung~Copy-Specific-Fields-by-Using-BeanUtilscopyProperties-in-Spring)
-- [Synchronous Communication With Apache Kafka Using ReplyingKafkaTemplate](https://feeds.feedblitz.com/~/916207163/0/baeldung~Synchronous-Communication-With-Apache-Kafka-Using-ReplyingKafkaTemplate)
 <!-- BLOG-POST-LIST:END -->
 
 
