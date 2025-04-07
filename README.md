@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get the Index Values From forEach Loop in JSTL](https://feeds.feedblitz.com/~/916326902/0/baeldung~Get-the-Index-Values-From-forEach-Loop-in-JSTL)
 - [Gatling Tests Monitoring](https://feeds.feedblitz.com/~/916301819/0/baeldung~Gatling-Tests-Monitoring)
 - [What Is an API in Java?](https://feeds.feedblitz.com/~/916208774/0/baeldung~What-Is-an-API-in-Java)
 - [Converting a cURL Request to an HTTP Request in Java](https://feeds.feedblitz.com/~/916207919/0/baeldung~Converting-a-cURL-Request-to-an-HTTP-Request-in-Java)
 - [Load Shedding in Quarkus](https://feeds.feedblitz.com/~/916207922/0/baeldung~Load-Shedding-in-Quarkus)
-- [Copy Specific Fields by Using BeanUtils.copyProperties in Spring](https://feeds.feedblitz.com/~/916207160/0/baeldung~Copy-Specific-Fields-by-Using-BeanUtilscopyProperties-in-Spring)
 <!-- BLOG-POST-LIST:END -->
 
 
