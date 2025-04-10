@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 589](https://feeds.feedblitz.com/~/916490282/0/baeldung~Java-Weekly-Issue)
 - [Extracting Structured Data From Images Using Spring AI](https://feeds.feedblitz.com/~/916425668/0/baeldung~Extracting-Structured-Data-From-Images-Using-Spring-AI)
 - [How to Keep a Container Running in Docker Compose](https://feeds.feedblitz.com/~/916379219/0/baeldung~How-to-Keep-a-Container-Running-in-Docker-Compose)
 - [Get the Index Values From forEach Loop in JSTL](https://feeds.feedblitz.com/~/916326902/0/baeldung~Get-the-Index-Values-From-forEach-Loop-in-JSTL)
 - [Gatling Tests Monitoring](https://feeds.feedblitz.com/~/916301819/0/baeldung~Gatling-Tests-Monitoring)
-- [What Is an API in Java?](https://feeds.feedblitz.com/~/916208774/0/baeldung~What-Is-an-API-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
