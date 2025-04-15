@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Currency Code to Currency Symbol Mapping in Java](https://feeds.feedblitz.com/~/916703195/0/baeldung~Currency-Code-to-Currency-Symbol-Mapping-in-Java)
+- [How to Check if Zookeeper Is Running or up From Command Prompt?](https://feeds.feedblitz.com/~/916703198/0/baeldung~How-to-Check-if-Zookeeper-Is-Running-or-up-From-Command-Prompt)
+- [Monitor a Java Application With New Relic](https://feeds.feedblitz.com/~/916703201/0/baeldung~Monitor-a-Java-Application-With-New-Relic)
 - [How to Run a Java Program in the Background](https://feeds.feedblitz.com/~/916702619/0/baeldung~How-to-Run-a-Java-Program-in-the-Background)
 - [How to Serialize and Deserialize Dates in Avro](https://feeds.feedblitz.com/~/916702622/0/baeldung~How-to-Serialize-and-Deserialize-Dates-in-Avro)
-- [Get Number of Files in a Directory and Its Subdirectories in Java](https://feeds.feedblitz.com/~/916540028/0/baeldung~Get-Number-of-Files-in-a-Directory-and-Its-Subdirectories-in-Java)
-- [Java Weekly, Issue 589](https://feeds.feedblitz.com/~/916490282/0/baeldung~Java-Weekly-Issue)
-- [Extracting Structured Data From Images Using Spring AI](https://feeds.feedblitz.com/~/916425668/0/baeldung~Extracting-Structured-Data-From-Images-Using-Spring-AI)
 <!-- BLOG-POST-LIST:END -->
 
 
