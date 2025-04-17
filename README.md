@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 590](https://feeds.feedblitz.com/~/916847789/0/baeldung~Java-Weekly-Issue)
 - [Set Multiple Headers at Once in Spring WebClient](https://feeds.feedblitz.com/~/916791077/0/baeldung~Set-Multiple-Headers-at-Once-in-Spring-WebClient)
 - [Introduction to Objenesis](https://feeds.feedblitz.com/~/916790267/0/baeldung~Introduction-to-Objenesis)
 - [Enable or Disable Embedded Tomcat with Profile in Spring Boot](https://feeds.feedblitz.com/~/916777781/0/baeldung~Enable-or-Disable-Embedded-Tomcat-with-Profile-in-Spring-Boot)
 - [Fix DateTimeParseException: “Unable to obtain LocalDateTime from TemporalAccessor”](https://feeds.feedblitz.com/~/916776893/0/baeldung~Fix-DateTimeParseException-Unable-to-obtain-LocalDateTime-from-TemporalAccessor)
-- [Currency Code to Currency Symbol Mapping in Java](https://feeds.feedblitz.com/~/916703195/0/baeldung~Currency-Code-to-Currency-Symbol-Mapping-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
