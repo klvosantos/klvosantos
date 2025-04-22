@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thread per Connection vs Thread per Request](https://feeds.feedblitz.com/~/917132147/0/baeldung~Thread-per-Connection-vs-Thread-per-Request)
 - [Generate a Valid Expression From a String of Numbers to Get Target Number](https://feeds.feedblitz.com/~/917020235/0/baeldung~Generate-a-Valid-Expression-From-a-String-of-Numbers-to-Get-Target-Number)
 - [Introduction to Apache Kylin](https://feeds.feedblitz.com/~/917019665/0/baeldung~Introduction-to-Apache-Kylin)
 - [Java Weekly, Issue 590](https://feeds.feedblitz.com/~/916847789/0/baeldung~Java-Weekly-Issue)
 - [Set Multiple Headers at Once in Spring WebClient](https://feeds.feedblitz.com/~/916791077/0/baeldung~Set-Multiple-Headers-at-Once-in-Spring-WebClient)
-- [Introduction to Objenesis](https://feeds.feedblitz.com/~/916790267/0/baeldung~Introduction-to-Objenesis)
 <!-- BLOG-POST-LIST:END -->
 
 
