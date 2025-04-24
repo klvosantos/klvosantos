@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Map an Empty String to Null Using MapStruct](https://feeds.feedblitz.com/~/917248481/0/baeldung~How-to-Map-an-Empty-String-to-Null-Using-MapStruct)
+- [Guide to Eclipse OpenJ9 JVM](https://feeds.feedblitz.com/~/917248484/0/baeldung~Guide-to-Eclipse-OpenJ-JVM)
+- [A Guide to RestFB](https://feeds.feedblitz.com/~/917248487/0/baeldung~A-Guide-to-RestFB)
 - [Building an AI Chatbot in Java With Langchain4j and MongoDB Atlas](https://feeds.feedblitz.com/~/917222792/0/baeldung~Building-an-AI-Chatbot-in-Java-With-Langchainj-and-MongoDB-Atlas)
 - [Thread per Connection vs Thread per Request](https://feeds.feedblitz.com/~/917132147/0/baeldung~Thread-per-Connection-vs-Thread-per-Request)
-- [Generate a Valid Expression From a String of Numbers to Get Target Number](https://feeds.feedblitz.com/~/917020235/0/baeldung~Generate-a-Valid-Expression-From-a-String-of-Numbers-to-Get-Target-Number)
-- [Introduction to Apache Kylin](https://feeds.feedblitz.com/~/917019665/0/baeldung~Introduction-to-Apache-Kylin)
-- [Java Weekly, Issue 590](https://feeds.feedblitz.com/~/916847789/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
