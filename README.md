@@ -69,9 +69,9 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [How to Fix Exception: Cannot Load Driver Class: com.mysql.jdbc.driver in Spring Boot](https://feeds.feedblitz.com/~/917543822/0/baeldung~How-to-Fix-Exception-Cannot-Load-Driver-Class-commysqljdbcdriver-in-Spring-Boot)
 - [Mastering Context in MapStruct: Leveraging @Context for Complex Source Mappings](https://feeds.feedblitz.com/~/917542634/0/baeldung~Mastering-Context-in-MapStruct-Leveraging-Context-for-Complex-Source-Mappings)
+- [Java Weekly, Issue 592](https://feeds.feedblitz.com/~/917631653/0/baeldung~Java-Weekly-Issue)
 - [Serialization of Enum Values in Avro](https://feeds.feedblitz.com/~/917399111/0/baeldung~Serialization-of-Enum-Values-in-Avro)
 - [Java Weekly, Issue 591](https://feeds.feedblitz.com/~/917269949/0/baeldung~Java-Weekly-Issue)
-- [How to Map an Empty String to Null Using MapStruct](https://feeds.feedblitz.com/~/917248481/0/baeldung~How-to-Map-an-Empty-String-to-Null-Using-MapStruct)
 <!-- BLOG-POST-LIST:END -->
 
 
