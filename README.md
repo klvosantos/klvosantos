@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Exception: Cannot Load Driver Class: com.mysql.jdbc.driver in Spring Boot](https://feeds.feedblitz.com/~/917543822/0/baeldung~How-to-Fix-Exception-Cannot-Load-Driver-Class-commysqljdbcdriver-in-Spring-Boot)
-- [Mastering Context in MapStruct: Leveraging @Context for Complex Source Mappings](https://feeds.feedblitz.com/~/917542634/0/baeldung~Mastering-Context-in-MapStruct-Leveraging-Context-for-Complex-Source-Mappings)
-- [Java Weekly, Issue 592](https://feeds.feedblitz.com/~/917631653/0/baeldung~Java-Weekly-Issue)
-- [Serialization of Enum Values in Avro](https://feeds.feedblitz.com/~/917399111/0/baeldung~Serialization-of-Enum-Values-in-Avro)
-- [Java Weekly, Issue 591](https://feeds.feedblitz.com/~/917269949/0/baeldung~Java-Weekly-Issue)
+- [Grouping Endpoints by Resources in Swagger](https://feeds.feedblitz.com/~/917737445/0/baeldung~Grouping-Endpoints-by-Resources-in-Swagger)
+- [Extracting Flat and Nested Keys from a JSONObject](https://feeds.feedblitz.com/~/917737448/0/baeldung~Extracting-Flat-and-Nested-Keys-from-a-JSONObject)
+- [Printing Stack Values in Java](https://feeds.feedblitz.com/~/917737451/0/baeldung~Printing-Stack-Values-in-Java)
+- [How to Fix H2 Console Not Showing in Browser With Spring Boot](https://feeds.feedblitz.com/~/917737454/0/baeldung~How-to-Fix-H-Console-Not-Showing-in-Browser-With-Spring-Boot)
+- [Determine if a File Is a PDF File in Java](https://feeds.feedblitz.com/~/917737019/0/baeldung~Determine-if-a-File-Is-a-PDF-File-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
