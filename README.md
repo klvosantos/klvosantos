@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Code Compilation Using Java Compiler API](https://feeds.feedblitz.com/~/917779853/0/baeldung~Java-Code-Compilation-Using-Java-Compiler-API)
 - [Grouping Endpoints by Resources in Swagger](https://feeds.feedblitz.com/~/917737445/0/baeldung~Grouping-Endpoints-by-Resources-in-Swagger)
 - [Extracting Flat and Nested Keys from a JSONObject](https://feeds.feedblitz.com/~/917737448/0/baeldung~Extracting-Flat-and-Nested-Keys-from-a-JSONObject)
 - [Printing Stack Values in Java](https://feeds.feedblitz.com/~/917737451/0/baeldung~Printing-Stack-Values-in-Java)
 - [How to Fix H2 Console Not Showing in Browser With Spring Boot](https://feeds.feedblitz.com/~/917737454/0/baeldung~How-to-Fix-H-Console-Not-Showing-in-Browser-With-Spring-Boot)
-- [Determine if a File Is a PDF File in Java](https://feeds.feedblitz.com/~/917737019/0/baeldung~Determine-if-a-File-Is-a-PDF-File-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
