@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Transcribing Audio Files With OpenAI in Spring AI](https://feeds.feedblitz.com/~/917913881/0/baeldung~Transcribing-Audio-Files-With-OpenAI-in-Spring-AI)
+- [Call Java Class in JSP](https://feeds.feedblitz.com/~/917912807/0/baeldung~Call-Java-Class-in-JSP)
+- [Micrometer Observation and Spring Kafka](https://feeds.feedblitz.com/~/917912810/0/baeldung~Micrometer-Observation-and-Spring-Kafka)
+- [How to Install NVM in a Docker Container](https://feeds.feedblitz.com/~/917911949/0/baeldung~How-to-Install-NVM-in-a-Docker-Container)
 - [Java Code Compilation Using Java Compiler API](https://feeds.feedblitz.com/~/917779853/0/baeldung~Java-Code-Compilation-Using-Java-Compiler-API)
-- [Grouping Endpoints by Resources in Swagger](https://feeds.feedblitz.com/~/917737445/0/baeldung~Grouping-Endpoints-by-Resources-in-Swagger)
-- [Extracting Flat and Nested Keys from a JSONObject](https://feeds.feedblitz.com/~/917737448/0/baeldung~Extracting-Flat-and-Nested-Keys-from-a-JSONObject)
-- [Printing Stack Values in Java](https://feeds.feedblitz.com/~/917737451/0/baeldung~Printing-Stack-Values-in-Java)
-- [How to Fix H2 Console Not Showing in Browser With Spring Boot](https://feeds.feedblitz.com/~/917737454/0/baeldung~How-to-Fix-H-Console-Not-Showing-in-Browser-With-Spring-Boot)
 <!-- BLOG-POST-LIST:END -->
 
 
