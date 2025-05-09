@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Query in DynamoDB on the Basis of Partition Key and Sort Key](https://feeds.feedblitz.com/~/918009296/0/baeldung~Query-in-DynamoDB-on-the-Basis-of-Partition-Key-and-Sort-Key)
 - [Validate Map Using Spring Validator](https://feeds.feedblitz.com/~/917988032/0/baeldung~Validate-Map-Using-Spring-Validator)
 - [Testing in Java Series](https://feeds.feedblitz.com/~/917965241/0/baeldung~Testing-in-Java-Series)
 - [Transcribing Audio Files With OpenAI in Spring AI](https://feeds.feedblitz.com/~/917913881/0/baeldung~Transcribing-Audio-Files-With-OpenAI-in-Spring-AI)
 - [Call Java Class in JSP](https://feeds.feedblitz.com/~/917912807/0/baeldung~Call-Java-Class-in-JSP)
-- [Micrometer Observation and Spring Kafka](https://feeds.feedblitz.com/~/917912810/0/baeldung~Micrometer-Observation-and-Spring-Kafka)
 <!-- BLOG-POST-LIST:END -->
 
 
