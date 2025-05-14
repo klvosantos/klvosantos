@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Weekly, Issue 593](https://feeds.feedblitz.com/~/918015167/0/baeldung~Java-Weekly-Issue)
-- [Query in DynamoDB on the Basis of Partition Key and Sort Key](https://feeds.feedblitz.com/~/918009296/0/baeldung~Query-in-DynamoDB-on-the-Basis-of-Partition-Key-and-Sort-Key)
-- [Validate Map Using Spring Validator](https://feeds.feedblitz.com/~/917988032/0/baeldung~Validate-Map-Using-Spring-Validator)
-- [Testing in Java Series](https://feeds.feedblitz.com/~/917965241/0/baeldung~Testing-in-Java-Series)
-- [Transcribing Audio Files With OpenAI in Spring AI](https://feeds.feedblitz.com/~/917913881/0/baeldung~Transcribing-Audio-Files-With-OpenAI-in-Spring-AI)
+- [Modify Property Files in Java](https://feeds.feedblitz.com/~/918289892/0/baeldung~Modify-Property-Files-in-Java)
+- [Spring AOP for a Method Call Within the Same Class](https://feeds.feedblitz.com/~/918289895/0/baeldung~Spring-AOP-for-a-Method-Call-Within-the-Same-Class)
+- [Conditional Logging With Logback](https://feeds.feedblitz.com/~/918289898/0/baeldung~Conditional-Logging-With-Logback)
+- [Introduction to the Class-File API](https://feeds.feedblitz.com/~/918288833/0/baeldung~Introduction-to-the-ClassFile-API)
+- [Doing Minus Operation on String in Java](https://feeds.feedblitz.com/~/918288836/0/baeldung~Doing-Minus-Operation-on-String-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
