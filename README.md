@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 594](https://feeds.feedblitz.com/~/918370220/0/baeldung~Java-Weekly-Issue)
 - [How to Use Maps in Protobuf](https://feeds.feedblitz.com/~/918351698/0/baeldung~How-to-Use-Maps-in-Protobuf)
 - [Introduction to RESTHeart](https://feeds.feedblitz.com/~/918350807/0/baeldung~Introduction-to-RESTHeart)
 - [Modify Property Files in Java](https://feeds.feedblitz.com/~/918289892/0/baeldung~Modify-Property-Files-in-Java)
 - [Spring AOP for a Method Call Within the Same Class](https://feeds.feedblitz.com/~/918289895/0/baeldung~Spring-AOP-for-a-Method-Call-Within-the-Same-Class)
-- [Conditional Logging With Logback](https://feeds.feedblitz.com/~/918289898/0/baeldung~Conditional-Logging-With-Logback)
 <!-- BLOG-POST-LIST:END -->
 
 
