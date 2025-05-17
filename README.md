@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Business Process Automation with Kogito](https://feeds.feedblitz.com/~/918479039/0/baeldung~Business-Process-Automation-with-Kogito)
+- [Read a Gradle Defined Variable in Java](https://feeds.feedblitz.com/~/918479042/0/baeldung~Read-a-Gradle-Defined-Variable-in-Java)
+- [How to Configure GraphQL/REST APIs Using Apache Camel](https://feeds.feedblitz.com/~/918479045/0/baeldung~How-to-Configure-GraphQLREST-APIs-Using-Apache-Camel)
 - [Java Weekly, Issue 594](https://feeds.feedblitz.com/~/918370220/0/baeldung~Java-Weekly-Issue)
 - [How to Use Maps in Protobuf](https://feeds.feedblitz.com/~/918351698/0/baeldung~How-to-Use-Maps-in-Protobuf)
-- [Introduction to RESTHeart](https://feeds.feedblitz.com/~/918350807/0/baeldung~Introduction-to-RESTHeart)
-- [Modify Property Files in Java](https://feeds.feedblitz.com/~/918289892/0/baeldung~Modify-Property-Files-in-Java)
-- [Spring AOP for a Method Call Within the Same Class](https://feeds.feedblitz.com/~/918289895/0/baeldung~Spring-AOP-for-a-Method-Call-Within-the-Same-Class)
 <!-- BLOG-POST-LIST:END -->
 
 
