@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Forget Everything you Thought you Knew about Deno | Deno 2 0 Crash Course](https://www.youtube.com/watch?v=7Yo3eO-jitQ)
-- [Stop Googling | Start Chopping!!](https://www.youtube.com/watch?v=bvCYpVqkn54)
-- [Top VS Code Updates over the Past Year | Tips &amp; Tricks 2024 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=NBzhtDJFce8)
-- [This VS Code AI Coding Assistant Is A Game Changer!](https://www.youtube.com/watch?v=dNskJAl5dBw)
-- [I Cannot Believe How Powerful This Headless CMS Is!](https://www.youtube.com/watch?v=43Eznupydng)
+- [Quanto tempo leva para conseguir a primeira vaga de programador? Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=GJ0KB55REjs)
+- [O que estudar para ser um programador profissional - Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=5FEOEIDQaCg)
+- [Ciência da Computação ou ADS: qual escolher? Algumas reflexões - Devsuperior - Prof Nelio Alves](https://www.youtube.com/watch?v=MvY0zUmMQv8)
+- [Desafio Técnico Integração de API - Dicas sobre o que é mais importante - Devsuperior - Nelio Alves](https://www.youtube.com/watch?v=25AliLOMYtY)
+- [Unir teoria e prática no desenvolvimento - Exemplo com relacionamento um para um](https://www.youtube.com/watch?v=7WkEsJHK4Q0)
 <!-- YOUTUBE:END -->
 
 
