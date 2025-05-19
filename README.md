@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Treinamento gratuito de Java somente esta semana. Participe!](https://www.youtube.com/watch?v=_Y8At9K4EU0)
 - [Quanto tempo leva para conseguir a primeira vaga de programador? Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=GJ0KB55REjs)
 - [O que estudar para ser um programador profissional - Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=5FEOEIDQaCg)
 - [Ciência da Computação ou ADS: qual escolher? Algumas reflexões - Devsuperior - Prof Nelio Alves](https://www.youtube.com/watch?v=MvY0zUmMQv8)
 - [Desafio Técnico Integração de API - Dicas sobre o que é mais importante - Devsuperior - Nelio Alves](https://www.youtube.com/watch?v=25AliLOMYtY)
-- [Unir teoria e prática no desenvolvimento - Exemplo com relacionamento um para um](https://www.youtube.com/watch?v=7WkEsJHK4Q0)
 <!-- YOUTUBE:END -->
 
 
