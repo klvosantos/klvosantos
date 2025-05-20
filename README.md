@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stream Gatherers in Java](https://feeds.feedblitz.com/~/918610334/0/baeldung)
+- [How to Check if a Number Is the Sum of Two or More Consecutive Integers](https://feeds.feedblitz.com/~/918610337/0/baeldung)
 - [Flexible Pub/Sub Messaging With Spring Boot and Dapr](https://feeds.feedblitz.com/~/918572855/0/baeldung)
 - [Business Process Automation with Kogito](https://feeds.feedblitz.com/~/918479039/0/baeldung)
 - [Read a Gradle Defined Variable in Java](https://feeds.feedblitz.com/~/918479042/0/baeldung)
-- [How to Configure GraphQL/REST APIs Using Apache Camel](https://feeds.feedblitz.com/~/918479045/0/baeldung)
-- [Java Weekly, Issue 594](https://feeds.feedblitz.com/~/918370220/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
