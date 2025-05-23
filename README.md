@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Loading Test Data from Files in JUnit Tests with Java Test Gadgets Test Data Factory](https://feeds.feedblitz.com/~/918794885/0/baeldung)
 - [Java Weekly, Issue 595](https://feeds.feedblitz.com/~/918773114/0/baeldung)
 - [Stream Gatherers in Java](https://feeds.feedblitz.com/~/918610334/0/baeldung)
 - [How to Check if a Number Is the Sum of Two or More Consecutive Integers](https://feeds.feedblitz.com/~/918610337/0/baeldung)
 - [Flexible Pub/Sub Messaging With Spring Boot and Dapr](https://feeds.feedblitz.com/~/918572855/0/baeldung)
-- [Business Process Automation with Kogito](https://feeds.feedblitz.com/~/918479039/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
