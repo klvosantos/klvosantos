@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arguments Prefixes in the JVM](https://feeds.feedblitz.com/~/918836051/0/baeldung)
+- [@Expose vs @SerializedName Annotations in Gson](https://feeds.feedblitz.com/~/918836054/0/baeldung)
 - [Loading Test Data from Files in JUnit Tests with Java Test Gadgets Test Data Factory](https://feeds.feedblitz.com/~/918794885/0/baeldung)
 - [Java Weekly, Issue 595](https://feeds.feedblitz.com/~/918773114/0/baeldung)
 - [Stream Gatherers in Java](https://feeds.feedblitz.com/~/918610334/0/baeldung)
-- [How to Check if a Number Is the Sum of Two or More Consecutive Integers](https://feeds.feedblitz.com/~/918610337/0/baeldung)
-- [Flexible Pub/Sub Messaging With Spring Boot and Dapr](https://feeds.feedblitz.com/~/918572855/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
