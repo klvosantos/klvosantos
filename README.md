@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sanitize HTML Code to Prevent XSS Attacks](https://feeds.feedblitz.com/~/918953579/0/baeldung)
-- [Arguments Prefixes in the JVM](https://feeds.feedblitz.com/~/918836051/0/baeldung)
-- [@Expose vs @SerializedName Annotations in Gson](https://feeds.feedblitz.com/~/918836054/0/baeldung)
-- [Loading Test Data from Files in JUnit Tests with Java Test Gadgets Test Data Factory](https://feeds.feedblitz.com/~/918794885/0/baeldung)
-- [Java Weekly, Issue 595](https://feeds.feedblitz.com/~/918773114/0/baeldung)
+- [A Guide to OpenAI Text-to-Speech &lpar;TTS&rpar; in Spring AI](https://feeds.feedblitz.com/~/919047686/0/baeldung~A-Guide-to-OpenAI-TexttoSpeech-TTS-in-Spring-AI)
+- [Generate a Unique Integer From a Unique String](https://feeds.feedblitz.com/~/919047689/0/baeldung~Generate-a-Unique-Integer-From-a-Unique-String)
+- [Fixing the Hibernate Error “DuplicateMappingException: Column is Duplicated in Mapping For Entity”](https://feeds.feedblitz.com/~/919047692/0/baeldung~Fixing-the-Hibernate-Error-DuplicateMappingException-Column-is-Duplicated-in-Mapping-For-Entity)
+- [Collision Detection Between Two Images in Java](https://feeds.feedblitz.com/~/919046690/0/baeldung~Collision-Detection-Between-Two-Images-in-Java)
+- [Add a Line Break/Blank Line After Log Statements in Java](https://feeds.feedblitz.com/~/919046693/0/baeldung~Add-a-Line-BreakBlank-Line-After-Log-Statements-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
