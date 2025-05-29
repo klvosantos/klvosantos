@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [@Provides vs Provider Classes in Guice](https://feeds.feedblitz.com/~/919184498/0/baeldung~Provides-vs-Provider-Classes-in-Guice)
+- [Converting a String to a SOAPMessage](https://feeds.feedblitz.com/~/919184501/0/baeldung~Converting-a-String-to-a-SOAPMessage)
 - [A Guide to OpenAI Text-to-Speech &lpar;TTS&rpar; in Spring AI](https://feeds.feedblitz.com/~/919047686/0/baeldung~A-Guide-to-OpenAI-TexttoSpeech-TTS-in-Spring-AI)
 - [Generate a Unique Integer From a Unique String](https://feeds.feedblitz.com/~/919047689/0/baeldung~Generate-a-Unique-Integer-From-a-Unique-String)
 - [Fixing the Hibernate Error “DuplicateMappingException: Column is Duplicated in Mapping For Entity”](https://feeds.feedblitz.com/~/919047692/0/baeldung~Fixing-the-Hibernate-Error-DuplicateMappingException-Column-is-Duplicated-in-Mapping-For-Entity)
-- [Collision Detection Between Two Images in Java](https://feeds.feedblitz.com/~/919046690/0/baeldung~Collision-Detection-Between-Two-Images-in-Java)
-- [Add a Line Break/Blank Line After Log Statements in Java](https://feeds.feedblitz.com/~/919046693/0/baeldung~Add-a-Line-BreakBlank-Line-After-Log-Statements-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
