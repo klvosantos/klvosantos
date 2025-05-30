@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Replace Specific Word From File With Java](https://feeds.feedblitz.com/~/919285097/0/baeldung~Replace-Specific-Word-From-File-With-Java)
 - [Java Weekly, Issue 596](https://feeds.feedblitz.com/~/919222895/0/baeldung~Java-Weekly-Issue)
 - [@Provides vs Provider Classes in Guice](https://feeds.feedblitz.com/~/919184498/0/baeldung~Provides-vs-Provider-Classes-in-Guice)
 - [Converting a String to a SOAPMessage](https://feeds.feedblitz.com/~/919184501/0/baeldung~Converting-a-String-to-a-SOAPMessage)
 - [A Guide to OpenAI Text-to-Speech &lpar;TTS&rpar; in Spring AI](https://feeds.feedblitz.com/~/919047686/0/baeldung~A-Guide-to-OpenAI-TexttoSpeech-TTS-in-Spring-AI)
-- [Generate a Unique Integer From a Unique String](https://feeds.feedblitz.com/~/919047689/0/baeldung~Generate-a-Unique-Integer-From-a-Unique-String)
 <!-- BLOG-POST-LIST:END -->
 
 
