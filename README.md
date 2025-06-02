@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Do Nested Mapping in Mapstruct?](https://feeds.feedblitz.com/~/919509224/0/baeldung~How-to-Do-Nested-Mapping-in-Mapstruct)
+- [A Guide to Embeddings Model API in Spring AI](https://feeds.feedblitz.com/~/919509227/0/baeldung~A-Guide-to-Embeddings-Model-API-in-Spring-AI)
+- [How to Return anydata on GraphQL Mutation](https://feeds.feedblitz.com/~/919508372/0/baeldung~How-to-Return-anydata-on-GraphQL-Mutation)
+- [Introduction to Tribuo – A Java Machine Learning Library](https://feeds.feedblitz.com/~/919508375/0/baeldung~Introduction-to-Tribuo-A-Java-Machine-Learning-Library)
 - [Replace Specific Word From File With Java](https://feeds.feedblitz.com/~/919285097/0/baeldung~Replace-Specific-Word-From-File-With-Java)
-- [Java Weekly, Issue 596](https://feeds.feedblitz.com/~/919222895/0/baeldung~Java-Weekly-Issue)
-- [@Provides vs Provider Classes in Guice](https://feeds.feedblitz.com/~/919184498/0/baeldung~Provides-vs-Provider-Classes-in-Guice)
-- [Converting a String to a SOAPMessage](https://feeds.feedblitz.com/~/919184501/0/baeldung~Converting-a-String-to-a-SOAPMessage)
-- [A Guide to OpenAI Text-to-Speech &lpar;TTS&rpar; in Spring AI](https://feeds.feedblitz.com/~/919047686/0/baeldung~A-Guide-to-OpenAI-TexttoSpeech-TTS-in-Spring-AI)
 <!-- BLOG-POST-LIST:END -->
 
 
