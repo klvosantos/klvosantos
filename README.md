@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide to Java Diff Utils](https://feeds.feedblitz.com/~/919793519/0/baeldung~Guide-to-Java-Diff-Utils)
+- [Resolving Spring JDBC “IncorrectResultSetColumnCountException: Incorrect column count”](https://feeds.feedblitz.com/~/919793522/0/baeldung~Resolving-Spring-JDBC-IncorrectResultSetColumnCountException-Incorrect-column-count)
 - [Java Weekly, Issue 597](https://feeds.feedblitz.com/~/919706507/0/baeldung~Java-Weekly-Issue)
 - [How to Do Nested Mapping in Mapstruct?](https://feeds.feedblitz.com/~/919509224/0/baeldung~How-to-Do-Nested-Mapping-in-Mapstruct)
 - [A Guide to Embeddings Model API in Spring AI](https://feeds.feedblitz.com/~/919509227/0/baeldung~A-Guide-to-Embeddings-Model-API-in-Spring-AI)
-- [How to Return anydata on GraphQL Mutation](https://feeds.feedblitz.com/~/919508372/0/baeldung~How-to-Return-anydata-on-GraphQL-Mutation)
-- [Introduction to Tribuo – A Java Machine Learning Library](https://feeds.feedblitz.com/~/919508375/0/baeldung~Introduction-to-Tribuo-A-Java-Machine-Learning-Library)
 <!-- BLOG-POST-LIST:END -->
 
 
