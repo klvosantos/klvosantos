@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 598](https://feeds.feedblitz.com/~/920129993/0/baeldung~Java-Weekly-Issue)
 - [Event-Driven LISTEN/NOTIFY Support in Java using PostgreSQL](https://feeds.feedblitz.com/~/919938980/0/baeldung~EventDriven-LISTENNOTIFY-Support-in-Java-using-PostgreSQL)
 - [Authorize Request for Certain URL and HTTP Method in Spring Security](https://feeds.feedblitz.com/~/919858091/0/baeldung~Authorize-Request-for-Certain-URL-and-HTTP-Method-in-Spring-Security)
 - [Guide to Java Diff Utils](https://feeds.feedblitz.com/~/919793519/0/baeldung~Guide-to-Java-Diff-Utils)
 - [Resolving Spring JDBC “IncorrectResultSetColumnCountException: Incorrect column count”](https://feeds.feedblitz.com/~/919793522/0/baeldung~Resolving-Spring-JDBC-IncorrectResultSetColumnCountException-Incorrect-column-count)
-- [Java Weekly, Issue 597](https://feeds.feedblitz.com/~/919706507/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
