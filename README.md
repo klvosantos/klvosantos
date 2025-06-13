@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Transactional Messaging for Microservices Using Eventuate Tram](https://feeds.feedblitz.com/~/920173283/0/baeldung~Transactional-Messaging-for-Microservices-Using-Eventuate-Tram)
+- [How to Resolve “Could Not Autowire org.springframework.mail.javamail.JavaMailSender”](https://feeds.feedblitz.com/~/920173286/0/baeldung~How-to-Resolve-Could-Not-Autowire-orgspringframeworkmailjavamailJavaMailSender)
 - [Java Weekly, Issue 598](https://feeds.feedblitz.com/~/920129993/0/baeldung~Java-Weekly-Issue)
 - [Event-Driven LISTEN/NOTIFY Support in Java using PostgreSQL](https://feeds.feedblitz.com/~/919938980/0/baeldung~EventDriven-LISTENNOTIFY-Support-in-Java-using-PostgreSQL)
 - [Authorize Request for Certain URL and HTTP Method in Spring Security](https://feeds.feedblitz.com/~/919858091/0/baeldung~Authorize-Request-for-Certain-URL-and-HTTP-Method-in-Spring-Security)
-- [Guide to Java Diff Utils](https://feeds.feedblitz.com/~/919793519/0/baeldung~Guide-to-Java-Diff-Utils)
-- [Resolving Spring JDBC “IncorrectResultSetColumnCountException: Incorrect column count”](https://feeds.feedblitz.com/~/919793522/0/baeldung~Resolving-Spring-JDBC-IncorrectResultSetColumnCountException-Incorrect-column-count)
 <!-- BLOG-POST-LIST:END -->
 
 
