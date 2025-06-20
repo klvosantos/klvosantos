@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HashMap Implementation to Count the Occurrences of Each Character in Java](https://feeds.feedblitz.com/~/920511305/0/baeldung~HashMap-Implementation-to-Count-the-Occurrences-of-Each-Character-in-Java)
+- [Text-to-SQL Implementation Using Spring AI](https://feeds.feedblitz.com/~/920511308/0/baeldung~TexttoSQL-Implementation-Using-Spring-AI)
 - [Java Weekly, Issue 599](https://feeds.feedblitz.com/~/920492891/0/baeldung~Java-Weekly-Issue)
 - [Implementing Unions in Hibernate](https://feeds.feedblitz.com/~/920359853/0/baeldung~Implementing-Unions-in-Hibernate)
 - [Transactional Messaging for Microservices Using Eventuate Tram](https://feeds.feedblitz.com/~/920173283/0/baeldung~Transactional-Messaging-for-Microservices-Using-Eventuate-Tram)
-- [How to Resolve “Could Not Autowire org.springframework.mail.javamail.JavaMailSender”](https://feeds.feedblitz.com/~/920173286/0/baeldung~How-to-Resolve-Could-Not-Autowire-orgspringframeworkmailjavamailJavaMailSender)
-- [Java Weekly, Issue 598](https://feeds.feedblitz.com/~/920129993/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
