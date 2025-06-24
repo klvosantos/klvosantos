@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to DiceDB](https://feeds.feedblitz.com/~/920673785/0/baeldung)
+- [One Reader with Multiple Processors and Writers in Spring Batch](https://feeds.feedblitz.com/~/920673788/0/baeldung)
+- [How to Implement Retry for JUnit Tests](https://feeds.feedblitz.com/~/920673074/0/baeldung)
 - [Cleaning Spring Properties Files](https://feeds.feedblitz.com/~/920630711/0/baeldung)
 - [Using the Model Context Protocol With Quarkus and Langchain4j](https://feeds.feedblitz.com/~/920621477/0/baeldung)
-- [Faking OAuth2 Single Sign-on in Spring](https://feeds.feedblitz.com/~/920614367/0/baeldung)
-- [Building Open API Documentation Using YML File in Resources Folder](https://feeds.feedblitz.com/~/920537708/0/baeldung)
-- [Introduction to Ambassador Design Pattern](https://feeds.feedblitz.com/~/920537711/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
