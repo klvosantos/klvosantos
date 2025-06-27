@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Weekly, Issue 600](https://feeds.feedblitz.com/~/920803802/0/baeldung~Java-Weekly-Issue)
-- [Hibernate ORM With Panache](https://feeds.feedblitz.com/~/920734664/0/baeldung~Hibernate-ORM-With-Panache)
-- [Introduction to DiceDB](https://feeds.feedblitz.com/~/920673785/0/baeldung~Introduction-to-DiceDB)
-- [One Reader with Multiple Processors and Writers in Spring Batch](https://feeds.feedblitz.com/~/920673788/0/baeldung~One-Reader-with-Multiple-Processors-and-Writers-in-Spring-Batch)
-- [How to Implement Retry for JUnit Tests](https://feeds.feedblitz.com/~/920673074/0/baeldung~How-to-Implement-Retry-for-JUnit-Tests)
+- [New Features in Java 25](https://feeds.feedblitz.com/~/920832566/0/baeldung)
+- [Java Weekly, Issue 600](https://feeds.feedblitz.com/~/920803802/0/baeldung)
+- [Hibernate ORM With Panache](https://feeds.feedblitz.com/~/920734664/0/baeldung)
+- [Introduction to DiceDB](https://feeds.feedblitz.com/~/920673785/0/baeldung)
+- [One Reader with Multiple Processors and Writers in Spring Batch](https://feeds.feedblitz.com/~/920673788/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
