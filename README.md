@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 601](https://feeds.feedblitz.com/~/921102938/0/baeldung)
 - [How to Fix Unknown Magic Byte Errors in Apache Kafka](https://feeds.feedblitz.com/~/920970023/0/baeldung)
 - [New Features in Java 25](https://feeds.feedblitz.com/~/920832566/0/baeldung)
 - [Java Weekly, Issue 600](https://feeds.feedblitz.com/~/920803802/0/baeldung)
 - [Hibernate ORM With Panache](https://feeds.feedblitz.com/~/920734664/0/baeldung)
-- [Introduction to DiceDB](https://feeds.feedblitz.com/~/921100160/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
