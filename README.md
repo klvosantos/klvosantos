@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Weekly, Issue 601](https://feeds.feedblitz.com/~/921102938/0/baeldung)
-- [How to Fix Unknown Magic Byte Errors in Apache Kafka](https://feeds.feedblitz.com/~/920970023/0/baeldung)
-- [New Features in Java 25](https://feeds.feedblitz.com/~/920832566/0/baeldung)
-- [Java Weekly, Issue 600](https://feeds.feedblitz.com/~/920803802/0/baeldung)
-- [Hibernate ORM With Panache](https://feeds.feedblitz.com/~/920734664/0/baeldung)
+- [Using Sequences in the H2 Database](https://feeds.feedblitz.com/~/921146849/0/baeldung~Using-Sequences-in-the-H-Database)
+- [How to Use Apache Camel ProducerTemplate With Spring Boot](https://feeds.feedblitz.com/~/921146852/0/baeldung~How-to-Use-Apache-Camel-ProducerTemplate-With-Spring-Boot)
+- [A Guide to Spring gRPC Project](https://feeds.feedblitz.com/~/921146300/0/baeldung~A-Guide-to-Spring-gRPC-Project)
+- [Java Weekly, Issue 601](https://feeds.feedblitz.com/~/921102938/0/baeldung~Java-Weekly-Issue)
+- [How to Fix Unknown Magic Byte Errors in Apache Kafka](https://feeds.feedblitz.com/~/920970023/0/baeldung~How-to-Fix-Unknown-Magic-Byte-Errors-in-Apache-Kafka)
 <!-- BLOG-POST-LIST:END -->
 
 
