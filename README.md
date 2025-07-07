@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring AI With Docker Model Runner](https://feeds.feedblitz.com/~/921274106/0/baeldung~Spring-AI-With-Docker-Model-Runner)
+- [Copying Text to the Clipboard in Java](https://feeds.feedblitz.com/~/921273617/0/baeldung~Copying-Text-to-the-Clipboard-in-Java)
+- [Pagination Support in Spring Boot GraphQL](https://feeds.feedblitz.com/~/921273620/0/baeldung~Pagination-Support-in-Spring-Boot-GraphQL)
 - [Implementing the Core Services of Spring Authorization Server with Redis](https://feeds.feedblitz.com/~/921158615/0/baeldung~Implementing-the-Core-Services-of-Spring-Authorization-Server-with-Redis)
 - [Using Sequences in the H2 Database](https://feeds.feedblitz.com/~/921146849/0/baeldung~Using-Sequences-in-the-H-Database)
-- [How to Use Apache Camel ProducerTemplate With Spring Boot](https://feeds.feedblitz.com/~/921146852/0/baeldung~How-to-Use-Apache-Camel-ProducerTemplate-With-Spring-Boot)
-- [A Guide to Spring gRPC Project](https://feeds.feedblitz.com/~/921146300/0/baeldung~A-Guide-to-Spring-gRPC-Project)
-- [Java Weekly, Issue 601](https://feeds.feedblitz.com/~/921102938/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
