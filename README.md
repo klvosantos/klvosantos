@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Unit Test MapStruct Generated Mappers](https://feeds.feedblitz.com/~/921461663/0/baeldung~How-to-Unit-Test-MapStruct-Generated-Mappers)
 - [Spring AI With Docker Model Runner](https://feeds.feedblitz.com/~/921274106/0/baeldung~Spring-AI-With-Docker-Model-Runner)
 - [Copying Text to the Clipboard in Java](https://feeds.feedblitz.com/~/921273617/0/baeldung~Copying-Text-to-the-Clipboard-in-Java)
 - [Pagination Support in Spring Boot GraphQL](https://feeds.feedblitz.com/~/921273620/0/baeldung~Pagination-Support-in-Spring-Boot-GraphQL)
 - [Implementing the Core Services of Spring Authorization Server with Redis](https://feeds.feedblitz.com/~/921158615/0/baeldung~Implementing-the-Core-Services-of-Spring-Authorization-Server-with-Redis)
-- [Using Sequences in the H2 Database](https://feeds.feedblitz.com/~/921146849/0/baeldung~Using-Sequences-in-the-H-Database)
 <!-- BLOG-POST-LIST:END -->
 
 
