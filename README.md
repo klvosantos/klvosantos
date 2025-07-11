@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 602](https://feeds.feedblitz.com/~/921508874/0/baeldung~Java-Weekly-Issue)
 - [Securing Spring AI MCP Servers With OAuth2](https://feeds.feedblitz.com/~/921497813/0/baeldung~Securing-Spring-AI-MCP-Servers-With-OAuth)
 - [Writing Stored Procedures for H2 in Java](https://feeds.feedblitz.com/~/921497816/0/baeldung~Writing-Stored-Procedures-for-H-in-Java)
 - [Fixing Hibernate AnnotationException: Field Is a @ManyToOne Association and May Not Use @Column](https://feeds.feedblitz.com/~/921497378/0/baeldung~Fixing-Hibernate-AnnotationException-Field-Is-a-ManyToOne-Association-and-May-Not-Use-Column)
 - [Count the Number of Sign Changes in an Array](https://feeds.feedblitz.com/~/921497381/0/baeldung~Count-the-Number-of-Sign-Changes-in-an-Array)
-- [Chat Memory in Spring AI](https://feeds.feedblitz.com/~/921497384/0/baeldung~Chat-Memory-in-Spring-AI)
 <!-- BLOG-POST-LIST:END -->
 
 
