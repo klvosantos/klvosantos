@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Unit Test MapStruct Generated Mappers](https://feeds.feedblitz.com/~/921461663/0/baeldung~How-to-Unit-Test-MapStruct-Generated-Mappers)
-- [Spring AI With Docker Model Runner](https://feeds.feedblitz.com/~/921274106/0/baeldung~Spring-AI-With-Docker-Model-Runner)
-- [Copying Text to the Clipboard in Java](https://feeds.feedblitz.com/~/921273617/0/baeldung~Copying-Text-to-the-Clipboard-in-Java)
-- [Pagination Support in Spring Boot GraphQL](https://feeds.feedblitz.com/~/921273620/0/baeldung~Pagination-Support-in-Spring-Boot-GraphQL)
-- [Implementing the Core Services of Spring Authorization Server with Redis](https://feeds.feedblitz.com/~/921158615/0/baeldung~Implementing-the-Core-Services-of-Spring-Authorization-Server-with-Redis)
+- [Securing Spring AI MCP Servers With OAuth2](https://feeds.feedblitz.com/~/921497813/0/baeldung~Securing-Spring-AI-MCP-Servers-With-OAuth)
+- [Writing Stored Procedures for H2 in Java](https://feeds.feedblitz.com/~/921497816/0/baeldung~Writing-Stored-Procedures-for-H-in-Java)
+- [Fixing Hibernate AnnotationException: Field Is a @ManyToOne Association and May Not Use @Column](https://feeds.feedblitz.com/~/921497378/0/baeldung~Fixing-Hibernate-AnnotationException-Field-Is-a-ManyToOne-Association-and-May-Not-Use-Column)
+- [Count the Number of Sign Changes in an Array](https://feeds.feedblitz.com/~/921497381/0/baeldung~Count-the-Number-of-Sign-Changes-in-an-Array)
+- [Chat Memory in Spring AI](https://feeds.feedblitz.com/~/921497384/0/baeldung~Chat-Memory-in-Spring-AI)
 <!-- BLOG-POST-LIST:END -->
 
 
