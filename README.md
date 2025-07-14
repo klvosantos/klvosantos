@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Groq Chat with Spring AI](https://feeds.feedblitz.com/~/921621275/0/baeldung~Using-Groq-Chat-with-Spring-AI)
+- [A Practical Guide to RecordBuilder in Java](https://feeds.feedblitz.com/~/921621278/0/baeldung~A-Practical-Guide-to-RecordBuilder-in-Java)
+- [Create Array of Linked Lists in Java](https://feeds.feedblitz.com/~/921621281/0/baeldung~Create-Array-of-Linked-Lists-in-Java)
 - [Java Weekly, Issue 602](https://feeds.feedblitz.com/~/921508874/0/baeldung~Java-Weekly-Issue)
 - [Securing Spring AI MCP Servers With OAuth2](https://feeds.feedblitz.com/~/921497813/0/baeldung~Securing-Spring-AI-MCP-Servers-With-OAuth)
-- [Writing Stored Procedures for H2 in Java](https://feeds.feedblitz.com/~/921497816/0/baeldung~Writing-Stored-Procedures-for-H-in-Java)
-- [Fixing Hibernate AnnotationException: Field Is a @ManyToOne Association and May Not Use @Column](https://feeds.feedblitz.com/~/921497378/0/baeldung~Fixing-Hibernate-AnnotationException-Field-Is-a-ManyToOne-Association-and-May-Not-Use-Column)
-- [Count the Number of Sign Changes in an Array](https://feeds.feedblitz.com/~/921497381/0/baeldung~Count-the-Number-of-Sign-Changes-in-an-Array)
 <!-- BLOG-POST-LIST:END -->
 
 
