@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix PatternSyntaxException: “Illegal repetition near index” in Java](https://feeds.feedblitz.com/~/921714419/0/baeldung~How-to-Fix-PatternSyntaxException-Illegal-repetition-near-index-in-Java)
+- [How to Implement a Thread-Safe Singleton in Java?](https://feeds.feedblitz.com/~/921714422/0/baeldung~How-to-Implement-a-ThreadSafe-Singleton-in-Java)
 - [Using Groq Chat with Spring AI](https://feeds.feedblitz.com/~/921621275/0/baeldung~Using-Groq-Chat-with-Spring-AI)
 - [A Practical Guide to RecordBuilder in Java](https://feeds.feedblitz.com/~/921621278/0/baeldung~A-Practical-Guide-to-RecordBuilder-in-Java)
 - [Create Array of Linked Lists in Java](https://feeds.feedblitz.com/~/921621281/0/baeldung~Create-Array-of-Linked-Lists-in-Java)
-- [Java Weekly, Issue 602](https://feeds.feedblitz.com/~/921508874/0/baeldung~Java-Weekly-Issue)
-- [Securing Spring AI MCP Servers With OAuth2](https://feeds.feedblitz.com/~/921497813/0/baeldung~Securing-Spring-AI-MCP-Servers-With-OAuth)
 <!-- BLOG-POST-LIST:END -->
 
 
