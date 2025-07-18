@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert JSON Object to JSON Array in Java](https://feeds.feedblitz.com/~/921829163/0/baeldung~Convert-JSON-Object-to-JSON-Array-in-Java)
+- [Does Spring @Transactional Annotation Work on a Private Method?](https://feeds.feedblitz.com/~/921829166/0/baeldung~Does-Spring-Transactional-Annotation-Work-on-a-Private-Method)
+- [Secure Kafka With SASL/PLAIN Authentication](https://feeds.feedblitz.com/~/921829169/0/baeldung~Secure-Kafka-With-SASLPLAIN-Authentication)
 - [Java Weekly, Issue 603](https://feeds.feedblitz.com/~/921801428/0/baeldung~Java-Weekly-Issue)
 - [How to Fix PatternSyntaxException: “Illegal repetition near index” in Java](https://feeds.feedblitz.com/~/921714419/0/baeldung~How-to-Fix-PatternSyntaxException-Illegal-repetition-near-index-in-Java)
-- [How to Implement a Thread-Safe Singleton in Java?](https://feeds.feedblitz.com/~/921714422/0/baeldung~How-to-Implement-a-ThreadSafe-Singleton-in-Java)
-- [Using Groq Chat with Spring AI](https://feeds.feedblitz.com/~/921621275/0/baeldung~Using-Groq-Chat-with-Spring-AI)
-- [A Practical Guide to RecordBuilder in Java](https://feeds.feedblitz.com/~/921621278/0/baeldung~A-Practical-Guide-to-RecordBuilder-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
