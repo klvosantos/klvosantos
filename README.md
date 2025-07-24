@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 604](https://feeds.feedblitz.com/~/922132757/0/baeldung~Java-Weekly-Issue)
 - [Executing SQL Scripts in H2 Database](https://feeds.feedblitz.com/~/922051277/0/baeldung~Executing-SQL-Scripts-in-H-Database)
 - [Creating an AI Agent in Java Using Embabel Agent Framework](https://feeds.feedblitz.com/~/922051280/0/baeldung~Creating-an-AI-Agent-in-Java-Using-Embabel-Agent-Framework)
 - [Using a Different Client Certificate per Connection in Java](https://feeds.feedblitz.com/~/921947534/0/baeldung~Using-a-Different-Client-Certificate-per-Connection-in-Java)
 - [Introduction to Jimmer ORM](https://feeds.feedblitz.com/~/921833603/0/baeldung~Introduction-to-Jimmer-ORM)
-- [Convert JSON Object to JSON Array in Java](https://feeds.feedblitz.com/~/921829163/0/baeldung~Convert-JSON-Object-to-JSON-Array-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
