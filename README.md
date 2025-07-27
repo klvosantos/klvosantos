@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Change Highlight Color in Eclipse](https://feeds.feedblitz.com/~/922279601/0/baeldung~Change-Highlight-Color-in-Eclipse)
+- [How to Avoid Busy-Waiting in Java](https://feeds.feedblitz.com/~/922279604/0/baeldung~How-to-Avoid-BusyWaiting-in-Java)
+- [Introduction to Smithy](https://feeds.feedblitz.com/~/922279607/0/baeldung~Introduction-to-Smithy)
 - [Java Weekly, Issue 604](https://feeds.feedblitz.com/~/922132757/0/baeldung~Java-Weekly-Issue)
 - [Executing SQL Scripts in H2 Database](https://feeds.feedblitz.com/~/922051277/0/baeldung~Executing-SQL-Scripts-in-H-Database)
-- [Creating an AI Agent in Java Using Embabel Agent Framework](https://feeds.feedblitz.com/~/922051280/0/baeldung~Creating-an-AI-Agent-in-Java-Using-Embabel-Agent-Framework)
-- [Using a Different Client Certificate per Connection in Java](https://feeds.feedblitz.com/~/921947534/0/baeldung~Using-a-Different-Client-Certificate-per-Connection-in-Java)
-- [Introduction to Jimmer ORM](https://feeds.feedblitz.com/~/921833603/0/baeldung~Introduction-to-Jimmer-ORM)
 <!-- BLOG-POST-LIST:END -->
 
 
