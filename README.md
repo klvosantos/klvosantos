@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Should Jackson’s ObjectMapper be Declared as a Static Field?](https://feeds.feedblitz.com/~/922350494/0/baeldung)
+- [Understanding Message Delivery with Multiple Partitions](https://feeds.feedblitz.com/~/922350497/0/baeldung)
 - [How to Use ParameterizedTypeReference in Java](https://feeds.feedblitz.com/~/922350050/0/baeldung)
 - [Restart a Job on Failure and Continue in Spring Batch](https://feeds.feedblitz.com/~/922350053/0/baeldung)
 - [Change Highlight Color in Eclipse](https://feeds.feedblitz.com/~/922279601/0/baeldung)
-- [How to Avoid Busy-Waiting in Java](https://feeds.feedblitz.com/~/922279604/0/baeldung)
-- [Introduction to Smithy](https://feeds.feedblitz.com/~/922279607/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
