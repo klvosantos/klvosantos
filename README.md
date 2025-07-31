@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 605](https://feeds.feedblitz.com/~/922497656/0/baeldung~Java-Weekly-Issue)
 - [How to Pass a Variable From One Thread Group to Another in JMeter](https://feeds.feedblitz.com/~/922429586/0/baeldung~How-to-Pass-a-Variable-From-One-Thread-Group-to-Another-in-JMeter)
 - [Change the Alias of a Key Within a Keystore in Java](https://feeds.feedblitz.com/~/922428881/0/baeldung~Change-the-Alias-of-a-Key-Within-a-Keystore-in-Java)
 - [Should Jackson’s ObjectMapper be Declared as a Static Field?](https://feeds.feedblitz.com/~/922350494/0/baeldung~Should-Jacksons-ObjectMapper-be-Declared-as-a-Static-Field)
 - [Understanding Message Delivery with Multiple Partitions](https://feeds.feedblitz.com/~/922350497/0/baeldung~Understanding-Message-Delivery-with-Multiple-Partitions)
-- [How to Use ParameterizedTypeReference in Java](https://feeds.feedblitz.com/~/922350050/0/baeldung~How-to-Use-ParameterizedTypeReference-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
