@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Treinamento gratuito de Java de 18 a 22 de agosto. Participe!](https://www.youtube.com/shorts/yPulsWwQgik)
 - [Salários de programador em 2025 por nível e por linguagem / tecnologia - Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=AwMJNRoCBIs)
 - [Dica para iniciar no mercado de programação para quem está com dificuldade](https://www.youtube.com/watch?v=0KoGY3-pKgM)
 - [Quanto tempo leva para conseguir a primeira vaga de programador? Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=GJ0KB55REjs)
 - [O que estudar para ser um programador profissional - Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=5FEOEIDQaCg)
-- [Ciência da Computação ou ADS: qual escolher? Algumas reflexões - Devsuperior - Prof Nelio Alves](https://www.youtube.com/watch?v=MvY0zUmMQv8)
 <!-- YOUTUBE:END -->
 
 
