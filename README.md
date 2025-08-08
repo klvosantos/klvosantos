@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parallel Flux vs Flux in Project Reactor](https://feeds.feedblitz.com/~/922919054/0/baeldung~Parallel-Flux-vs-Flux-in-Project-Reactor)
 - [Java Weekly, Issue 606](https://feeds.feedblitz.com/~/922871060/0/baeldung~Java-Weekly-Issue)
 - [Web Crawler Using WebMagic](https://feeds.feedblitz.com/~/922790837/0/baeldung~Web-Crawler-Using-WebMagic)
 - [A Practical Guide to Null-Safety in Java With JSpecify](https://feeds.feedblitz.com/~/922603523/0/baeldung~A-Practical-Guide-to-NullSafety-in-Java-With-JSpecify)
 - [Inline Images in Email Using Java Mail](https://feeds.feedblitz.com/~/922603526/0/baeldung~Inline-Images-in-Email-Using-Java-Mail)
-- [Java Weekly, Issue 605](https://feeds.feedblitz.com/~/922497656/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
