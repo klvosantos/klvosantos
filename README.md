@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Weekly, Issue 607](https://feeds.feedblitz.com/~/923221844/0/baeldung~Java-Weekly-Issue)
-- [Introduction to Netty-socketio](https://feeds.feedblitz.com/~/923088113/0/baeldung~Introduction-to-Nettysocketio)
-- [Using Oracle Vector Database With Spring AI](https://feeds.feedblitz.com/~/923088116/0/baeldung~Using-Oracle-Vector-Database-With-Spring-AI)
-- [Fixing HibernateException: Illegal Attempt to Associate a Collection With Two Open Sessions](https://feeds.feedblitz.com/~/922995461/0/baeldung~Fixing-HibernateException-Illegal-Attempt-to-Associate-a-Collection-With-Two-Open-Sessions)
-- [Parallel Flux vs Flux in Project Reactor](https://feeds.feedblitz.com/~/922919054/0/baeldung~Parallel-Flux-vs-Flux-in-Project-Reactor)
+- [Function Pointers Equivalent in Java](https://feeds.feedblitz.com/~/923263262/0/baeldung~Function-Pointers-Equivalent-in-Java)
+- [Google Protobuf ByteString vs. Byte[]](https://feeds.feedblitz.com/~/923263265/0/baeldung~Google-Protobuf-ByteString-vs-Byte)
+- [Execute mTLS Calls Using Java](https://feeds.feedblitz.com/~/923263268/0/baeldung~Execute-mTLS-Calls-Using-Java)
+- [Implementing CQRS with Spring Modulith](https://feeds.feedblitz.com/~/923263271/0/baeldung~Implementing-CQRS-with-Spring-Modulith)
+- [Register ServletContextListener in Spring Boot](https://feeds.feedblitz.com/~/923263274/0/baeldung~Register-ServletContextListener-in-Spring-Boot)
 <!-- BLOG-POST-LIST:END -->
 
 
