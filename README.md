@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [⚠️Somente esta semana: treinamento gratuito backend Java e Spring](https://www.youtube.com/shorts/SmUj76jdWPs)
 - [Generative UI is the future of AI Interactions!!](https://www.youtube.com/watch?v=goxnUKwwf-I)
 - [Por que Java continua tão relevante no mercado? Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=Mrr3Gixku24)
 - [Treinamento gratuito de Java de 18 a 22 de agosto. Participe!](https://www.youtube.com/shorts/yPulsWwQgik)
 - [Salários de programador em 2025 por nível e por linguagem / tecnologia - Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=AwMJNRoCBIs)
-- [Dica para iniciar no mercado de programação para quem está com dificuldade](https://www.youtube.com/watch?v=0KoGY3-pKgM)
 <!-- YOUTUBE:END -->
 
 
