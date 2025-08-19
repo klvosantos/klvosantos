@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intro to @ClassTemplate Annotation in JUnit](https://feeds.feedblitz.com/~/923458286/0/baeldung~Intro-to-ClassTemplate-Annotation-in-JUnit)
 - [Forward Chaining vs. Backward Chaining in Drools](https://feeds.feedblitz.com/~/923367005/0/baeldung~Forward-Chaining-vs-Backward-Chaining-in-Drools)
 - [Multiple Databases With Flyway in Spring Boot](https://feeds.feedblitz.com/~/923367008/0/baeldung~Multiple-Databases-With-Flyway-in-Spring-Boot)
 - [Different Log Level for File and Console Appender in Spring Boot](https://feeds.feedblitz.com/~/923367011/0/baeldung~Different-Log-Level-for-File-and-Console-Appender-in-Spring-Boot)
 - [Function Pointers Equivalent in Java](https://feeds.feedblitz.com/~/923263262/0/baeldung~Function-Pointers-Equivalent-in-Java)
-- [Google Protobuf ByteString vs. Byte[]](https://feeds.feedblitz.com/~/923263265/0/baeldung~Google-Protobuf-ByteString-vs-Byte)
 <!-- BLOG-POST-LIST:END -->
 
 
