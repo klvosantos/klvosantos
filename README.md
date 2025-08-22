@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Looping Through a Map in JSP](https://feeds.feedblitz.com/~/923665433/0/baeldung~Looping-Through-a-Map-in-JSP)
 - [Java Weekly, Issue 608](https://feeds.feedblitz.com/~/923628440/0/baeldung~Java-Weekly-Issue)
 - [Debugging Spring Boot Applications With IntelliJ IDEA](https://feeds.feedblitz.com/~/923539049/0/baeldung~Debugging-Spring-Boot-Applications-With-IntelliJ-IDEA)
 - [Intro to @ClassTemplate Annotation in JUnit](https://feeds.feedblitz.com/~/923458286/0/baeldung~Intro-to-ClassTemplate-Annotation-in-JUnit)
 - [Forward Chaining vs. Backward Chaining in Drools](https://feeds.feedblitz.com/~/923367005/0/baeldung~Forward-Chaining-vs-Backward-Chaining-in-Drools)
-- [Multiple Databases With Flyway in Spring Boot](https://feeds.feedblitz.com/~/923367008/0/baeldung~Multiple-Databases-With-Flyway-in-Spring-Boot)
 <!-- BLOG-POST-LIST:END -->
 
 
