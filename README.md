@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache Camel’s KServe Component: Inference via Model Serving](https://feeds.feedblitz.com/~/923713919/0/baeldung~Apache-Camels-KServe-Component-Inference-via-Model-Serving)
 - [Time Manipulation With Instant and Long](https://feeds.feedblitz.com/~/923705792/0/baeldung~Time-Manipulation-With-Instant-and-Long)
 - [Looping Through a Map in JSP](https://feeds.feedblitz.com/~/923665433/0/baeldung~Looping-Through-a-Map-in-JSP)
 - [Java Weekly, Issue 608](https://feeds.feedblitz.com/~/923628440/0/baeldung~Java-Weekly-Issue)
 - [Debugging Spring Boot Applications With IntelliJ IDEA](https://feeds.feedblitz.com/~/923539049/0/baeldung~Debugging-Spring-Boot-Applications-With-IntelliJ-IDEA)
-- [Intro to @ClassTemplate Annotation in JUnit](https://feeds.feedblitz.com/~/923458286/0/baeldung~Intro-to-ClassTemplate-Annotation-in-JUnit)
 <!-- BLOG-POST-LIST:END -->
 
 
