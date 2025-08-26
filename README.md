@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Camel’s KServe Component: Inference via Model Serving](https://feeds.feedblitz.com/~/923713919/0/baeldung~Apache-Camels-KServe-Component-Inference-via-Model-Serving)
-- [Time Manipulation With Instant and Long](https://feeds.feedblitz.com/~/923705792/0/baeldung~Time-Manipulation-With-Instant-and-Long)
-- [Looping Through a Map in JSP](https://feeds.feedblitz.com/~/923665433/0/baeldung~Looping-Through-a-Map-in-JSP)
-- [Java Weekly, Issue 608](https://feeds.feedblitz.com/~/923628440/0/baeldung~Java-Weekly-Issue)
-- [Debugging Spring Boot Applications With IntelliJ IDEA](https://feeds.feedblitz.com/~/923539049/0/baeldung~Debugging-Spring-Boot-Applications-With-IntelliJ-IDEA)
+- [How to Separate Paragraphs in Javadocs](https://feeds.feedblitz.com/~/923809067/0/baeldung~How-to-Separate-Paragraphs-in-Javadocs)
+- [Programmatic Bean Registration Mechanism With BeanRegistrar in Spring](https://feeds.feedblitz.com/~/923808494/0/baeldung~Programmatic-Bean-Registration-Mechanism-With-BeanRegistrar-in-Spring)
+- [Using HTTPS With Jersey Client in Java](https://feeds.feedblitz.com/~/923808497/0/baeldung~Using-HTTPS-With-Jersey-Client-in-Java)
+- [Google Cloud and Spring AI](https://feeds.feedblitz.com/~/923808500/0/baeldung~Google-Cloud-and-Spring-AI)
+- [Get String Value From a Java Field via Reflection](https://feeds.feedblitz.com/~/923808503/0/baeldung~Get-String-Value-From-a-Java-Field-via-Reflection)
 <!-- BLOG-POST-LIST:END -->
 
 
