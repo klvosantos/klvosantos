@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 609](https://feeds.feedblitz.com/~/923981423/0/baeldung~Java-Weekly-Issue)
 - [Persist Quartz Scheduler in Database](https://feeds.feedblitz.com/~/923931632/0/baeldung~Persist-Quartz-Scheduler-in-Database)
 - [How to Separate Paragraphs in Javadocs](https://feeds.feedblitz.com/~/923809067/0/baeldung~How-to-Separate-Paragraphs-in-Javadocs)
 - [Programmatic Bean Registration Mechanism With BeanRegistrar in Spring](https://feeds.feedblitz.com/~/923808494/0/baeldung~Programmatic-Bean-Registration-Mechanism-With-BeanRegistrar-in-Spring)
 - [Using HTTPS With Jersey Client in Java](https://feeds.feedblitz.com/~/923808497/0/baeldung~Using-HTTPS-With-Jersey-Client-in-Java)
-- [Google Cloud and Spring AI](https://feeds.feedblitz.com/~/923808500/0/baeldung~Google-Cloud-and-Spring-AI)
 <!-- BLOG-POST-LIST:END -->
 
 
