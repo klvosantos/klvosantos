@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unit Tests for Concurrent Java with VMLens](https://feeds.feedblitz.com/~/924134186/0/baeldung~Unit-Tests-for-Concurrent-Java-with-VMLens)
+- [Java Reflection Beans Property API](https://feeds.feedblitz.com/~/924134189/0/baeldung~Java-Reflection-Beans-Property-API)
+- [MCP Authorization With Spring AI and OAuth2](https://feeds.feedblitz.com/~/924134192/0/baeldung~MCP-Authorization-With-Spring-AI-and-OAuth)
 - [A Guide to OpenAI’s Moderation Model in Spring AI](https://feeds.feedblitz.com/~/923993180/0/baeldung~A-Guide-to-OpenAI%e2%80%99s-Moderation-Model-in-Spring-AI)
 - [How to Find Null or Empty Strings in a Java List](https://feeds.feedblitz.com/~/923993183/0/baeldung~How-to-Find-Null-or-Empty-Strings-in-a-Java-List)
-- [Java Weekly, Issue 609](https://feeds.feedblitz.com/~/923981423/0/baeldung~Java-Weekly-Issue)
-- [Persist Quartz Scheduler in Database](https://feeds.feedblitz.com/~/923931632/0/baeldung~Persist-Quartz-Scheduler-in-Database)
-- [How to Separate Paragraphs in Javadocs](https://feeds.feedblitz.com/~/923809067/0/baeldung~How-to-Separate-Paragraphs-in-Javadocs)
 <!-- BLOG-POST-LIST:END -->
 
 
