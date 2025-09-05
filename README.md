@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Quarkus Infinispan Embedded Extension](https://feeds.feedblitz.com/~/924370943/0/baeldung)
-- [Introduction to RDF and Apache Jena](https://feeds.feedblitz.com/~/924309803/0/baeldung)
-- [API Documentation Using Smart-Doc](https://feeds.feedblitz.com/~/924309806/0/baeldung)
-- [How to Reduce Spring Boot Memory Usage?](https://feeds.feedblitz.com/~/924309809/0/baeldung)
-- [Implementing a Simple Rule Engine in Java](https://feeds.feedblitz.com/~/924309812/0/baeldung)
+- [Java Weekly, Issue 610](https://feeds.feedblitz.com/~/924378074/0/baeldung~Java-Weekly-Issue)
+- [Introduction to Quarkus Infinispan Embedded Extension](https://feeds.feedblitz.com/~/924370943/0/baeldung~Introduction-to-Quarkus-Infinispan-Embedded-Extension)
+- [Introduction to RDF and Apache Jena](https://feeds.feedblitz.com/~/924309803/0/baeldung~Introduction-to-RDF-and-Apache-Jena)
+- [API Documentation Using Smart-Doc](https://feeds.feedblitz.com/~/924309806/0/baeldung~API-Documentation-Using-SmartDoc)
+- [How to Reduce Spring Boot Memory Usage?](https://feeds.feedblitz.com/~/924309809/0/baeldung~How-to-Reduce-Spring-Boot-Memory-Usage)
 <!-- BLOG-POST-LIST:END -->
 
 
