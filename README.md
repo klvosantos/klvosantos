@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Quarkus Infinispan Embedded Extension](https://feeds.feedblitz.com/~/924370943/0/baeldung)
 - [Introduction to RDF and Apache Jena](https://feeds.feedblitz.com/~/924309803/0/baeldung)
 - [API Documentation Using Smart-Doc](https://feeds.feedblitz.com/~/924309806/0/baeldung)
 - [How to Reduce Spring Boot Memory Usage?](https://feeds.feedblitz.com/~/924309809/0/baeldung)
 - [Implementing a Simple Rule Engine in Java](https://feeds.feedblitz.com/~/924309812/0/baeldung)
-- [Geospatial Operations Using JTS](https://feeds.feedblitz.com/~/924309815/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
