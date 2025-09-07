@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Get JSON Response With Selenium](https://feeds.feedblitz.com/~/924493193/0/baeldung~How-to-Get-JSON-Response-With-Selenium)
+- [Using StatelessSession in Hibernate](https://feeds.feedblitz.com/~/924493196/0/baeldung~Using-StatelessSession-in-Hibernate)
+- [Tagging Patterns for Micrometer Metrics](https://feeds.feedblitz.com/~/924493199/0/baeldung~Tagging-Patterns-for-Micrometer-Metrics)
 - [Streaming Multipart Data Sequentially in Spring](https://feeds.feedblitz.com/~/924429719/0/baeldung~Streaming-Multipart-Data-Sequentially-in-Spring)
 - [Introduction to jVector](https://feeds.feedblitz.com/~/924429722/0/baeldung~Introduction-to-jVector)
-- [Java Weekly, Issue 610](https://feeds.feedblitz.com/~/924378074/0/baeldung~Java-Weekly-Issue)
-- [Introduction to Quarkus Infinispan Embedded Extension](https://feeds.feedblitz.com/~/924370943/0/baeldung~Introduction-to-Quarkus-Infinispan-Embedded-Extension)
-- [Introduction to RDF and Apache Jena](https://feeds.feedblitz.com/~/924309803/0/baeldung~Introduction-to-RDF-and-Apache-Jena)
 <!-- BLOG-POST-LIST:END -->
 
 
