@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Handling “non-value” doubles in Java](https://feeds.feedblitz.com/~/924635042/0/baeldung~Handling-nonvalue-doubles-in-Java)
 - [Read StringBuilder Line by Line in Java](https://feeds.feedblitz.com/~/924561593/0/baeldung~Read-StringBuilder-Line-by-Line-in-Java)
 - [How to Get JSON Response With Selenium](https://feeds.feedblitz.com/~/924493193/0/baeldung~How-to-Get-JSON-Response-With-Selenium)
 - [Using StatelessSession in Hibernate](https://feeds.feedblitz.com/~/924493196/0/baeldung~Using-StatelessSession-in-Hibernate)
 - [Tagging Patterns for Micrometer Metrics](https://feeds.feedblitz.com/~/924493199/0/baeldung~Tagging-Patterns-for-Micrometer-Metrics)
-- [Streaming Multipart Data Sequentially in Spring](https://feeds.feedblitz.com/~/924429719/0/baeldung~Streaming-Multipart-Data-Sequentially-in-Spring)
 <!-- BLOG-POST-LIST:END -->
 
 
