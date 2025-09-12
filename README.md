@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot 4 &amp; Spring Framework 7 – What’s New](https://feeds.feedblitz.com/~/924700613/0/baeldung~Spring-Boot-Spring-Framework-Whats-New)
-- [PartitionKey in Hibernate: A Practical Guide for Spring Boot](https://feeds.feedblitz.com/~/924700616/0/baeldung~PartitionKey-in-Hibernate-A-Practical-Guide-for-Spring-Boot)
-- [Java Weekly, Issue 611](https://feeds.feedblitz.com/~/924674183/0/baeldung~Java-Weekly-Issue)
-- [Handling “non-value” doubles in Java](https://feeds.feedblitz.com/~/924635042/0/baeldung~Handling-nonvalue-doubles-in-Java)
-- [Read StringBuilder Line by Line in Java](https://feeds.feedblitz.com/~/924561593/0/baeldung~Read-StringBuilder-Line-by-Line-in-Java)
+- [Build Stateful Custom Bean Validation with Spring Boot](https://feeds.feedblitz.com/~/924732758/0/baeldung)
+- [Custom ObjectMapper with Jersey and Jackson](https://feeds.feedblitz.com/~/924732761/0/baeldung)
+- [Spring Boot 4 &amp; Spring Framework 7 – What’s New](https://feeds.feedblitz.com/~/924700613/0/baeldung)
+- [PartitionKey in Hibernate: A Practical Guide for Spring Boot](https://feeds.feedblitz.com/~/924700616/0/baeldung)
+- [Java Weekly, Issue 611](https://feeds.feedblitz.com/~/924674183/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
