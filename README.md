@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implement Unit Test in gRPC Service](https://feeds.feedblitz.com/~/924827657/0/baeldung)
 - [TupleTransformer and ResultListTransformer in Hibernate](https://feeds.feedblitz.com/~/924771950/0/baeldung)
 - [Run Code Before All Tests in All Classes in JUnit 5](https://feeds.feedblitz.com/~/924771953/0/baeldung)
 - [Build Stateful Custom Bean Validation with Spring Boot](https://feeds.feedblitz.com/~/924732758/0/baeldung)
 - [Custom ObjectMapper with Jersey and Jackson](https://feeds.feedblitz.com/~/924732761/0/baeldung)
-- [Spring Boot 4 &amp; Spring Framework 7 – What’s New](https://feeds.feedblitz.com/~/924700613/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
