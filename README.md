@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making HTTPS Calls to Untrusted SSL Servers With REST Assured](https://feeds.feedblitz.com/~/924992156/0/baeldung~Making-HTTPS-Calls-to-Untrusted-SSL-Servers-With-REST-Assured)
 - [Java Weekly, Issue 612](https://feeds.feedblitz.com/~/924981038/0/baeldung~Java-Weekly-Issue)
 - [NoSQL Series](https://feeds.feedblitz.com/~/924944999/0/baeldung~NoSQL-Series)
 - [Implement Unit Test in gRPC Service](https://feeds.feedblitz.com/~/924827657/0/baeldung~Implement-Unit-Test-in-gRPC-Service)
 - [TupleTransformer and ResultListTransformer in Hibernate](https://feeds.feedblitz.com/~/924771950/0/baeldung~TupleTransformer-and-ResultListTransformer-in-Hibernate)
-- [Run Code Before All Tests in All Classes in JUnit 5](https://feeds.feedblitz.com/~/924771953/0/baeldung~Run-Code-Before-All-Tests-in-All-Classes-in-JUnit)
 <!-- BLOG-POST-LIST:END -->
 
 
