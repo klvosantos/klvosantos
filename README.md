@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Introdução API web com Java e Spring - Prof Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=wRQSzWTpr6A)
 - [Generative UI is the future of AI Interactions!!](https://www.youtube.com/watch?v=goxnUKwwf-I)
 - [Por que Java continua tão relevante no mercado? Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=Mrr3Gixku24)
 - [Salários de programador em 2025 por nível e por linguagem / tecnologia - Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=AwMJNRoCBIs)
 - [Dica para iniciar no mercado de programação para quem está com dificuldade](https://www.youtube.com/watch?v=0KoGY3-pKgM)
-- [Quanto tempo leva para conseguir a primeira vaga de programador? Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=GJ0KB55REjs)
 <!-- YOUTUBE:END -->
 
 
