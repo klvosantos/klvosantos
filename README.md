@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Check if Two Integers Have the Same Sign](https://feeds.feedblitz.com/~/925047590/0/baeldung~Check-if-Two-Integers-Have-the-Same-Sign)
 - [Making HTTPS Calls to Untrusted SSL Servers With REST Assured](https://feeds.feedblitz.com/~/924992156/0/baeldung~Making-HTTPS-Calls-to-Untrusted-SSL-Servers-With-REST-Assured)
 - [Java Weekly, Issue 612](https://feeds.feedblitz.com/~/924981038/0/baeldung~Java-Weekly-Issue)
 - [NoSQL Series](https://feeds.feedblitz.com/~/924944999/0/baeldung~NoSQL-Series)
 - [Implement Unit Test in gRPC Service](https://feeds.feedblitz.com/~/924827657/0/baeldung~Implement-Unit-Test-in-gRPC-Service)
-- [TupleTransformer and ResultListTransformer in Hibernate](https://feeds.feedblitz.com/~/924771950/0/baeldung~TupleTransformer-and-ResultListTransformer-in-Hibernate)
 <!-- BLOG-POST-LIST:END -->
 
 
