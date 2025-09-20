@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gradle JUnit Generate HTML Report](https://feeds.feedblitz.com/~/925101782/0/baeldung~Gradle-JUnit-Generate-HTML-Report)
 - [Abstract Method With Variable List of Arguments in Java](https://feeds.feedblitz.com/~/925101419/0/baeldung~Abstract-Method-With-Variable-List-of-Arguments-in-Java)
 - [Check if Two Integers Have the Same Sign](https://feeds.feedblitz.com/~/925047590/0/baeldung~Check-if-Two-Integers-Have-the-Same-Sign)
 - [Making HTTPS Calls to Untrusted SSL Servers With REST Assured](https://feeds.feedblitz.com/~/924992156/0/baeldung~Making-HTTPS-Calls-to-Untrusted-SSL-Servers-With-REST-Assured)
 - [Java Weekly, Issue 612](https://feeds.feedblitz.com/~/924981038/0/baeldung~Java-Weekly-Issue)
-- [NoSQL Series](https://feeds.feedblitz.com/~/924944999/0/baeldung~NoSQL-Series)
 <!-- BLOG-POST-LIST:END -->
 
 
