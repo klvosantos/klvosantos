@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Count the Number of Times a Sequence Occurs in a Java String](https://feeds.feedblitz.com/~/925325615/0/baeldung~Count-the-Number-of-Times-a-Sequence-Occurs-in-a-Java-String)
 - [Elasticsearch Query With “Not Contains”](https://feeds.feedblitz.com/~/925275098/0/baeldung~Elasticsearch-Query-With-%e2%80%9cNot-Contains%e2%80%9d)
 - [Getting Started With the Temporal Workflow Engine in Java](https://feeds.feedblitz.com/~/925275101/0/baeldung~Getting-Started-With-the-Temporal-Workflow-Engine-in-Java)
 - [Gradle JUnit Generate HTML Report](https://feeds.feedblitz.com/~/925101782/0/baeldung~Gradle-JUnit-Generate-HTML-Report)
 - [Abstract Method With Variable List of Arguments in Java](https://feeds.feedblitz.com/~/925101419/0/baeldung~Abstract-Method-With-Variable-List-of-Arguments-in-Java)
-- [Check if Two Integers Have the Same Sign](https://feeds.feedblitz.com/~/925047590/0/baeldung~Check-if-Two-Integers-Have-the-Same-Sign)
 <!-- BLOG-POST-LIST:END -->
 
 
