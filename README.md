@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Different Ways to Get Servlet Context](https://feeds.feedblitz.com/~/925379540/0/baeldung~Different-Ways-to-Get-Servlet-Context)
+- [Stable Values in Java 25](https://feeds.feedblitz.com/~/925379543/0/baeldung~Stable-Values-in-Java)
 - [Java Weekly, Issue 613](https://feeds.feedblitz.com/~/925335956/0/baeldung~Java-Weekly-Issue)
 - [Count the Number of Times a Sequence Occurs in a Java String](https://feeds.feedblitz.com/~/925325615/0/baeldung~Count-the-Number-of-Times-a-Sequence-Occurs-in-a-Java-String)
 - [Elasticsearch Query With “Not Contains”](https://feeds.feedblitz.com/~/925275098/0/baeldung~Elasticsearch-Query-With-%e2%80%9cNot-Contains%e2%80%9d)
-- [Getting Started With the Temporal Workflow Engine in Java](https://feeds.feedblitz.com/~/925275101/0/baeldung~Getting-Started-With-the-Temporal-Workflow-Engine-in-Java)
-- [Gradle JUnit Generate HTML Report](https://feeds.feedblitz.com/~/925101782/0/baeldung~Gradle-JUnit-Generate-HTML-Report)
 <!-- BLOG-POST-LIST:END -->
 
 
