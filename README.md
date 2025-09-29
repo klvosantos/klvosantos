@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IntelliJ IDEA vs Eclipse – Key Feature Differences](https://feeds.feedblitz.com/~/925503344/0/baeldung~IntelliJ-IDEA-vs-Eclipse-Key-Feature-Differences)
+- [Java Generics “capture of ?”](https://feeds.feedblitz.com/~/925503020/0/baeldung~Java-Generics-capture-of)
 - [How to Disable IPV6 in Java?](https://feeds.feedblitz.com/~/925446824/0/baeldung~How-to-Disable-IPV-in-Java)
 - [Streaming Response in Spring AI ChatClient](https://feeds.feedblitz.com/~/925426889/0/baeldung~Streaming-Response-in-Spring-AI-ChatClient)
 - [Different Ways to Get Servlet Context](https://feeds.feedblitz.com/~/925379540/0/baeldung~Different-Ways-to-Get-Servlet-Context)
-- [Stable Values in Java 25](https://feeds.feedblitz.com/~/925379543/0/baeldung~Stable-Values-in-Java)
-- [Java Weekly, Issue 613](https://feeds.feedblitz.com/~/925335956/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
