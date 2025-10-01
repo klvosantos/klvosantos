@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Configuration Management using Apollo](https://feeds.feedblitz.com/~/925606724/0/baeldung~Configuration-Management-using-Apollo)
 - [Flexible Constructor Bodies in Java 25](https://feeds.feedblitz.com/~/925554881/0/baeldung~Flexible-Constructor-Bodies-in-Java)
 - [Intro to Repository Vector Search Methods](https://feeds.feedblitz.com/~/925554884/0/baeldung~Intro-to-Repository-Vector-Search-Methods)
 - [Introduction to Java Parquet &lpar;Formerly Parquet MR&rpar;](https://feeds.feedblitz.com/~/925554518/0/baeldung~Introduction-to-Java-Parquet-Formerly-Parquet-MR)
 - [IntelliJ IDEA vs Eclipse – Key Feature Differences](https://feeds.feedblitz.com/~/925503344/0/baeldung~IntelliJ-IDEA-vs-Eclipse-Key-Feature-Differences)
-- [Java Generics “capture of ?”](https://feeds.feedblitz.com/~/925503020/0/baeldung~Java-Generics-capture-of)
 <!-- BLOG-POST-LIST:END -->
 
 
