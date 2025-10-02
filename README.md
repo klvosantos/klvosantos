@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mocking Logger and LoggerFactory](https://feeds.feedblitz.com/~/925658114/0/baeldung)
 - [Deserialize to a Map with Correct Type for Each Value](https://feeds.feedblitz.com/~/925657769/0/baeldung)
 - [Configuration Management using Apollo](https://feeds.feedblitz.com/~/925606724/0/baeldung)
 - [Flexible Constructor Bodies in Java 25](https://feeds.feedblitz.com/~/925554881/0/baeldung)
 - [Intro to Repository Vector Search Methods](https://feeds.feedblitz.com/~/925554884/0/baeldung)
-- [Introduction to Java Parquet &lpar;Formerly Parquet MR&rpar;](https://feeds.feedblitz.com/~/925554518/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
