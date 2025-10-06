@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting the List of All Keys Under a JSONObject Using GSON](https://feeds.feedblitz.com/~/925822952/0/baeldung~Getting-the-List-of-All-Keys-Under-a-JSONObject-Using-GSON)
+- [Post Data Into Website Using Jsoup in Java](https://feeds.feedblitz.com/~/925822955/0/baeldung~Post-Data-Into-Website-Using-Jsoup-in-Java)
 - [What Can an Object[] Array Hold in Java?](https://feeds.feedblitz.com/~/925822544/0/baeldung~What-Can-an-Object-Array-Hold-in-Java)
 - [JFR Event to Detect Invocations of Deprecated Methods in Java](https://feeds.feedblitz.com/~/925751012/0/baeldung~JFR-Event-to-Detect-Invocations-of-Deprecated-Methods-in-Java)
 - [Configuring Multiple LLMs in Spring AI](https://feeds.feedblitz.com/~/925750730/0/baeldung~Configuring-Multiple-LLMs-in-Spring-AI)
-- [Java Split String Performance](https://feeds.feedblitz.com/~/925750733/0/baeldung~Java-Split-String-Performance)
-- [How to Unit Test Micrometer](https://feeds.feedblitz.com/~/925705181/0/baeldung~How-to-Unit-Test-Micrometer)
 <!-- BLOG-POST-LIST:END -->
 
 
