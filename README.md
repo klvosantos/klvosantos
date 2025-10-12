@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Scroll an Element Into View in Selenium](https://feeds.feedblitz.com/~/926131535/0/baeldung~How-to-Scroll-an-Element-Into-View-in-Selenium)
+- [Java Serialization with Non Serializable Parts](https://feeds.feedblitz.com/~/926131538/0/baeldung~Java-Serialization-with-Non-Serializable-Parts)
 - [Constructor vs initialize&lpar;&rpar; Method in OpenJFX](https://feeds.feedblitz.com/~/926039783/0/baeldung~Constructor-vs-initialize-Method-in-OpenJFX)
 - [Java Weekly, Issue 615](https://feeds.feedblitz.com/~/925941575/0/baeldung~Java-Weekly-Issue)
 - [Generating HTTP Clients in Spring Boot from OpenAPI Spec](https://feeds.feedblitz.com/~/925869017/0/baeldung~Generating-HTTP-Clients-in-Spring-Boot-from-OpenAPI-Spec)
-- [Getting the List of All Keys Under a JSONObject Using GSON](https://feeds.feedblitz.com/~/925822952/0/baeldung~Getting-the-List-of-All-Keys-Under-a-JSONObject-Using-GSON)
-- [Post Data Into Website Using Jsoup in Java](https://feeds.feedblitz.com/~/925822955/0/baeldung~Post-Data-Into-Website-Using-Jsoup-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
