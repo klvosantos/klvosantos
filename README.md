@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Effective Agents with Spring AI](https://feeds.feedblitz.com/~/926217056/0/baeldung)
-- [Combine &lpar;Concatenate&rpar; Two Data Frames With the Same Column Name in Java](https://feeds.feedblitz.com/~/926166611/0/baeldung)
-- [How to Scroll an Element Into View in Selenium](https://feeds.feedblitz.com/~/926131535/0/baeldung)
-- [Java Serialization with Non Serializable Parts](https://feeds.feedblitz.com/~/926131538/0/baeldung)
-- [Constructor vs initialize&lpar;&rpar; Method in OpenJFX](https://feeds.feedblitz.com/~/926039783/0/baeldung)
+- [Modifying a File’s Content Based on Patterns in Java](https://feeds.feedblitz.com/~/926265092/0/baeldung~Modifying-a-Files-Content-Based-on-Patterns-in-Java)
+- [Building Effective Agents with Spring AI](https://feeds.feedblitz.com/~/926217056/0/baeldung~Building-Effective-Agents-with-Spring-AI)
+- [Combine &lpar;Concatenate&rpar; Two Data Frames With the Same Column Name in Java](https://feeds.feedblitz.com/~/926166611/0/baeldung~Combine-Concatenate-Two-Data-Frames-With-the-Same-Column-Name-in-Java)
+- [How to Scroll an Element Into View in Selenium](https://feeds.feedblitz.com/~/926131535/0/baeldung~How-to-Scroll-an-Element-Into-View-in-Selenium)
+- [Java Serialization with Non Serializable Parts](https://feeds.feedblitz.com/~/926131538/0/baeldung~Java-Serialization-with-Non-Serializable-Parts)
 <!-- BLOG-POST-LIST:END -->
 
 
