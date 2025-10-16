@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 616](https://feeds.feedblitz.com/~/926342348/0/baeldung~Java-Weekly-Issue)
 - [Overriding a Method in an Instantiated Java Object](https://feeds.feedblitz.com/~/926320325/0/baeldung~Overriding-a-Method-in-an-Instantiated-Java-Object)
 - [Modifying a File’s Content Based on Patterns in Java](https://feeds.feedblitz.com/~/926265092/0/baeldung~Modifying-a-Files-Content-Based-on-Patterns-in-Java)
 - [Building Effective Agents with Spring AI](https://feeds.feedblitz.com/~/926217056/0/baeldung~Building-Effective-Agents-with-Spring-AI)
 - [Combine &lpar;Concatenate&rpar; Two Data Frames With the Same Column Name in Java](https://feeds.feedblitz.com/~/926166611/0/baeldung~Combine-Concatenate-Two-Data-Frames-With-the-Same-Column-Name-in-Java)
-- [How to Scroll an Element Into View in Selenium](https://feeds.feedblitz.com/~/926131535/0/baeldung~How-to-Scroll-an-Element-Into-View-in-Selenium)
 <!-- BLOG-POST-LIST:END -->
 
 
