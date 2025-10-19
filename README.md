@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Delta Lake](https://feeds.feedblitz.com/~/926468000/0/baeldung~Introduction-to-Delta-Lake)
 - [Java Weekly, Issue 616](https://feeds.feedblitz.com/~/926342348/0/baeldung~Java-Weekly-Issue)
 - [Overriding a Method in an Instantiated Java Object](https://feeds.feedblitz.com/~/926320325/0/baeldung~Overriding-a-Method-in-an-Instantiated-Java-Object)
 - [Modifying a File’s Content Based on Patterns in Java](https://feeds.feedblitz.com/~/926265092/0/baeldung~Modifying-a-Files-Content-Based-on-Patterns-in-Java)
 - [Building Effective Agents with Spring AI](https://feeds.feedblitz.com/~/926217056/0/baeldung~Building-Effective-Agents-with-Spring-AI)
-- [Combine &lpar;Concatenate&rpar; Two Data Frames With the Same Column Name in Java](https://feeds.feedblitz.com/~/926166611/0/baeldung~Combine-Concatenate-Two-Data-Frames-With-the-Same-Column-Name-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
