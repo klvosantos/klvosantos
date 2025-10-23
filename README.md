@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 617](https://feeds.feedblitz.com/~/926655038/0/baeldung)
 - [Handling UnexpectedRollbackException in Spring](https://feeds.feedblitz.com/~/926595680/0/baeldung)
 - [Introduction to Delta Lake](https://feeds.feedblitz.com/~/926468000/0/baeldung)
 - [Java Weekly, Issue 616](https://feeds.feedblitz.com/~/926342348/0/baeldung)
 - [Overriding a Method in an Instantiated Java Object](https://feeds.feedblitz.com/~/926320325/0/baeldung)
-- [Modifying a File’s Content Based on Patterns in Java](https://feeds.feedblitz.com/~/926265092/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
