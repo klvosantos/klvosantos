@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get Host Name with Port from a HTTP or HTTPS Request in Java](https://feeds.feedblitz.com/~/926728391/0/baeldung~Get-Host-Name-with-Port-from-a-HTTP-or-HTTPS-Request-in-Java)
+- [BCD to Decimal Conversion](https://feeds.feedblitz.com/~/926728394/0/baeldung~BCD-to-Decimal-Conversion)
+- [How to Mock AmazonSQS in Unit Tests](https://feeds.feedblitz.com/~/926728397/0/baeldung~How-to-Mock-AmazonSQS-in-Unit-Tests)
+- [Visual Studio Code File and Cache Handling](https://feeds.feedblitz.com/~/926728400/0/baeldung~Visual-Studio-Code-File-and-Cache-Handling)
 - [Java Weekly, Issue 617](https://feeds.feedblitz.com/~/926655038/0/baeldung~Java-Weekly-Issue)
-- [Handling UnexpectedRollbackException in Spring](https://feeds.feedblitz.com/~/926595680/0/baeldung~Handling-UnexpectedRollbackException-in-Spring)
-- [Introduction to Delta Lake](https://feeds.feedblitz.com/~/926468000/0/baeldung~Introduction-to-Delta-Lake)
-- [Java Weekly, Issue 616](https://feeds.feedblitz.com/~/926342348/0/baeldung~Java-Weekly-Issue)
-- [Overriding a Method in an Instantiated Java Object](https://feeds.feedblitz.com/~/926320325/0/baeldung~Overriding-a-Method-in-an-Instantiated-Java-Object)
 <!-- BLOG-POST-LIST:END -->
 
 
