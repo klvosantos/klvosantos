@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bind Custom Validation Message in Spring](https://feeds.feedblitz.com/~/926758574/0/baeldung~Bind-Custom-Validation-Message-in-Spring)
+- [Order of Configuration in Spring Boot](https://feeds.feedblitz.com/~/926758577/0/baeldung~Order-of-Configuration-in-Spring-Boot)
 - [Get Host Name with Port from a HTTP or HTTPS Request in Java](https://feeds.feedblitz.com/~/926728391/0/baeldung~Get-Host-Name-with-Port-from-a-HTTP-or-HTTPS-Request-in-Java)
 - [BCD to Decimal Conversion](https://feeds.feedblitz.com/~/926728394/0/baeldung~BCD-to-Decimal-Conversion)
 - [How to Mock AmazonSQS in Unit Tests](https://feeds.feedblitz.com/~/926728397/0/baeldung~How-to-Mock-AmazonSQS-in-Unit-Tests)
-- [Visual Studio Code File and Cache Handling](https://feeds.feedblitz.com/~/926728400/0/baeldung~Visual-Studio-Code-File-and-Cache-Handling)
-- [Java Weekly, Issue 617](https://feeds.feedblitz.com/~/926655038/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
