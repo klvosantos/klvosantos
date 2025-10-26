@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bind Custom Validation Message in Spring](https://feeds.feedblitz.com/~/926758574/0/baeldung~Bind-Custom-Validation-Message-in-Spring)
-- [Order of Configuration in Spring Boot](https://feeds.feedblitz.com/~/926758577/0/baeldung~Order-of-Configuration-in-Spring-Boot)
-- [Get Host Name with Port from a HTTP or HTTPS Request in Java](https://feeds.feedblitz.com/~/926728391/0/baeldung~Get-Host-Name-with-Port-from-a-HTTP-or-HTTPS-Request-in-Java)
-- [BCD to Decimal Conversion](https://feeds.feedblitz.com/~/926728394/0/baeldung~BCD-to-Decimal-Conversion)
-- [How to Mock AmazonSQS in Unit Tests](https://feeds.feedblitz.com/~/926728397/0/baeldung~How-to-Mock-AmazonSQS-in-Unit-Tests)
+- [How to Query JPA LocalDateTime Field With a LocalDate Value](https://feeds.feedblitz.com/~/926782970/0/baeldung~How-to-Query-JPA-LocalDateTime-Field-With-a-LocalDate-Value)
+- [Set the Null Value for a Target Property in MapStruct](https://feeds.feedblitz.com/~/926782577/0/baeldung~Set-the-Null-Value-for-a-Target-Property-in-MapStruct)
+- [Calculate the Difference of Two Angle Measures in Java](https://feeds.feedblitz.com/~/926782580/0/baeldung~Calculate-the-Difference-of-Two-Angle-Measures-in-Java)
+- [Splitting String into an int Array in Java](https://feeds.feedblitz.com/~/926782583/0/baeldung~Splitting-String-into-an-int-Array-in-Java)
+- [Guide to Jersey Logging on Server](https://feeds.feedblitz.com/~/926782586/0/baeldung~Guide-to-Jersey-Logging-on-Server)
 <!-- BLOG-POST-LIST:END -->
 
 
