@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 - [How to Query JPA LocalDateTime Field With a LocalDate Value](https://feeds.feedblitz.com/~/926782970/0/baeldung~How-to-Query-JPA-LocalDateTime-Field-With-a-LocalDate-Value)
 - [Set the Null Value for a Target Property in MapStruct](https://feeds.feedblitz.com/~/926782577/0/baeldung~Set-the-Null-Value-for-a-Target-Property-in-MapStruct)
 - [Calculate the Difference of Two Angle Measures in Java](https://feeds.feedblitz.com/~/926782580/0/baeldung~Calculate-the-Difference-of-Two-Angle-Measures-in-Java)
-- [Splitting String into an int Array in Java](https://feeds.feedblitz.com/~/926782583/0/baeldung~Splitting-String-into-an-int-Array-in-Java)
+- [Splitting String into an int Array in Java](https://feeds.feedblitz.com/~/926817347/0/baeldung~Splitting-String-into-an-int-Array-in-Java)
 - [Guide to Jersey Logging on Server](https://feeds.feedblitz.com/~/926782586/0/baeldung~Guide-to-Jersey-Logging-on-Server)
 <!-- BLOG-POST-LIST:END -->
 
