@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoid Bot Detection With Selenium in Spring Boot](https://feeds.feedblitz.com/~/927042947/0/baeldung~Avoid-Bot-Detection-With-Selenium-in-Spring-Boot)
 - [Java Weekly, Issue 618](https://feeds.feedblitz.com/~/927003746/0/baeldung~Java-Weekly-Issue)
 - [Handling Feign GET Requests With a Body](https://feeds.feedblitz.com/~/926878085/0/baeldung~Handling-Feign-GET-Requests-With-a-Body)
 - [Introduction to BaseX](https://feeds.feedblitz.com/~/926878088/0/baeldung~Introduction-to-BaseX)
 - [How to Query JPA LocalDateTime Field With a LocalDate Value](https://feeds.feedblitz.com/~/926782970/0/baeldung~How-to-Query-JPA-LocalDateTime-Field-With-a-LocalDate-Value)
-- [Set the Null Value for a Target Property in MapStruct](https://feeds.feedblitz.com/~/926782577/0/baeldung~Set-the-Null-Value-for-a-Target-Property-in-MapStruct)
 <!-- BLOG-POST-LIST:END -->
 
 
