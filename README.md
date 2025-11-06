@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 619](https://feeds.feedblitz.com/~/927286922/0/baeldung~Java-Weekly-Issue)
 - [The Object Class in Java](https://feeds.feedblitz.com/~/927213254/0/baeldung~The-Object-Class-in-Java)
 - [Mapping Abstract Classes in MapStruct](https://feeds.feedblitz.com/~/927213257/0/baeldung~Mapping-Abstract-Classes-in-MapStruct)
 - [How to Randomly Get a Key, a Value, or an Entry From a HashMap in Java](https://feeds.feedblitz.com/~/927211784/0/baeldung~How-to-Randomly-Get-a-Key-a-Value-or-an-Entry-From-a-HashMap-in-Java)
 - [Avoid Bot Detection With Selenium in Spring Boot](https://feeds.feedblitz.com/~/927042947/0/baeldung~Avoid-Bot-Detection-With-Selenium-in-Spring-Boot)
-- [Java Weekly, Issue 618](https://feeds.feedblitz.com/~/927003746/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
