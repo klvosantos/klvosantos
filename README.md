@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resolving JSONException: JSONObject text must begin with ‘{‘ in Java](https://feeds.feedblitz.com/~/927302207/0/baeldung~Resolving-JSONException-JSONObject-text-must-begin-with-in-Java)
+- [A Deep Dive into JVM Start-up](https://feeds.feedblitz.com/~/927302210/0/baeldung~A-Deep-Dive-into-JVM-Startup)
+- [Guide to Maven Toolchains](https://feeds.feedblitz.com/~/927302213/0/baeldung~Guide-to-Maven-Toolchains)
 - [How to Properly Configure Jakarta EE Libraries in Maven pom.xml for Tomcat?](https://feeds.feedblitz.com/~/927301622/0/baeldung~How-to-Properly-Configure-Jakarta-EE-Libraries-in-Maven-pomxml-for-Tomcat)
 - [Java Weekly, Issue 619](https://feeds.feedblitz.com/~/927286922/0/baeldung~Java-Weekly-Issue)
-- [The Object Class in Java](https://feeds.feedblitz.com/~/927213254/0/baeldung~The-Object-Class-in-Java)
-- [Mapping Abstract Classes in MapStruct](https://feeds.feedblitz.com/~/927213257/0/baeldung~Mapping-Abstract-Classes-in-MapStruct)
-- [How to Randomly Get a Key, a Value, or an Entry From a HashMap in Java](https://feeds.feedblitz.com/~/927211784/0/baeldung~How-to-Randomly-Get-a-Key-a-Value-or-an-Entry-From-a-HashMap-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
