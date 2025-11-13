@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mapping a org.json.JSONObject to a POJO](https://feeds.feedblitz.com/~/927587078/0/baeldung~Mapping-a-orgjsonJSONObject-to-a-POJO)
+- [How to Fix the gradlew: command not found Error in Linux](https://feeds.feedblitz.com/~/927587081/0/baeldung~How-to-Fix-the-gradlew-command-not-found-Error-in-Linux)
 - [Implementing Semantic Caching Using Spring AI](https://feeds.feedblitz.com/~/927442421/0/baeldung~Implementing-Semantic-Caching-Using-Spring-AI)
 - [Reuse Embedded Kafka Broker in Multiple Test Classes](https://feeds.feedblitz.com/~/927441974/0/baeldung~Reuse-Embedded-Kafka-Broker-in-Multiple-Test-Classes)
 - [Computing the Padovan Sequnce in Java](https://feeds.feedblitz.com/~/927360941/0/baeldung~Computing-the-Padovan-Sequnce-in-Java)
-- [SFTP With JSch](https://feeds.feedblitz.com/~/927360947/0/baeldung~SFTP-With-JSch)
-- [Tool to Analyze Offline Java Heap Dumps](https://feeds.feedblitz.com/~/927360569/0/baeldung~Tool-to-Analyze-Offline-Java-Heap-Dumps)
 <!-- BLOG-POST-LIST:END -->
 
 
