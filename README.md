@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sending XML POST Requests with Spring RestTemplate](https://feeds.feedblitz.com/~/927799586/0/baeldung~Sending-XML-POST-Requests-with-Spring-RestTemplate)
 - [Handling Exceptions in Kafka Streams](https://feeds.feedblitz.com/~/927676991/0/baeldung~Handling-Exceptions-in-Kafka-Streams)
 - [Java Weekly, Issue 620](https://feeds.feedblitz.com/~/927595127/0/baeldung~Java-Weekly-Issue)
 - [Mapping a org.json.JSONObject to a POJO](https://feeds.feedblitz.com/~/927587078/0/baeldung~Mapping-a-orgjsonJSONObject-to-a-POJO)
 - [How to Fix the gradlew: command not found Error in Linux](https://feeds.feedblitz.com/~/927587081/0/baeldung~How-to-Fix-the-gradlew-command-not-found-Error-in-Linux)
-- [Implementing Semantic Caching Using Spring AI](https://feeds.feedblitz.com/~/927442421/0/baeldung~Implementing-Semantic-Caching-Using-Spring-AI)
 <!-- BLOG-POST-LIST:END -->
 
 
