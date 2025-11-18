@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Running Tomcat Server on Two Different Ports](https://feeds.feedblitz.com/~/928056575/0/baeldung~Running-Tomcat-Server-on-Two-Different-Ports)
+- [Resolving JUnit Error: Test Class Should Have Exactly One Public Zero-Argument Constructor](https://feeds.feedblitz.com/~/928056185/0/baeldung~Resolving-JUnit-Error-Test-Class-Should-Have-Exactly-One-Public-ZeroArgument-Constructor)
+- [Select a Random Key from a HashMap in Java](https://feeds.feedblitz.com/~/928056188/0/baeldung~Select-a-Random-Key-from-a-HashMap-in-Java)
+- [How to Set a Specific Bit of a Number in Java](https://feeds.feedblitz.com/~/928056191/0/baeldung~How-to-Set-a-Specific-Bit-of-a-Number-in-Java)
 - [Sending XML POST Requests with Spring RestTemplate](https://feeds.feedblitz.com/~/927799586/0/baeldung~Sending-XML-POST-Requests-with-Spring-RestTemplate)
-- [Handling Exceptions in Kafka Streams](https://feeds.feedblitz.com/~/927676991/0/baeldung~Handling-Exceptions-in-Kafka-Streams)
-- [Java Weekly, Issue 620](https://feeds.feedblitz.com/~/927595127/0/baeldung~Java-Weekly-Issue)
-- [Mapping a org.json.JSONObject to a POJO](https://feeds.feedblitz.com/~/927587078/0/baeldung~Mapping-a-orgjsonJSONObject-to-a-POJO)
-- [How to Fix the gradlew: command not found Error in Linux](https://feeds.feedblitz.com/~/927587081/0/baeldung~How-to-Fix-the-gradlew-command-not-found-Error-in-Linux)
 <!-- BLOG-POST-LIST:END -->
 
 
