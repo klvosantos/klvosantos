@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Converting Blob to String and String to Blob in Java](https://feeds.feedblitz.com/~/928247720/0/baeldung~Converting-Blob-to-String-and-String-to-Blob-in-Java)
+- [Retrying RestTemplate HTTP Requests in Java When the Host Is Offline](https://feeds.feedblitz.com/~/928247723/0/baeldung~Retrying-RestTemplate-HTTP-Requests-in-Java-When-the-Host-Is-Offline)
+- [Configuring Testcontainers to Work with Podman](https://feeds.feedblitz.com/~/928247729/0/baeldung~Configuring-Testcontainers-to-Work-with-Podman)
 - [Running Tomcat Server on Two Different Ports](https://feeds.feedblitz.com/~/928056575/0/baeldung~Running-Tomcat-Server-on-Two-Different-Ports)
 - [Resolving JUnit Error: Test Class Should Have Exactly One Public Zero-Argument Constructor](https://feeds.feedblitz.com/~/928056185/0/baeldung~Resolving-JUnit-Error-Test-Class-Should-Have-Exactly-One-Public-ZeroArgument-Constructor)
-- [Select a Random Key from a HashMap in Java](https://feeds.feedblitz.com/~/928056188/0/baeldung~Select-a-Random-Key-from-a-HashMap-in-Java)
-- [How to Set a Specific Bit of a Number in Java](https://feeds.feedblitz.com/~/928056191/0/baeldung~How-to-Set-a-Specific-Bit-of-a-Number-in-Java)
-- [Sending XML POST Requests with Spring RestTemplate](https://feeds.feedblitz.com/~/927799586/0/baeldung~Sending-XML-POST-Requests-with-Spring-RestTemplate)
 <!-- BLOG-POST-LIST:END -->
 
 
