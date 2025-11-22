@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to Engine Test Kit in Junit 5](https://feeds.feedblitz.com/~/928974746/0/baeldung~A-Guide-to-Engine-Test-Kit-in-Junit)
 - [Find Out What Keystore the JVM Is Using](https://feeds.feedblitz.com/~/928546622/0/baeldung~Find-Out-What-Keystore-the-JVM-Is-Using)
 - [Introduction to the Chicory Native JVM WebAssembly Runtime](https://feeds.feedblitz.com/~/928546625/0/baeldung~Introduction-to-the-Chicory-Native-JVM-WebAssembly-Runtime)
 - [Key Encapsulation Mechanism API in Java](https://feeds.feedblitz.com/~/928397657/0/baeldung~Key-Encapsulation-Mechanism-API-in-Java)
 - [SecureRandom Generator on Linux – Blocking or Not Blocking?](https://feeds.feedblitz.com/~/928396763/0/baeldung~SecureRandom-Generator-on-Linux-Blocking-or-Not-Blocking)
-- [Java Weekly, Issue 621](https://feeds.feedblitz.com/~/928387226/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
