@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is @MockitoSpyBean in Spring](https://feeds.feedblitz.com/~/929875547/0/baeldung~What-is-MockitoSpyBean-in-Spring)
+- [Perform Wildcard Search in Elasticsearch](https://feeds.feedblitz.com/~/929867933/0/baeldung~Perform-Wildcard-Search-in-Elasticsearch)
 - [Using TermQueries in Elastic Search](https://feeds.feedblitz.com/~/929545964/0/baeldung~Using-TermQueries-in-Elastic-Search)
 - [How to Make IntelliJ IDEA Insert a New Line at Every End of File](https://feeds.feedblitz.com/~/929134124/0/baeldung~How-to-Make-IntelliJ-IDEA-Insert-a-New-Line-at-Every-End-of-File)
 - [A Guide to Engine Test Kit in Junit 5](https://feeds.feedblitz.com/~/928974746/0/baeldung~A-Guide-to-Engine-Test-Kit-in-Junit)
-- [Find Out What Keystore the JVM Is Using](https://feeds.feedblitz.com/~/928546622/0/baeldung~Find-Out-What-Keystore-the-JVM-Is-Using)
-- [Introduction to the Chicory Native JVM WebAssembly Runtime](https://feeds.feedblitz.com/~/928546625/0/baeldung~Introduction-to-the-Chicory-Native-JVM-WebAssembly-Runtime)
 <!-- BLOG-POST-LIST:END -->
 
 
