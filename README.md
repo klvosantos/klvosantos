@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring @Retryable With @Transactional](https://feeds.feedblitz.com/~/930312527/0/baeldung~Spring-Retryable-With-Transactional)
 - [A Guide to RestTestClient](https://feeds.feedblitz.com/~/930151244/0/baeldung~A-Guide-to-RestTestClient)
 - [Temporal Workflow Engine with Spring Boot](https://feeds.feedblitz.com/~/930151247/0/baeldung~Temporal-Workflow-Engine-with-Spring-Boot)
 - [Java Weekly, Issue 622](https://feeds.feedblitz.com/~/930012875/0/baeldung~Java-Weekly-Issue)
 - [What is @MockitoSpyBean in Spring](https://feeds.feedblitz.com/~/929875547/0/baeldung~What-is-MockitoSpyBean-in-Spring)
-- [Perform Wildcard Search in Elasticsearch](https://feeds.feedblitz.com/~/929867933/0/baeldung~Perform-Wildcard-Search-in-Elasticsearch)
 <!-- BLOG-POST-LIST:END -->
 
 
