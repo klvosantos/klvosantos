@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reduce Object Header Size and Save Memory in Java 25](https://feeds.feedblitz.com/~/930522056/0/baeldung~Reduce-Object-Header-Size-and-Save-Memory-in-Java)
-- [Introduction to Hermes Message Broker](https://feeds.feedblitz.com/~/930522059/0/baeldung~Introduction-to-Hermes-Message-Broker)
-- [How to Fix JPA NoResultException: No Entity Found for Query](https://feeds.feedblitz.com/~/930522062/0/baeldung~How-to-Fix-JPA-NoResultException-No-Entity-Found-for-Query)
-- [Spring @Retryable With @Transactional](https://feeds.feedblitz.com/~/930312527/0/baeldung~Spring-Retryable-With-Transactional)
-- [A Guide to RestTestClient](https://feeds.feedblitz.com/~/930151244/0/baeldung~A-Guide-to-RestTestClient)
+- [Dapr Workflows With PubSub](https://feeds.feedblitz.com/~/930738203/0/baeldung)
+- [Reduce Object Header Size and Save Memory in Java 25](https://feeds.feedblitz.com/~/930522056/0/baeldung)
+- [Introduction to Hermes Message Broker](https://feeds.feedblitz.com/~/930522059/0/baeldung)
+- [How to Fix JPA NoResultException: No Entity Found for Query](https://feeds.feedblitz.com/~/930522062/0/baeldung)
+- [Spring @Retryable With @Transactional](https://feeds.feedblitz.com/~/930312527/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
