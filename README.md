@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que é avaliado em um processo seletivo para programador? Prof Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=ySYi4sEVw3g)
 - [Cut Next.js Load Times by 85% With this Deployment Method](https://www.youtube.com/shorts/gSsy7ypKqFY)
 - [IA vai substituir programadores? 3 erros sobre essa questão - Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=yVsiiAX2_hw)
 - [Introdução API web com Java e Spring - Prof Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=wRQSzWTpr6A)
 - [Generative UI is the future of AI Interactions!!](https://www.youtube.com/watch?v=goxnUKwwf-I)
-- [Por que Java continua tão relevante no mercado? Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=Mrr3Gixku24)
 <!-- YOUTUBE:END -->
 
 
