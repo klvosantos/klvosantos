@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Manage the java.io.IOException: Invalid Keystore Format Error](https://feeds.feedblitz.com/~/930743810/0/baeldung)
-- [Dapr Workflows With PubSub](https://feeds.feedblitz.com/~/930738203/0/baeldung)
-- [Reduce Object Header Size and Save Memory in Java 25](https://feeds.feedblitz.com/~/930522056/0/baeldung)
-- [Introduction to Hermes Message Broker](https://feeds.feedblitz.com/~/930522059/0/baeldung)
-- [How to Fix JPA NoResultException: No Entity Found for Query](https://feeds.feedblitz.com/~/930522062/0/baeldung)
+- [Fixing Bean Creation Issues With MapStruct @Mapper Annotations in Spring Applications](https://feeds.feedblitz.com/~/931481753/0/baeldung~Fixing-Bean-Creation-Issues-With-MapStruct-Mapper-Annotations-in-Spring-Applications)
+- [Terminating Scanner When Input Is Complete in Java](https://feeds.feedblitz.com/~/931481756/0/baeldung~Terminating-Scanner-When-Input-Is-Complete-in-Java)
+- [How to Manage the java.io.IOException: Invalid Keystore Format Error](https://feeds.feedblitz.com/~/930743810/0/baeldung~How-to-Manage-the-javaioIOException-Invalid-Keystore-Format-Error)
+- [Dapr Workflows With PubSub](https://feeds.feedblitz.com/~/930738203/0/baeldung~Dapr-Workflows-With-PubSub)
+- [Reduce Object Header Size and Save Memory in Java 25](https://feeds.feedblitz.com/~/930522056/0/baeldung~Reduce-Object-Header-Size-and-Save-Memory-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
