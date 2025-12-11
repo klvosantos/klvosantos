@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inserting BLOB Using Spring JdbcTemplate](https://feeds.feedblitz.com/~/932968892/0/baeldung~Inserting-BLOB-Using-Spring-JdbcTemplate)
+- [Introduction to Testing Micronaut With JUnit 5](https://feeds.feedblitz.com/~/932968211/0/baeldung~Introduction-to-Testing-Micronaut-With-JUnit)
 - [Access Resources in a Quarkus Native Image](https://feeds.feedblitz.com/~/932466851/0/baeldung~Access-Resources-in-a-Quarkus-Native-Image)
 - [Convert EBCDIC to ASCII in Java](https://feeds.feedblitz.com/~/932466320/0/baeldung~Convert-EBCDIC-to-ASCII-in-Java)
 - [Solving Hibernate SyntaxException: token ‘*’, no viable alternative at input](https://feeds.feedblitz.com/~/932213402/0/baeldung~Solving-Hibernate-SyntaxException-token-no-viable-alternative-at-input)
-- [Building Debian deb Packages From Java Builds Using jdeb](https://feeds.feedblitz.com/~/932213405/0/baeldung~Building-Debian-deb-Packages-From-Java-Builds-Using-jdeb)
-- [Draw a Decent Looking Circle in Java](https://feeds.feedblitz.com/~/931781012/0/baeldung~Draw-a-Decent-Looking-Circle-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
