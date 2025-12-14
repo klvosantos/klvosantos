@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Netflix Hollow](https://feeds.feedblitz.com/~/933732752/0/baeldung~Introduction-to-Netflix-Hollow)
 - [Select Text From the Autocomplete Input using Selenium](https://feeds.feedblitz.com/~/933265664/0/baeldung~Select-Text-From-the-Autocomplete-Input-using-Selenium)
 - [Apache POI HSSFWorkbook: Workbook to Byte Streams and Back](https://feeds.feedblitz.com/~/933265667/0/baeldung~Apache-POI-HSSFWorkbook-Workbook-to-Byte-Streams-and-Back)
 - [Java Weekly, Issue 624](https://feeds.feedblitz.com/~/932980238/0/baeldung~Java-Weekly-Issue)
 - [Inserting BLOB Using Spring JdbcTemplate](https://feeds.feedblitz.com/~/932968892/0/baeldung~Inserting-BLOB-Using-Spring-JdbcTemplate)
-- [Introduction to Testing Micronaut With JUnit 5](https://feeds.feedblitz.com/~/932968211/0/baeldung~Introduction-to-Testing-Micronaut-With-JUnit)
 <!-- BLOG-POST-LIST:END -->
 
 
