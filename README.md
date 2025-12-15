@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Calculate the Cosine Similarity of Two Vectors in Java](https://feeds.feedblitz.com/~/934853159/0/baeldung~Calculate-the-Cosine-Similarity-of-Two-Vectors-in-Java)
+- [Introduction to the Model Context Protocol &lpar;MCP&rpar; Java SDK](https://feeds.feedblitz.com/~/934853162/0/baeldung~Introduction-to-the-Model-Context-Protocol-MCP-Java-SDK)
+- [Finding the Collection of All IDs in a Collection of Entities](https://feeds.feedblitz.com/~/934853165/0/baeldung~Finding-the-Collection-of-All-IDs-in-a-Collection-of-Entities)
+- [API Versioning in Spring](https://feeds.feedblitz.com/~/934852655/0/baeldung~API-Versioning-in-Spring)
 - [Introduction to MyBatis Dynamic SQL](https://feeds.feedblitz.com/~/934324793/0/baeldung~Introduction-to-MyBatis-Dynamic-SQL)
-- [A Guide to @ClassTemplate in Junit 5](https://feeds.feedblitz.com/~/934184054/0/baeldung~A-Guide-to-ClassTemplate-in-Junit)
-- [Introduction to Netflix Hollow](https://feeds.feedblitz.com/~/933732752/0/baeldung~Introduction-to-Netflix-Hollow)
-- [Select Text From the Autocomplete Input using Selenium](https://feeds.feedblitz.com/~/933265664/0/baeldung~Select-Text-From-the-Autocomplete-Input-using-Selenium)
-- [Apache POI HSSFWorkbook: Workbook to Byte Streams and Back](https://feeds.feedblitz.com/~/933265667/0/baeldung~Apache-POI-HSSFWorkbook-Workbook-to-Byte-Streams-and-Back)
 <!-- BLOG-POST-LIST:END -->
 
 
