@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to simple-openai](https://feeds.feedblitz.com/~/936948740/0/baeldung~Introduction-to-simpleopenai)
 - [Java Weekly, Issue 625](https://feeds.feedblitz.com/~/935901749/0/baeldung~Java-Weekly-Issue)
 - [Calculate the Cosine Similarity of Two Vectors in Java](https://feeds.feedblitz.com/~/934853159/0/baeldung~Calculate-the-Cosine-Similarity-of-Two-Vectors-in-Java)
 - [Introduction to the Model Context Protocol &lpar;MCP&rpar; Java SDK](https://feeds.feedblitz.com/~/934853162/0/baeldung~Introduction-to-the-Model-Context-Protocol-MCP-Java-SDK)
 - [Finding the Collection of All IDs in a Collection of Entities](https://feeds.feedblitz.com/~/934853165/0/baeldung~Finding-the-Collection-of-All-IDs-in-a-Collection-of-Entities)
-- [API Versioning in Spring](https://feeds.feedblitz.com/~/934852655/0/baeldung~API-Versioning-in-Spring)
 <!-- BLOG-POST-LIST:END -->
 
 
