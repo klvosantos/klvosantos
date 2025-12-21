@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MapStruct Null Values Handling](https://feeds.feedblitz.com/~/937759487/0/baeldung~MapStruct-Null-Values-Handling)
 - [Convert DataBuffer to Mono in Reactor](https://feeds.feedblitz.com/~/937416584/0/baeldung~Convert-DataBuffer-to-Mono-in-Reactor)
 - [Efficient POJO Mapping to/from Java Mongo DBObject using Jackson](https://feeds.feedblitz.com/~/937416590/0/baeldung~Efficient-POJO-Mapping-tofrom-Java-Mongo-DBObject-using-Jackson)
 - [Detach and Attach Entity in Spring JpaRepository](https://feeds.feedblitz.com/~/937416593/0/baeldung~Detach-and-Attach-Entity-in-Spring-JpaRepository)
 - [Introduction to Jlama](https://feeds.feedblitz.com/~/937253195/0/baeldung~Introduction-to-Jlama)
-- [Introduction to simple-openai](https://feeds.feedblitz.com/~/936948740/0/baeldung~Introduction-to-simpleopenai)
 <!-- BLOG-POST-LIST:END -->
 
 
