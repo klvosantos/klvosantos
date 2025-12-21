@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert DataBuffer to Mono in Reactor](https://feeds.feedblitz.com/~/937416584/0/baeldung~Convert-DataBuffer-to-Mono-in-Reactor)
+- [Efficient POJO Mapping to/from Java Mongo DBObject using Jackson](https://feeds.feedblitz.com/~/937416590/0/baeldung~Efficient-POJO-Mapping-tofrom-Java-Mongo-DBObject-using-Jackson)
+- [Detach and Attach Entity in Spring JpaRepository](https://feeds.feedblitz.com/~/937416593/0/baeldung~Detach-and-Attach-Entity-in-Spring-JpaRepository)
+- [Introduction to Jlama](https://feeds.feedblitz.com/~/937253195/0/baeldung~Introduction-to-Jlama)
 - [Introduction to simple-openai](https://feeds.feedblitz.com/~/936948740/0/baeldung~Introduction-to-simpleopenai)
-- [Java Weekly, Issue 625](https://feeds.feedblitz.com/~/935901749/0/baeldung~Java-Weekly-Issue)
-- [Calculate the Cosine Similarity of Two Vectors in Java](https://feeds.feedblitz.com/~/934853159/0/baeldung~Calculate-the-Cosine-Similarity-of-Two-Vectors-in-Java)
-- [Introduction to the Model Context Protocol &lpar;MCP&rpar; Java SDK](https://feeds.feedblitz.com/~/934853162/0/baeldung~Introduction-to-the-Model-Context-Protocol-MCP-Java-SDK)
-- [Finding the Collection of All IDs in a Collection of Entities](https://feeds.feedblitz.com/~/934853165/0/baeldung~Finding-the-Collection-of-All-IDs-in-a-Collection-of-Entities)
 <!-- BLOG-POST-LIST:END -->
 
 
