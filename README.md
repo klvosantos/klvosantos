@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resolving PostgreSQL ERROR: canceling statement due to user request](https://feeds.feedblitz.com/~/939461312/0/baeldung~Resolving-PostgreSQL-ERROR-canceling-statement-due-to-user-request)
+- [Casting JSONArray to int Array in Java](https://feeds.feedblitz.com/~/939461315/0/baeldung~Casting-JSONArray-to-int-Array-in-Java)
 - [Conditionally Ignore Tests in TestNG](https://feeds.feedblitz.com/~/939449444/0/baeldung~Conditionally-Ignore-Tests-in-TestNG)
 - [Commit on JdbcTemplate or DataSource in Java](https://feeds.feedblitz.com/~/939449447/0/baeldung~Commit-on-JdbcTemplate-or-DataSource-in-Java)
 - [How To Auto-Format Code in VS Code](https://feeds.feedblitz.com/~/939449099/0/baeldung~How-To-AutoFormat-Code-in-VS-Code)
-- [Generate Valid and Unique Identifiers](https://feeds.feedblitz.com/~/939449102/0/baeldung~Generate-Valid-and-Unique-Identifiers)
-- [Transpose double[][] Matrix With a Java Function](https://feeds.feedblitz.com/~/939406304/0/baeldung~Transpose-double-Matrix-With-a-Java-Function)
 <!-- BLOG-POST-LIST:END -->
 
 
