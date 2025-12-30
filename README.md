@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Conditionally Ignore Tests in TestNG](https://feeds.feedblitz.com/~/939449444/0/baeldung~Conditionally-Ignore-Tests-in-TestNG)
+- [Commit on JdbcTemplate or DataSource in Java](https://feeds.feedblitz.com/~/939449447/0/baeldung~Commit-on-JdbcTemplate-or-DataSource-in-Java)
+- [How To Auto-Format Code in VS Code](https://feeds.feedblitz.com/~/939449099/0/baeldung~How-To-AutoFormat-Code-in-VS-Code)
+- [Generate Valid and Unique Identifiers](https://feeds.feedblitz.com/~/939449102/0/baeldung~Generate-Valid-and-Unique-Identifiers)
 - [Transpose double[][] Matrix With a Java Function](https://feeds.feedblitz.com/~/939406304/0/baeldung~Transpose-double-Matrix-With-a-Java-Function)
-- [How to Reset InputStream and Read File Again](https://feeds.feedblitz.com/~/939376271/0/baeldung~How-to-Reset-InputStream-and-Read-File-Again)
-- [Java Weekly, Issue 626](https://feeds.feedblitz.com/~/939359147/0/baeldung~Java-Weekly-Issue)
-- [Find List of Matched Rules in Drools](https://feeds.feedblitz.com/~/938273234/0/baeldung~Find-List-of-Matched-Rules-in-Drools)
-- [What’s New in Maven 4](https://feeds.feedblitz.com/~/938272574/0/baeldung~Whats-New-in-Maven)
 <!-- BLOG-POST-LIST:END -->
 
 
