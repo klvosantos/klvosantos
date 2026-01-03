@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Handle and Fix java.io.NotSerializableException](https://feeds.feedblitz.com/~/939626195/0/baeldung~How-to-Handle-and-Fix-javaioNotSerializableException)
+- [A Guide to @ConcreteProxy in Hibernate](https://feeds.feedblitz.com/~/939624533/0/baeldung~A-Guide-to-ConcreteProxy-in-Hibernate)
 - [Java Weekly, Issue 627](https://feeds.feedblitz.com/~/939574433/0/baeldung~Java-Weekly-Issue)
 - [Resolving PostgreSQL ERROR: canceling statement due to user request](https://feeds.feedblitz.com/~/939461312/0/baeldung~Resolving-PostgreSQL-ERROR-canceling-statement-due-to-user-request)
 - [Casting JSONArray to int Array in Java](https://feeds.feedblitz.com/~/939461315/0/baeldung~Casting-JSONArray-to-int-Array-in-Java)
-- [Conditionally Ignore Tests in TestNG](https://feeds.feedblitz.com/~/939449444/0/baeldung~Conditionally-Ignore-Tests-in-TestNG)
-- [Commit on JdbcTemplate or DataSource in Java](https://feeds.feedblitz.com/~/939449447/0/baeldung~Commit-on-JdbcTemplate-or-DataSource-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
