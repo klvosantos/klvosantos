@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to IoTDB](https://feeds.feedblitz.com/~/939734999/0/baeldung~Introduction-to-IoTDB)
+- [Why Use the Returned Instance of Spring Data JPA Repository’s save&lpar;&rpar; Call?](https://feeds.feedblitz.com/~/939734255/0/baeldung~Why-Use-the-Returned-Instance-of-Spring-Data-JPA-Repositorys-save-Call)
+- [Joining Tables Without Relation Using JPA Criteria](https://feeds.feedblitz.com/~/939734258/0/baeldung~Joining-Tables-Without-Relation-Using-JPA-Criteria)
 - [How to Handle and Fix java.io.NotSerializableException](https://feeds.feedblitz.com/~/939626195/0/baeldung~How-to-Handle-and-Fix-javaioNotSerializableException)
 - [A Guide to @ConcreteProxy in Hibernate](https://feeds.feedblitz.com/~/939624533/0/baeldung~A-Guide-to-ConcreteProxy-in-Hibernate)
-- [Java Weekly, Issue 627](https://feeds.feedblitz.com/~/939574433/0/baeldung~Java-Weekly-Issue)
-- [Resolving PostgreSQL ERROR: canceling statement due to user request](https://feeds.feedblitz.com/~/939461312/0/baeldung~Resolving-PostgreSQL-ERROR-canceling-statement-due-to-user-request)
-- [Casting JSONArray to int Array in Java](https://feeds.feedblitz.com/~/939461315/0/baeldung~Casting-JSONArray-to-int-Array-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
