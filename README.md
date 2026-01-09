@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting the JVM Options for Kafka Tools](https://feeds.feedblitz.com/~/939879863/0/baeldung~Setting-the-JVM-Options-for-Kafka-Tools)
 - [Java Weekly, Issue 628](https://feeds.feedblitz.com/~/939818480/0/baeldung~Java-Weekly-Issue)
 - [Introduction to IoTDB](https://feeds.feedblitz.com/~/939734999/0/baeldung~Introduction-to-IoTDB)
 - [Why Use the Returned Instance of Spring Data JPA Repository’s save&lpar;&rpar; Call?](https://feeds.feedblitz.com/~/939734255/0/baeldung~Why-Use-the-Returned-Instance-of-Spring-Data-JPA-Repositorys-save-Call)
 - [Joining Tables Without Relation Using JPA Criteria](https://feeds.feedblitz.com/~/939734258/0/baeldung~Joining-Tables-Without-Relation-Using-JPA-Criteria)
-- [How to Handle and Fix java.io.NotSerializableException](https://feeds.feedblitz.com/~/939626195/0/baeldung~How-to-Handle-and-Fix-javaioNotSerializableException)
 <!-- BLOG-POST-LIST:END -->
 
 
