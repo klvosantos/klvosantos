@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Print JUnit Assertion Results](https://feeds.feedblitz.com/~/940143272/0/baeldung~How-to-Print-JUnit-Assertion-Results)
 - [Obtain Index of a Given LinkedHashSet Element Without Iteration](https://feeds.feedblitz.com/~/939926444/0/baeldung~Obtain-Index-of-a-Given-LinkedHashSet-Element-Without-Iteration)
 - [Fix the Java-MySQL Connection Exception: Public Key Retrieval is not allowed](https://feeds.feedblitz.com/~/939926447/0/baeldung~Fix-the-JavaMySQL-Connection-Exception-Public-Key-Retrieval-is-not-allowed)
 - [How to Set Content-Length Header in ResponseEntity in Spring MVC](https://feeds.feedblitz.com/~/939925994/0/baeldung~How-to-Set-ContentLength-Header-in-ResponseEntity-in-Spring-MVC)
 - [Setting the JVM Options for Kafka Tools](https://feeds.feedblitz.com/~/939879863/0/baeldung~Setting-the-JVM-Options-for-Kafka-Tools)
-- [Java Weekly, Issue 628](https://feeds.feedblitz.com/~/939818480/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
