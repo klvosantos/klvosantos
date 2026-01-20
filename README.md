@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Payara](https://feeds.feedblitz.com/~/941090681/0/baeldung~Introduction-to-Payara)
+- [Building AI Agents Using Google Agent Development Kit &lpar;ADK&rpar;](https://feeds.feedblitz.com/~/941090684/0/baeldung~Building-AI-Agents-Using-Google-Agent-Development-Kit-ADK)
 - [Getting Started with Open J Proxy &lpar;OJP&rpar;](https://feeds.feedblitz.com/~/940502024/0/baeldung~Getting-Started-with-Open-J-Proxy-OJP)
 - [How to Resolve NaN Values in Micrometer Gauges in Prometheus](https://feeds.feedblitz.com/~/940502027/0/baeldung~How-to-Resolve-NaN-Values-in-Micrometer-Gauges-in-Prometheus)
 - [How to Automate Hidden and Read-Only Inputs with Selenium and JavaScript](https://feeds.feedblitz.com/~/940499240/0/baeldung~How-to-Automate-Hidden-and-ReadOnly-Inputs-with-Selenium-and-JavaScript)
-- [Java Weekly, Issue 629](https://feeds.feedblitz.com/~/940281152/0/baeldung~Java-Weekly-Issue)
-- [How to Print JUnit Assertion Results](https://feeds.feedblitz.com/~/940143272/0/baeldung~How-to-Print-JUnit-Assertion-Results)
 <!-- BLOG-POST-LIST:END -->
 
 
