@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 630](https://feeds.feedblitz.com/~/941359436/0/baeldung~Java-Weekly-Issue)
 - [Mapping to String in Mapstruct](https://feeds.feedblitz.com/~/941355719/0/baeldung~Mapping-to-String-in-Mapstruct)
 - [Rename Existing Field With Elasticsearch Mapping](https://feeds.feedblitz.com/~/941355722/0/baeldung~Rename-Existing-Field-With-Elasticsearch-Mapping)
 - [Introduction to Payara](https://feeds.feedblitz.com/~/941090681/0/baeldung~Introduction-to-Payara)
 - [Building AI Agents Using Google Agent Development Kit &lpar;ADK&rpar;](https://feeds.feedblitz.com/~/941090684/0/baeldung~Building-AI-Agents-Using-Google-Agent-Development-Kit-ADK)
-- [Getting Started with Open J Proxy &lpar;OJP&rpar;](https://feeds.feedblitz.com/~/940502024/0/baeldung~Getting-Started-with-Open-J-Proxy-OJP)
 <!-- BLOG-POST-LIST:END -->
 
 
