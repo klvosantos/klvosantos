@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Compile-Time Templates With Spring](https://feeds.feedblitz.com/~/941819891/0/baeldung~Getting-Started-with-CompileTime-Templates-With-Spring)
+- [Implement the FizzBuzz Puzzle in Java](https://feeds.feedblitz.com/~/941807804/0/baeldung~Implement-the-FizzBuzz-Puzzle-in-Java)
 - [Java Weekly, Issue 630](https://feeds.feedblitz.com/~/941359436/0/baeldung~Java-Weekly-Issue)
 - [Mapping to String in Mapstruct](https://feeds.feedblitz.com/~/941355719/0/baeldung~Mapping-to-String-in-Mapstruct)
 - [Rename Existing Field With Elasticsearch Mapping](https://feeds.feedblitz.com/~/941355722/0/baeldung~Rename-Existing-Field-With-Elasticsearch-Mapping)
-- [Introduction to Payara](https://feeds.feedblitz.com/~/941090681/0/baeldung~Introduction-to-Payara)
-- [Building AI Agents Using Google Agent Development Kit &lpar;ADK&rpar;](https://feeds.feedblitz.com/~/941090684/0/baeldung~Building-AI-Agents-Using-Google-Agent-Development-Kit-ADK)
 <!-- BLOG-POST-LIST:END -->
 
 
