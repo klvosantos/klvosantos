@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Compile-Time Templates With Spring](https://feeds.feedblitz.com/~/941819891/0/baeldung~Getting-Started-with-CompileTime-Templates-With-Spring)
-- [Implement the FizzBuzz Puzzle in Java](https://feeds.feedblitz.com/~/941807804/0/baeldung~Implement-the-FizzBuzz-Puzzle-in-Java)
-- [Java Weekly, Issue 630](https://feeds.feedblitz.com/~/941359436/0/baeldung~Java-Weekly-Issue)
-- [Mapping to String in Mapstruct](https://feeds.feedblitz.com/~/941355719/0/baeldung~Mapping-to-String-in-Mapstruct)
-- [Rename Existing Field With Elasticsearch Mapping](https://feeds.feedblitz.com/~/941355722/0/baeldung~Rename-Existing-Field-With-Elasticsearch-Mapping)
+- [Accessing Files Using Java With Samba JCIFS](https://feeds.feedblitz.com/~/942295823/0/baeldung)
+- [Proxy Authentication in Java](https://feeds.feedblitz.com/~/942289682/0/baeldung)
+- [How to Execute Tests Selectively in TestNG](https://feeds.feedblitz.com/~/942289685/0/baeldung)
+- [Disable Formatting in Eclipse](https://feeds.feedblitz.com/~/942289688/0/baeldung)
+- [Effect of Idempotence on the Performance of a Kafka Producer](https://feeds.feedblitz.com/~/942289691/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
