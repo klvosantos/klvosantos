@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide to MapStruct @IterableMapping](https://feeds.feedblitz.com/~/943101062/0/baeldung)
+- [Overview of MCP Annotations in Spring AI](https://feeds.feedblitz.com/~/943101065/0/baeldung)
+- [How to Send an Email Using MS Exchange Server](https://feeds.feedblitz.com/~/943082909/0/baeldung)
 - [Accessing Files Using Java With Samba JCIFS](https://feeds.feedblitz.com/~/942295823/0/baeldung)
 - [Proxy Authentication in Java](https://feeds.feedblitz.com/~/942289682/0/baeldung)
-- [How to Execute Tests Selectively in TestNG](https://feeds.feedblitz.com/~/942289685/0/baeldung)
-- [Disable Formatting in Eclipse](https://feeds.feedblitz.com/~/942289688/0/baeldung)
-- [Effect of Idempotence on the Performance of a Kafka Producer](https://feeds.feedblitz.com/~/942289691/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
