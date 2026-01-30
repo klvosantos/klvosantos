@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 631](https://feeds.feedblitz.com/~/943572509/0/baeldung)
 - [Templating in Java Using JTE](https://feeds.feedblitz.com/~/943259648/0/baeldung)
 - [Implement Multitenancy in Spring Authorization Server](https://feeds.feedblitz.com/~/943259213/0/baeldung)
 - [Reset Consumer Offset in Kafka](https://feeds.feedblitz.com/~/943258661/0/baeldung)
 - [Guide to MapStruct @IterableMapping](https://feeds.feedblitz.com/~/943101062/0/baeldung)
-- [Overview of MCP Annotations in Spring AI](https://feeds.feedblitz.com/~/943101065/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
