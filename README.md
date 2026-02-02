@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Clear Console Screen in Java](https://feeds.feedblitz.com/~/944071961/0/baeldung~Clear-Console-Screen-in-Java)
-- [Calling an Object’s Method From Thymeleaf](https://feeds.feedblitz.com/~/944071964/0/baeldung~Calling-an-Object%e2%80%99s-Method-From-Thymeleaf)
-- [Java Weekly, Issue 631](https://feeds.feedblitz.com/~/943572509/0/baeldung~Java-Weekly-Issue)
-- [Templating in Java Using JTE](https://feeds.feedblitz.com/~/943259648/0/baeldung~Templating-in-Java-Using-JTE)
-- [Implement Multitenancy in Spring Authorization Server](https://feeds.feedblitz.com/~/943259213/0/baeldung~Implement-Multitenancy-in-Spring-Authorization-Server)
+- [Resolving javac Java Compiler error: package X does not exist at import Statement](https://feeds.feedblitz.com/~/944295023/0/baeldung)
+- [Linear Programming in Java: Solving the Assignment Problem](https://feeds.feedblitz.com/~/944295026/0/baeldung)
+- [Set Datasource When Creating Hibernate SessionFactory in Java](https://feeds.feedblitz.com/~/944295029/0/baeldung)
+- [Why We Should Not Mock Collections With Mockito](https://feeds.feedblitz.com/~/944295032/0/baeldung)
+- [Clear Console Screen in Java](https://feeds.feedblitz.com/~/944071961/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
