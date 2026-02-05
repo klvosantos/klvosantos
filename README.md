@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Resolving javac Java Compiler error: package X does not exist at import Statement](https://feeds.feedblitz.com/~/944295023/0/baeldung)
-- [Linear Programming in Java: Solving the Assignment Problem](https://feeds.feedblitz.com/~/944295026/0/baeldung)
-- [Set Datasource When Creating Hibernate SessionFactory in Java](https://feeds.feedblitz.com/~/944295029/0/baeldung)
-- [Why We Should Not Mock Collections With Mockito](https://feeds.feedblitz.com/~/944295032/0/baeldung)
-- [Clear Console Screen in Java](https://feeds.feedblitz.com/~/944071961/0/baeldung)
+- [Java Weekly, Issue 632](https://feeds.feedblitz.com/~/944979635/0/baeldung~Java-Weekly-Issue)
+- [Resolving javac Java Compiler error: package X does not exist at import Statement](https://feeds.feedblitz.com/~/944295023/0/baeldung~Resolving-javac-Java-Compiler-error-package-X-does-not-exist-at-import-Statement)
+- [Linear Programming in Java: Solving the Assignment Problem](https://feeds.feedblitz.com/~/944295026/0/baeldung~Linear-Programming-in-Java-Solving-the-Assignment-Problem)
+- [Set Datasource When Creating Hibernate SessionFactory in Java](https://feeds.feedblitz.com/~/944295029/0/baeldung~Set-Datasource-When-Creating-Hibernate-SessionFactory-in-Java)
+- [Why We Should Not Mock Collections With Mockito](https://feeds.feedblitz.com/~/944295032/0/baeldung~Why-We-Should-Not-Mock-Collections-With-Mockito)
 <!-- BLOG-POST-LIST:END -->
 
 
