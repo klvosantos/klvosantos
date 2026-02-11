@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resolving Java Exception: cannot be cast to java.lang.Comparable](https://feeds.feedblitz.com/~/945786056/0/baeldung~Resolving-Java-Exception-cannot-be-cast-to-javalangComparable)
+- [MCP Elicitations With Spring AI](https://feeds.feedblitz.com/~/945786059/0/baeldung~MCP-Elicitations-With-Spring-AI)
 - [Using “LIKE” Wildcards in Java PreparedStatements](https://feeds.feedblitz.com/~/945487700/0/baeldung~Using-LIKE-Wildcards-in-Java-PreparedStatements)
 - [Connecting to Postgres from Spring Boot App in Heroku](https://feeds.feedblitz.com/~/945226595/0/baeldung~Connecting-to-Postgres-from-Spring-Boot-App-in-Heroku)
 - [Difference Between keyword and text in Elasticsearch](https://feeds.feedblitz.com/~/945226598/0/baeldung~Difference-Between-keyword-and-text-in-Elasticsearch)
-- [Java Weekly, Issue 632](https://feeds.feedblitz.com/~/944979635/0/baeldung~Java-Weekly-Issue)
-- [Resolving javac Java Compiler error: package X does not exist at import Statement](https://feeds.feedblitz.com/~/944295023/0/baeldung~Resolving-javac-Java-Compiler-error-package-X-does-not-exist-at-import-Statement)
 <!-- BLOG-POST-LIST:END -->
 
 
