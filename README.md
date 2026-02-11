@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Put a Text Without Removing HTML Structures in Thymeleaf](https://feeds.feedblitz.com/~/945962636/0/baeldung~How-to-Put-a-Text-Without-Removing-HTML-Structures-in-Thymeleaf)
+- [Java Code Formatting Using Prettier](https://feeds.feedblitz.com/~/945962639/0/baeldung~Java-Code-Formatting-Using-Prettier)
 - [Resolving Java Exception: cannot be cast to java.lang.Comparable](https://feeds.feedblitz.com/~/945786056/0/baeldung~Resolving-Java-Exception-cannot-be-cast-to-javalangComparable)
 - [MCP Elicitations With Spring AI](https://feeds.feedblitz.com/~/945786059/0/baeldung~MCP-Elicitations-With-Spring-AI)
 - [Using “LIKE” Wildcards in Java PreparedStatements](https://feeds.feedblitz.com/~/945487700/0/baeldung~Using-LIKE-Wildcards-in-Java-PreparedStatements)
-- [Connecting to Postgres from Spring Boot App in Heroku](https://feeds.feedblitz.com/~/945226595/0/baeldung~Connecting-to-Postgres-from-Spring-Boot-App-in-Heroku)
-- [Difference Between keyword and text in Elasticsearch](https://feeds.feedblitz.com/~/945226598/0/baeldung~Difference-Between-keyword-and-text-in-Elasticsearch)
 <!-- BLOG-POST-LIST:END -->
 
 
