@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [subscribe&lpar;&rpar; vs assign&lpar;&rpar; Methods of KafkaConsumer](https://feeds.feedblitz.com/~/946841759/0/baeldung~subscribe-vs-assign-Methods-of-KafkaConsumer)
+- [A Guide to Deep Java Library](https://feeds.feedblitz.com/~/946841762/0/baeldung~A-Guide-to-Deep-Java-Library)
 - [Java Weekly, Issue 633](https://feeds.feedblitz.com/~/946207613/0/baeldung~Java-Weekly-Issue)
 - [How to Put a Text Without Removing HTML Structures in Thymeleaf](https://feeds.feedblitz.com/~/945962636/0/baeldung~How-to-Put-a-Text-Without-Removing-HTML-Structures-in-Thymeleaf)
 - [Java Code Formatting Using Prettier](https://feeds.feedblitz.com/~/945962639/0/baeldung~Java-Code-Formatting-Using-Prettier)
-- [Resolving Java Exception: cannot be cast to java.lang.Comparable](https://feeds.feedblitz.com/~/945786056/0/baeldung~Resolving-Java-Exception-cannot-be-cast-to-javalangComparable)
-- [MCP Elicitations With Spring AI](https://feeds.feedblitz.com/~/945786059/0/baeldung~MCP-Elicitations-With-Spring-AI)
 <!-- BLOG-POST-LIST:END -->
 
 
