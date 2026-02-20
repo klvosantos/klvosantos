@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 634](https://feeds.feedblitz.com/~/948039908/0/baeldung~Java-Weekly-Issue)
 - [Time-Sorted Unique Identifiers with Hypersistence TSID](https://feeds.feedblitz.com/~/947954969/0/baeldung~TimeSorted-Unique-Identifiers-with-Hypersistence-TSID)
 - [Compile-Time Conditions in Java](https://feeds.feedblitz.com/~/947459297/0/baeldung~CompileTime-Conditions-in-Java)
 - [subscribe&lpar;&rpar; vs assign&lpar;&rpar; Methods of KafkaConsumer](https://feeds.feedblitz.com/~/946841759/0/baeldung~subscribe-vs-assign-Methods-of-KafkaConsumer)
 - [A Guide to Deep Java Library](https://feeds.feedblitz.com/~/946841762/0/baeldung~A-Guide-to-Deep-Java-Library)
-- [Java Weekly, Issue 633](https://feeds.feedblitz.com/~/946207613/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
