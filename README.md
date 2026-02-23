@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Get Raw XML From a SOAP Message in Java](https://feeds.feedblitz.com/~/948258509/0/baeldung~How-to-Get-Raw-XML-From-a-SOAP-Message-in-Java)
+- [Set Amount of Spark Executors](https://feeds.feedblitz.com/~/948257843/0/baeldung~Set-Amount-of-Spark-Executors)
+- [JDK 24 Security Enhancements](https://feeds.feedblitz.com/~/948257846/0/baeldung~JDK-Security-Enhancements)
 - [Java Weekly, Issue 634](https://feeds.feedblitz.com/~/948039908/0/baeldung~Java-Weekly-Issue)
 - [Time-Sorted Unique Identifiers with Hypersistence TSID](https://feeds.feedblitz.com/~/947954969/0/baeldung~TimeSorted-Unique-Identifiers-with-Hypersistence-TSID)
-- [Compile-Time Conditions in Java](https://feeds.feedblitz.com/~/947459297/0/baeldung~CompileTime-Conditions-in-Java)
-- [subscribe&lpar;&rpar; vs assign&lpar;&rpar; Methods of KafkaConsumer](https://feeds.feedblitz.com/~/946841759/0/baeldung~subscribe-vs-assign-Methods-of-KafkaConsumer)
-- [A Guide to Deep Java Library](https://feeds.feedblitz.com/~/946841762/0/baeldung~A-Guide-to-Deep-Java-Library)
 <!-- BLOG-POST-LIST:END -->
 
 
