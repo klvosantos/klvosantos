@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Aviso: aulão gratuito quarta-feira 20h - Spring Batch em Ação](https://www.youtube.com/watch?v=0NRUAZavv-c)
+- [O que é avaliado em um processo seletivo para programador? Prof Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=ySYi4sEVw3g)
 - [Cut Next.js Load Times by 85% With this Deployment Method](https://www.youtube.com/shorts/gSsy7ypKqFY)
-- [Generative UI is the future of AI Interactions!!](https://www.youtube.com/watch?v=goxnUKwwf-I)
-- [Forget Everything you Thought you Knew about Deno | Deno 2 0 Crash Course](https://www.youtube.com/watch?v=7Yo3eO-jitQ)
-- [Stop Googling | Start Chopping!!](https://www.youtube.com/watch?v=bvCYpVqkn54)
-- [Top VS Code Updates over the Past Year | Tips &amp; Tricks 2024 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=NBzhtDJFce8)
+- [IA vai substituir programadores? 3 erros sobre essa questão - Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=yVsiiAX2_hw)
+- [Introdução API web com Java e Spring - Prof Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=wRQSzWTpr6A)
 <!-- YOUTUBE:END -->
 
 
