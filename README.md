@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Spring Batch em ação: processamento de grandes lotes de dados](https://www.youtube.com/watch?v=9IglM3vVBxI)
 - [Aviso: aulão gratuito quarta-feira 20h - Spring Batch em Ação](https://www.youtube.com/watch?v=0NRUAZavv-c)
 - [O que é avaliado em um processo seletivo para programador? Prof Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=ySYi4sEVw3g)
 - [Cut Next.js Load Times by 85% With this Deployment Method](https://www.youtube.com/shorts/gSsy7ypKqFY)
 - [IA vai substituir programadores? 3 erros sobre essa questão - Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=yVsiiAX2_hw)
-- [Introdução API web com Java e Spring - Prof Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=wRQSzWTpr6A)
 <!-- YOUTUBE:END -->
 
 
