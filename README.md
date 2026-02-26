@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 635](https://feeds.feedblitz.com/~/948539822/0/baeldung~Java-Weekly-Issue)
 - [Resolving Spring Boot Exception: The Elements Were Left Unbound](https://feeds.feedblitz.com/~/948274556/0/baeldung~Resolving-Spring-Boot-Exception-The-Elements-Were-Left-Unbound)
 - [How to Get Raw XML From a SOAP Message in Java](https://feeds.feedblitz.com/~/948258509/0/baeldung~How-to-Get-Raw-XML-From-a-SOAP-Message-in-Java)
 - [Set Amount of Spark Executors](https://feeds.feedblitz.com/~/948257843/0/baeldung~Set-Amount-of-Spark-Executors)
 - [JDK 24 Security Enhancements](https://feeds.feedblitz.com/~/948257846/0/baeldung~JDK-Security-Enhancements)
-- [Java Weekly, Issue 634](https://feeds.feedblitz.com/~/948039908/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
