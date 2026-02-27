@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Frog River One in Java](https://feeds.feedblitz.com/~/948726338/0/baeldung~Implementing-Frog-River-One-in-Java)
 - [Resolving the “Cannot instantiate the type” Compilation Error](https://feeds.feedblitz.com/~/948687410/0/baeldung~Resolving-the-Cannot-instantiate-the-type-Compilation-Error)
 - [Matching Currency Symbols in Java](https://feeds.feedblitz.com/~/948685649/0/baeldung~Matching-Currency-Symbols-in-Java)
 - [Convert an InputStream to a DataHandler in Java](https://feeds.feedblitz.com/~/948685652/0/baeldung~Convert-an-InputStream-to-a-DataHandler-in-Java)
 - [Java Weekly, Issue 635](https://feeds.feedblitz.com/~/948539822/0/baeldung~Java-Weekly-Issue)
-- [Resolving Spring Boot Exception: The Elements Were Left Unbound](https://feeds.feedblitz.com/~/948274556/0/baeldung~Resolving-Spring-Boot-Exception-The-Elements-Were-Left-Unbound)
 <!-- BLOG-POST-LIST:END -->
 
 
