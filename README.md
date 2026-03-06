@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to JmsClient in Spring Boot](https://feeds.feedblitz.com/~/949623917/0/baeldung~A-Guide-to-JmsClient-in-Spring-Boot)
 - [Add Values to ArrayList Used as Value in HashMap in Java](https://feeds.feedblitz.com/~/949623299/0/baeldung~Add-Values-to-ArrayList-Used-as-Value-in-HashMap-in-Java)
 - [Distributed Job Scheduling Using ElasticJob](https://feeds.feedblitz.com/~/949623302/0/baeldung~Distributed-Job-Scheduling-Using-ElasticJob)
 - [Java Weekly, Issue 636](https://feeds.feedblitz.com/~/949596152/0/baeldung~Java-Weekly-Issue)
 - [A Guide to Spring AI Recursive Advisors](https://feeds.feedblitz.com/~/949471184/0/baeldung~A-Guide-to-Spring-AI-Recursive-Advisors)
-- [Implementing Frog River One in Java](https://feeds.feedblitz.com/~/948726338/0/baeldung~Implementing-Frog-River-One-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
