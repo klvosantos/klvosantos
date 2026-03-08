@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Running Multiple Spring Boot Instances in IntelliJ](https://feeds.feedblitz.com/~/949741805/0/baeldung~Running-Multiple-Spring-Boot-Instances-in-IntelliJ)
 - [Intro to Date-to-Instant and Instant-to-Date Converters](https://feeds.feedblitz.com/~/949683203/0/baeldung~Intro-to-DatetoInstant-and-InstanttoDate-Converters)
 - [Explainable AI Agents: Capture LLM Tool Call Reasoning with Spring AI](https://feeds.feedblitz.com/~/949683206/0/baeldung~Explainable-AI-Agents-Capture-LLM-Tool-Call-Reasoning-with-Spring-AI)
 - [A Guide to JmsClient in Spring Boot](https://feeds.feedblitz.com/~/949623917/0/baeldung~A-Guide-to-JmsClient-in-Spring-Boot)
 - [Add Values to ArrayList Used as Value in HashMap in Java](https://feeds.feedblitz.com/~/949623299/0/baeldung~Add-Values-to-ArrayList-Used-as-Value-in-HashMap-in-Java)
-- [Distributed Job Scheduling Using ElasticJob](https://feeds.feedblitz.com/~/949623302/0/baeldung~Distributed-Job-Scheduling-Using-ElasticJob)
 <!-- BLOG-POST-LIST:END -->
 
 
