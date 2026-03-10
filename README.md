@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 <!-- YOUTUBE:START -->
 - [Desenvolvimento com IA em 2026 - Agentes, testes, MCP e muito mais](https://www.youtube.com/shorts/4t0Na-J-ba8)
 - [ChatGPT, Copilot e Claude: como desenvolvedores estão programando em 2026](https://www.youtube.com/watch?v=m9LJ9GYmp-Q)
-- [Preparando para o Spring: composição de objetos com Java - exercício resolvido](https://www.youtube.com/watch?v=pBdEiFHrnXI)
 - [Aviso: aulão gratuito quarta-feira 20h - Spring Batch em Ação](https://www.youtube.com/watch?v=0NRUAZavv-c)
 - [O que é avaliado em um processo seletivo para programador? Prof Nelio Alves - Devsuperior](https://www.youtube.com/watch?v=ySYi4sEVw3g)
+- [Cut Next.js Load Times by 85% With this Deployment Method](https://www.youtube.com/shorts/gSsy7ypKqFY)
 <!-- YOUTUBE:END -->
 
 
