@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to Token Exchange in Spring Security](https://feeds.feedblitz.com/~/950187464/0/baeldung~A-Guide-to-Token-Exchange-in-Spring-Security)
 - [Java Weekly, Issue 637](https://feeds.feedblitz.com/~/950144063/0/baeldung~Java-Weekly-Issue)
 - [How to Find the Version of a Tomcat Server](https://feeds.feedblitz.com/~/950030378/0/baeldung~How-to-Find-the-Version-of-a-Tomcat-Server)
 - [Solving “Validation failed for query for method” in Spring Data JPA](https://feeds.feedblitz.com/~/949935647/0/baeldung~Solving-Validation-failed-for-query-for-method-in-Spring-Data-JPA)
 - [Running Multiple Spring Boot Instances in IntelliJ](https://feeds.feedblitz.com/~/949741805/0/baeldung~Running-Multiple-Spring-Boot-Instances-in-IntelliJ)
-- [Intro to Date-to-Instant and Instant-to-Date Converters](https://feeds.feedblitz.com/~/949683203/0/baeldung~Intro-to-DatetoInstant-and-InstanttoDate-Converters)
 <!-- BLOG-POST-LIST:END -->
 
 
