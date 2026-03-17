@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Read-Write and Read-Only Transaction Routing With Spring](https://feeds.feedblitz.com/~/950776619/0/baeldung~ReadWrite-and-ReadOnly-Transaction-Routing-With-Spring)
 - [Introduction to HiveMQ MQTT Client](https://feeds.feedblitz.com/~/950486324/0/baeldung~Introduction-to-HiveMQ-MQTT-Client)
 - [Decompiling class, DEX, JAR, and APK Files With jadx](https://feeds.feedblitz.com/~/950486327/0/baeldung~Decompiling-class-DEX-JAR-and-APK-Files-With-jadx)
 - [A Guide to Token Exchange in Spring Security](https://feeds.feedblitz.com/~/950187464/0/baeldung~A-Guide-to-Token-Exchange-in-Spring-Security)
 - [Java Weekly, Issue 637](https://feeds.feedblitz.com/~/950144063/0/baeldung~Java-Weekly-Issue)
-- [How to Find the Version of a Tomcat Server](https://feeds.feedblitz.com/~/950030378/0/baeldung~How-to-Find-the-Version-of-a-Tomcat-Server)
 <!-- BLOG-POST-LIST:END -->
 
 
