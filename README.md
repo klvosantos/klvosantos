@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 638](https://feeds.feedblitz.com/~/951217484/0/baeldung~Java-Weekly-Issue)
 - [Performing Export and Backup of H2 Databases](https://feeds.feedblitz.com/~/951207752/0/baeldung~Performing-Export-and-Backup-of-H-Databases)
 - [Converting Byte Array to Short Array and Vice-Versa in Java](https://feeds.feedblitz.com/~/951207755/0/baeldung~Converting-Byte-Array-to-Short-Array-and-ViceVersa-in-Java)
 - [Introduction to TOON Format in Java](https://feeds.feedblitz.com/~/950982251/0/baeldung~Introduction-to-TOON-Format-in-Java)
 - [Guide to MyBatis-Flex](https://feeds.feedblitz.com/~/950980133/0/baeldung~Guide-to-MyBatisFlex)
-- [Convert Word Document to HTML Programmatically in Java](https://feeds.feedblitz.com/~/950819117/0/baeldung~Convert-Word-Document-to-HTML-Programmatically-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
