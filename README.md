@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Spring Boot OAuth2 OIDC - um Authorization Server mínimo in-memory](https://www.youtube.com/watch?v=-IpNN7-FwqA)
 - [Spring Boot OAuth2 OIDC - um Authorization Server mínimo in-memory](https://www.youtube.com/watch?v=DZ9djXSI41w)
+- [Spring Boot OAuth2 OIDC - um Authorization Server mínimo in-memory](https://www.youtube.com/watch?v=-IpNN7-FwqA)
 - [Use REDIS para reduzir a Latência de APIs REST](https://www.youtube.com/shorts/4_M34KqAp60)
 - [IA vai roubar emprego dos devs? Qualquer leigo consegue entregar software com qualidade?](https://www.youtube.com/watch?v=NELoW8A7nus)
 - [Em qual momento já posso começar a pleitear minha primeira vaga como programador? Prof Nelio Alves](https://www.youtube.com/watch?v=ketzYymzGsU)
