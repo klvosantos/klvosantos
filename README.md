@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 640](https://feeds.feedblitz.com/~/953174849/0/baeldung~Java-Weekly-Issue)
 - [Configure Spring Boot to Redirect 404 to a Single Page Application](https://feeds.feedblitz.com/~/952480355/0/baeldung~Configure-Spring-Boot-to-Redirect-to-a-Single-Page-Application)
 - [Fix Sonar’s “Make Transient or Serializable” Warning in Java](https://feeds.feedblitz.com/~/952480358/0/baeldung~Fix-Sonars-Make-Transient-or-Serializable-Warning-in-Java)
 - [Distributed Transaction Management Using Apache Seata](https://feeds.feedblitz.com/~/951988322/0/baeldung~Distributed-Transaction-Management-Using-Apache-Seata)
 - [Java Weekly, Issue 639](https://feeds.feedblitz.com/~/951970496/0/baeldung~Java-Weekly-Issue)
-- [Testing Model Context Protocol &lpar;MCP&rpar; Tools in Spring AI](https://feeds.feedblitz.com/~/951832256/0/baeldung~Testing-Model-Context-Protocol-MCP-Tools-in-Spring-AI)
 <!-- BLOG-POST-LIST:END -->
 
 
