@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ahead-of-Time Class Loading &amp; Linking](https://feeds.feedblitz.com/~/953194679/0/baeldung~AheadofTime-Class-Loading-Linking)
+- [JSON Deserialization with Multiple Parameters Constructor Using Jackson](https://feeds.feedblitz.com/~/953193365/0/baeldung~JSON-Deserialization-with-Multiple-Parameters-Constructor-Using-Jackson)
+- [JMOD File Format in Java](https://feeds.feedblitz.com/~/953193368/0/baeldung~JMOD-File-Format-in-Java)
 - [Java Weekly, Issue 640](https://feeds.feedblitz.com/~/953174849/0/baeldung~Java-Weekly-Issue)
 - [Configure Spring Boot to Redirect 404 to a Single Page Application](https://feeds.feedblitz.com/~/952480355/0/baeldung~Configure-Spring-Boot-to-Redirect-to-a-Single-Page-Application)
-- [Fix Sonar’s “Make Transient or Serializable” Warning in Java](https://feeds.feedblitz.com/~/952480358/0/baeldung~Fix-Sonars-Make-Transient-or-Serializable-Warning-in-Java)
-- [Distributed Transaction Management Using Apache Seata](https://feeds.feedblitz.com/~/951988322/0/baeldung~Distributed-Transaction-Management-Using-Apache-Seata)
-- [Java Weekly, Issue 639](https://feeds.feedblitz.com/~/951970496/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
