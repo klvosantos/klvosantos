@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flip the Bits of a Number in Java](https://feeds.feedblitz.com/~/953487332/0/baeldung~Flip-the-Bits-of-a-Number-in-Java)
+- [Multi-Factor Authentication in Spring Security 7](https://feeds.feedblitz.com/~/953487335/0/baeldung~MultiFactor-Authentication-in-Spring-Security)
 - [Ahead-of-Time Class Loading &amp; Linking](https://feeds.feedblitz.com/~/953194679/0/baeldung~AheadofTime-Class-Loading-Linking)
 - [JSON Deserialization with Multiple Parameters Constructor Using Jackson](https://feeds.feedblitz.com/~/953193365/0/baeldung~JSON-Deserialization-with-Multiple-Parameters-Constructor-Using-Jackson)
 - [JMOD File Format in Java](https://feeds.feedblitz.com/~/953193368/0/baeldung~JMOD-File-Format-in-Java)
-- [Java Weekly, Issue 640](https://feeds.feedblitz.com/~/953174849/0/baeldung~Java-Weekly-Issue)
-- [Configure Spring Boot to Redirect 404 to a Single Page Application](https://feeds.feedblitz.com/~/952480355/0/baeldung~Configure-Spring-Boot-to-Redirect-to-a-Single-Page-Application)
 <!-- BLOG-POST-LIST:END -->
 
 
