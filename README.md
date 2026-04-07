@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Cut Next.js Load Times by 85% With this Deployment Method](https://www.youtube.com/shorts/gSsy7ypKqFY)
-- [Generative UI is the future of AI Interactions!!](https://www.youtube.com/watch?v=goxnUKwwf-I)
-- [Forget Everything you Thought you Knew about Deno | Deno 2 0 Crash Course](https://www.youtube.com/watch?v=7Yo3eO-jitQ)
-- [Stop Googling | Start Chopping!!](https://www.youtube.com/watch?v=bvCYpVqkn54)
-- [Top VS Code Updates over the Past Year | Tips &amp; Tricks 2024 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=NBzhtDJFce8)
+- [Spring Boot OAuth2 OIDC - um Authorization Server mínimo in-memory](https://www.youtube.com/watch?v=-IpNN7-FwqA)
+- [Use REDIS para reduzir a Latência de APIs REST](https://www.youtube.com/shorts/4_M34KqAp60)
+- [IA vai roubar emprego dos devs? Qualquer leigo consegue entregar software com qualidade?](https://www.youtube.com/watch?v=NELoW8A7nus)
+- [Em qual momento já posso começar a pleitear minha primeira vaga como programador? Prof Nelio Alves](https://www.youtube.com/watch?v=ketzYymzGsU)
+- [Desenvolvimento com IA em 2026 - Agentes, testes, MCP e muito mais](https://www.youtube.com/shorts/4t0Na-J-ba8)
 <!-- YOUTUBE:END -->
 
 
