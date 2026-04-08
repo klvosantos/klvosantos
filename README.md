@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Deploy de aplicações na AWS com ECS Fargate](https://www.youtube.com/watch?v=iddvMI_Fe_I)
 - [Deploy de aplicações na AWS com ECS Fargate - principais recursos e dicas - Devsuperior](https://www.youtube.com/watch?v=fA8Qy5OVWw8)
 - [Spring Boot OAuth2 OIDC - um Authorization Server mínimo in-memory](https://www.youtube.com/watch?v=-IpNN7-FwqA)
 - [Use REDIS para reduzir a Latência de APIs REST](https://www.youtube.com/shorts/4_M34KqAp60)
 - [IA vai roubar emprego dos devs? Qualquer leigo consegue entregar software com qualidade?](https://www.youtube.com/watch?v=NELoW8A7nus)
-- [Em qual momento já posso começar a pleitear minha primeira vaga como programador? Prof Nelio Alves](https://www.youtube.com/watch?v=ketzYymzGsU)
 <!-- YOUTUBE:END -->
 
 
