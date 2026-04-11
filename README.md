@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fast Gaussian Blur Implementation in Java](https://feeds.feedblitz.com/~/953643002/0/baeldung~Fast-Gaussian-Blur-Implementation-in-Java)
 - [Java Weekly, Issue 641](https://feeds.feedblitz.com/~/953606012/0/baeldung~Java-Weekly-Issue)
 - [Handle “No Suitable HttpMessageConverter” in Spring RestTemplate](https://feeds.feedblitz.com/~/953488283/0/baeldung~Handle-No-Suitable-HttpMessageConverter-in-Spring-RestTemplate)
 - [Flip the Bits of a Number in Java](https://feeds.feedblitz.com/~/953487332/0/baeldung~Flip-the-Bits-of-a-Number-in-Java)
 - [Multi-Factor Authentication in Spring Security 7](https://feeds.feedblitz.com/~/953487335/0/baeldung~MultiFactor-Authentication-in-Spring-Security)
-- [Ahead-of-Time Class Loading &amp; Linking](https://feeds.feedblitz.com/~/953194679/0/baeldung~AheadofTime-Class-Loading-Linking)
 <!-- BLOG-POST-LIST:END -->
 
 
