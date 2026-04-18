@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [cjs mcp fase1 04 vertical](https://www.youtube.com/watch?v=0Ynzp9qjiYs)
+- [Mensageria - desacoplando sistemas: ponto a ponto com AWS SQS](https://www.youtube.com/watch?v=0Ynzp9qjiYs)
 - [Deploy de aplicações na AWS com ECS Fargate - principais recursos e dicas - Devsuperior](https://www.youtube.com/watch?v=fA8Qy5OVWw8)
 - [Spring Boot OAuth2 OIDC - um Authorization Server mínimo in-memory](https://www.youtube.com/watch?v=-IpNN7-FwqA)
 - [Use REDIS para reduzir a Latência de APIs REST](https://www.youtube.com/shorts/4_M34KqAp60)
