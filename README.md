@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Importing p7b File to Java Keystore Using Keytool in Java](https://feeds.feedblitz.com/~/954213383/0/baeldung~Importing-pb-File-to-Java-Keystore-Using-Keytool-in-Java)
 - [Introduction to Spring Data AOT Repositories](https://feeds.feedblitz.com/~/954210833/0/baeldung~Introduction-to-Spring-Data-AOT-Repositories)
 - [Convert IPv4 to IPv6 Address in Java](https://feeds.feedblitz.com/~/954210836/0/baeldung~Convert-IPv-to-IPv-Address-in-Java)
 - [Java Weekly, Issue 642](https://feeds.feedblitz.com/~/953941595/0/baeldung~Java-Weekly-Issue)
 - [Resolving PatternSyntaxException: Unclosed character class](https://feeds.feedblitz.com/~/953868626/0/baeldung~Resolving-PatternSyntaxException-Unclosed-character-class)
-- [Getting a Cron Expression From Database for a Spring Boot Scheduled Job](https://feeds.feedblitz.com/~/953867825/0/baeldung~Getting-a-Cron-Expression-From-Database-for-a-Spring-Boot-Scheduled-Job)
 <!-- BLOG-POST-LIST:END -->
 
 
