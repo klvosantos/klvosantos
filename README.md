@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to @NamedEntityGraph in Hibernate](https://feeds.feedblitz.com/~/954520139/0/baeldung~A-Guide-to-NamedEntityGraph-in-Hibernate)
 - [Java Weekly, Issue 643](https://feeds.feedblitz.com/~/954364250/0/baeldung~Java-Weekly-Issue)
 - [Importing p7b File to Java Keystore Using Keytool in Java](https://feeds.feedblitz.com/~/954213383/0/baeldung~Importing-pb-File-to-Java-Keystore-Using-Keytool-in-Java)
 - [Introduction to Spring Data AOT Repositories](https://feeds.feedblitz.com/~/954210833/0/baeldung~Introduction-to-Spring-Data-AOT-Repositories)
 - [Convert IPv4 to IPv6 Address in Java](https://feeds.feedblitz.com/~/954210836/0/baeldung~Convert-IPv-to-IPv-Address-in-Java)
-- [Java Weekly, Issue 642](https://feeds.feedblitz.com/~/953941595/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
