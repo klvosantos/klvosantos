@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Maps Series](https://feeds.feedblitz.com/~/954859364/0/baeldung~Java-Maps-Series)
+- [Java List Series](https://feeds.feedblitz.com/~/954857483/0/baeldung~Java-List-Series)
 - [Store Java Objects in HttpSession](https://feeds.feedblitz.com/~/954837605/0/baeldung~Store-Java-Objects-in-HttpSession)
 - [Algorithms in Java Series](https://feeds.feedblitz.com/~/954821783/0/baeldung~Algorithms-in-Java-Series)
 - [Spring AI Series](https://feeds.feedblitz.com/~/954792065/0/baeldung~Spring-AI-Series)
-- [AI in Java Series](https://feeds.feedblitz.com/~/954788495/0/baeldung~AI-in-Java-Series)
-- [A Guide to @NamedEntityGraph in Hibernate](https://feeds.feedblitz.com/~/954520139/0/baeldung~A-Guide-to-NamedEntityGraph-in-Hibernate)
 <!-- BLOG-POST-LIST:END -->
 
 
