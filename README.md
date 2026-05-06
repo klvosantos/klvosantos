@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to Camel Observability Services](https://feeds.feedblitz.com/~/955428392/0/baeldung~A-Guide-to-Camel-Observability-Services)
 - [Parallel Testing With Gradle and JUnit 5](https://feeds.feedblitz.com/~/955344461/0/baeldung~Parallel-Testing-With-Gradle-and-JUnit)
 - [JDBC Series](https://feeds.feedblitz.com/~/955198892/0/baeldung~JDBC-Series)
 - [Java Weekly, Issue 644](https://feeds.feedblitz.com/~/954947657/0/baeldung~Java-Weekly-Issue)
 - [IntelliJ Series](https://feeds.feedblitz.com/~/954893270/0/baeldung~IntelliJ-Series)
-- [Jakarta EE Series](https://feeds.feedblitz.com/~/954893273/0/baeldung~Jakarta-EE-Series)
 <!-- BLOG-POST-LIST:END -->
 
 
