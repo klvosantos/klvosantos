@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert Between ByteBuffer and Byte Array in Java](https://feeds.feedblitz.com/~/955773617/0/baeldung~Convert-Between-ByteBuffer-and-Byte-Array-in-Java)
 - [How to Create Shortcut Snippets in Visual Studio Code?](https://feeds.feedblitz.com/~/955768184/0/baeldung~How-to-Create-Shortcut-Snippets-in-Visual-Studio-Code)
 - [Synchronize Virtual Thread Without Pinning](https://feeds.feedblitz.com/~/955767131/0/baeldung~Synchronize-Virtual-Thread-Without-Pinning)
 - [Key Derivation Function API in Java 25](https://feeds.feedblitz.com/~/955766681/0/baeldung~Key-Derivation-Function-API-in-Java)
 - [Anthropic Agent Skills Support in Spring AI](https://feeds.feedblitz.com/~/955766684/0/baeldung~Anthropic-Agent-Skills-Support-in-Spring-AI)
-- [Java Weekly, Issue 645](https://feeds.feedblitz.com/~/955547105/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
