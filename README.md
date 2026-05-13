@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Claude Code, Codex, and Gemini in ONE app](https://www.youtube.com/watch?v=sZDjE-9esEg)
 - [Mensageria com padrão Publisher Subscriber com Java e Spring](https://www.youtube.com/shorts/uKpFl5Ws448)
 - [OAuth2 e OIDC profissional com Java e Spring: primeiros passos](https://www.youtube.com/watch?v=u-YK9Azcd0o)
 - [Mensageria - desacoplando sistemas: ponto a ponto com AWS SQS](https://www.youtube.com/watch?v=0Ynzp9qjiYs)
 - [Deploy de aplicações na AWS com ECS Fargate - principais recursos e dicas - Devsuperior](https://www.youtube.com/watch?v=fA8Qy5OVWw8)
-- [Spring Boot OAuth2 OIDC - um Authorization Server mínimo in-memory](https://www.youtube.com/watch?v=-IpNN7-FwqA)
 <!-- YOUTUBE:END -->
 
 
