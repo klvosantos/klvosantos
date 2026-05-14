@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Claude Code, Codex, and Gemini in ONE app](https://www.youtube.com/watch?v=sZDjE-9esEg)
+- [I stopped using terminal tabs.](https://www.youtube.com/watch?v=sZDjE-9esEg)
 - [Mensageria com padrão Publisher Subscriber com Java e Spring](https://www.youtube.com/shorts/uKpFl5Ws448)
 - [OAuth2 e OIDC profissional com Java e Spring: primeiros passos](https://www.youtube.com/watch?v=u-YK9Azcd0o)
 - [Mensageria - desacoplando sistemas: ponto a ponto com AWS SQS](https://www.youtube.com/watch?v=0Ynzp9qjiYs)
