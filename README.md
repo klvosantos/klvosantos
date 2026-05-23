@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 
 <!-- YOUTUBE:START -->
 - [I stopped using terminal tabs.](https://www.youtube.com/watch?v=sZDjE-9esEg)
-- [Mensageria com padrão Publisher Subscriber com Java e Spring](https://www.youtube.com/shorts/uKpFl5Ws448)
-- [OAuth2 e OIDC profissional com Java e Spring: primeiros passos](https://www.youtube.com/watch?v=u-YK9Azcd0o)
-- [Mensageria - desacoplando sistemas: ponto a ponto com AWS SQS](https://www.youtube.com/watch?v=0Ynzp9qjiYs)
-- [Deploy de aplicações na AWS com ECS Fargate - principais recursos e dicas - Devsuperior](https://www.youtube.com/watch?v=fA8Qy5OVWw8)
+- [Cut Next.js Load Times by 85% With this Deployment Method](https://www.youtube.com/shorts/gSsy7ypKqFY)
+- [Generative UI is the future of AI Interactions!!](https://www.youtube.com/watch?v=goxnUKwwf-I)
+- [Forget Everything you Thought you Knew about Deno | Deno 2 0 Crash Course](https://www.youtube.com/watch?v=7Yo3eO-jitQ)
+- [Stop Googling | Start Chopping!!](https://www.youtube.com/watch?v=bvCYpVqkn54)
 <!-- YOUTUBE:END -->
 
 
