@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantum-Resistant ML-KEM and ML-DSA in Java](https://feeds.feedblitz.com/~/957346181/0/baeldung~QuantumResistant-MLKEM-and-MLDSA-in-Java)
 - [Getting HTTP Basic Authentication from HttpServletRequest](https://feeds.feedblitz.com/~/957111833/0/baeldung~Getting-HTTP-Basic-Authentication-from-HttpServletRequest)
 - [Java Weekly, Issue 647](https://feeds.feedblitz.com/~/956980241/0/baeldung~Java-Weekly-Issue)
 - [Java Weekly, Issue 646](https://feeds.feedblitz.com/~/956081237/0/baeldung~Java-Weekly-Issue)
 - [Introduction to WebDriverManager](https://feeds.feedblitz.com/~/956008835/0/baeldung~Introduction-to-WebDriverManager)
-- [Query Records Between Two Dates With Hibernate](https://feeds.feedblitz.com/~/955832234/0/baeldung~Query-Records-Between-Two-Dates-With-Hibernate)
 <!-- BLOG-POST-LIST:END -->
 
 
