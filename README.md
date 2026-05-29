@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Weekly, Issue 648](https://feeds.feedblitz.com/~/957490352/0/baeldung~Java-Weekly-Issue)
+- [Java Weekly, Issue 648](https://feeds.feedblitz.com/~/957491033/0/baeldung~Java-Weekly-Issue)
 - [How to Fix the Communications link failure Error in Java Applications With MySQL](https://feeds.feedblitz.com/~/957397595/0/baeldung~How-to-Fix-the-Communications-link-failure-Error-in-Java-Applications-With-MySQL)
 - [Quantum-Resistant ML-KEM and ML-DSA in Java](https://feeds.feedblitz.com/~/957346181/0/baeldung~QuantumResistant-MLKEM-and-MLDSA-in-Java)
 - [Getting HTTP Basic Authentication from HttpServletRequest](https://feeds.feedblitz.com/~/957111833/0/baeldung~Getting-HTTP-Basic-Authentication-from-HttpServletRequest)
