@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Mensageria e DLQ: Retentativas e Redrive](https://www.youtube.com/watch?v=llE_jUlparw)
 - [I stopped using terminal tabs.](https://www.youtube.com/watch?v=sZDjE-9esEg)
-- [Cut Next.js Load Times by 85% With this Deployment Method](https://www.youtube.com/shorts/gSsy7ypKqFY)
-- [Generative UI is the future of AI Interactions!!](https://www.youtube.com/watch?v=goxnUKwwf-I)
-- [Forget Everything you Thought you Knew about Deno | Deno 2 0 Crash Course](https://www.youtube.com/watch?v=7Yo3eO-jitQ)
-- [Stop Googling | Start Chopping!!](https://www.youtube.com/watch?v=bvCYpVqkn54)
+- [Mensageria com padrão Publisher Subscriber com Java e Spring](https://www.youtube.com/shorts/uKpFl5Ws448)
+- [OAuth2 e OIDC profissional com Java e Spring: primeiros passos](https://www.youtube.com/watch?v=u-YK9Azcd0o)
+- [Mensageria - desacoplando sistemas: ponto a ponto com AWS SQS](https://www.youtube.com/watch?v=0Ynzp9qjiYs)
 <!-- YOUTUBE:END -->
 
 
