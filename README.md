@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Solve the Sock Merchant Problem in Java](https://feeds.feedblitz.com/~/957603419/0/baeldung~How-to-Solve-the-Sock-Merchant-Problem-in-Java)
 - [Waiting for Complex Page With JavaScript to Load in Selenium WebDriver](https://feeds.feedblitz.com/~/957590264/0/baeldung~Waiting-for-Complex-Page-With-JavaScript-to-Load-in-Selenium-WebDriver)
 - [Guide to Subagent Orchestration in Spring AI](https://feeds.feedblitz.com/~/957590267/0/baeldung~Guide-to-Subagent-Orchestration-in-Spring-AI)
 - [Embedding HTML UIs in MCP Servers With Spring AI](https://feeds.feedblitz.com/~/957590270/0/baeldung~Embedding-HTML-UIs-in-MCP-Servers-With-Spring-AI)
 - [Java Weekly, Issue 648](https://feeds.feedblitz.com/~/957491033/0/baeldung~Java-Weekly-Issue)
-- [How to Fix the Communications link failure Error in Java Applications With MySQL](https://feeds.feedblitz.com/~/957397595/0/baeldung~How-to-Fix-the-Communications-link-failure-Error-in-Java-Applications-With-MySQL)
 <!-- BLOG-POST-LIST:END -->
 
 
