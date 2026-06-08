@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Weekly, Issue 649](https://feeds.feedblitz.com/~/957780032/0/baeldung~Java-Weekly-Issue)
-- [Introduction to Alibaba Nacos](https://feeds.feedblitz.com/~/957626876/0/baeldung~Introduction-to-Alibaba-Nacos)
-- [How to Solve the Sock Merchant Problem in Java](https://feeds.feedblitz.com/~/957603419/0/baeldung~How-to-Solve-the-Sock-Merchant-Problem-in-Java)
-- [Waiting for Complex Page With JavaScript to Load in Selenium WebDriver](https://feeds.feedblitz.com/~/957590264/0/baeldung~Waiting-for-Complex-Page-With-JavaScript-to-Load-in-Selenium-WebDriver)
-- [Guide to Subagent Orchestration in Spring AI](https://feeds.feedblitz.com/~/957590267/0/baeldung~Guide-to-Subagent-Orchestration-in-Spring-AI)
+- [Introduction to Cross-Platform Java Development With Codename One](https://feeds.feedblitz.com/~/957869417/0/baeldung)
+- [Java Weekly, Issue 649](https://feeds.feedblitz.com/~/957780032/0/baeldung)
+- [Introduction to Alibaba Nacos](https://feeds.feedblitz.com/~/957626876/0/baeldung)
+- [How to Solve the Sock Merchant Problem in Java](https://feeds.feedblitz.com/~/957603419/0/baeldung)
+- [Waiting for Complex Page With JavaScript to Load in Selenium WebDriver](https://feeds.feedblitz.com/~/957590264/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
