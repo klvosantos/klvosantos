@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 651](https://feeds.feedblitz.com/~/958199051/0/baeldung)
+- [Markdown Rendering Using commonmark-java](https://feeds.feedblitz.com/~/958199054/0/baeldung)
 - [Java Weekly, Issue 650](https://feeds.feedblitz.com/~/957980303/0/baeldung)
 - [Introduction to Cross-Platform Java Development With Codename One](https://feeds.feedblitz.com/~/957869417/0/baeldung)
 - [Java Weekly, Issue 649](https://feeds.feedblitz.com/~/957780032/0/baeldung)
-- [Introduction to Alibaba Nacos](https://feeds.feedblitz.com/~/957626876/0/baeldung)
-- [How to Solve the Sock Merchant Problem in Java](https://feeds.feedblitz.com/~/957603419/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
