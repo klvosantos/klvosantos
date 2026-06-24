@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Agent Skills in Spring AI](https://feeds.feedblitz.com/~/958357451/0/baeldung)
+- [A Guide to Agent Skills in Spring AI](https://feeds.feedblitz.com/~/958380014/0/baeldung)
 - [Dynamic Authorization Scopes in Spring Authorization Server](https://feeds.feedblitz.com/~/958357049/0/baeldung)
 - [Java Weekly, Issue 651](https://feeds.feedblitz.com/~/958199051/0/baeldung)
 - [Markdown Rendering Using commonmark-java](https://feeds.feedblitz.com/~/958199054/0/baeldung)
