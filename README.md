@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 652](https://feeds.feedblitz.com/~/958459364/0/baeldung)
 - [A Guide to Agent Skills in Spring AI](https://feeds.feedblitz.com/~/958380014/0/baeldung)
 - [Dynamic Authorization Scopes in Spring Authorization Server](https://feeds.feedblitz.com/~/958357049/0/baeldung)
 - [Java Weekly, Issue 651](https://feeds.feedblitz.com/~/958199051/0/baeldung)
 - [Markdown Rendering Using commonmark-java](https://feeds.feedblitz.com/~/958199054/0/baeldung)
-- [Java Weekly, Issue 650](https://feeds.feedblitz.com/~/957980303/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
