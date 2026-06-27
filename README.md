@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Weekly, Issue 652](https://feeds.feedblitz.com/~/958459364/0/baeldung)
-- [A Guide to Agent Skills in Spring AI](https://feeds.feedblitz.com/~/958380014/0/baeldung)
-- [Dynamic Authorization Scopes in Spring Authorization Server](https://feeds.feedblitz.com/~/958357049/0/baeldung)
-- [Java Weekly, Issue 651](https://feeds.feedblitz.com/~/958199051/0/baeldung)
-- [Markdown Rendering Using commonmark-java](https://feeds.feedblitz.com/~/958199054/0/baeldung)
+- [Understanding and Avoiding CommitFailedException in Kafka](https://feeds.feedblitz.com/~/958534139/0/baeldung)
+- [Regular Expression Support in HQL](https://feeds.feedblitz.com/~/958534142/0/baeldung)
+- [Bean Background Initialization in Spring Framework](https://feeds.feedblitz.com/~/958532825/0/baeldung)
+- [Authorization using jCasbin](https://feeds.feedblitz.com/~/958532828/0/baeldung)
+- [Guide to @EmbeddedTable in Hibernate](https://feeds.feedblitz.com/~/958532831/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
