@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring AI’s Dynamic Tool Discovery](https://feeds.feedblitz.com/~/958677014/0/baeldung)
+- [New Features in Java 26](https://feeds.feedblitz.com/~/958677017/0/baeldung)
+- [A Guide to Apache Paimon Java API](https://feeds.feedblitz.com/~/958675751/0/baeldung)
 - [Understanding and Avoiding CommitFailedException in Kafka](https://feeds.feedblitz.com/~/958534139/0/baeldung)
 - [Regular Expression Support in HQL](https://feeds.feedblitz.com/~/958534142/0/baeldung)
-- [Bean Background Initialization in Spring Framework](https://feeds.feedblitz.com/~/958532825/0/baeldung)
-- [Authorization using jCasbin](https://feeds.feedblitz.com/~/958532828/0/baeldung)
-- [Guide to @EmbeddedTable in Hibernate](https://feeds.feedblitz.com/~/958532831/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
