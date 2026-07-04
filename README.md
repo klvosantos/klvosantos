@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Weekly, Issue 653](https://feeds.feedblitz.com/~/958918577/0/baeldung)
-- [Spring AI’s Dynamic Tool Discovery](https://feeds.feedblitz.com/~/958677014/0/baeldung)
-- [New Features in Java 26](https://feeds.feedblitz.com/~/958677017/0/baeldung)
-- [A Guide to Apache Paimon Java API](https://feeds.feedblitz.com/~/958675751/0/baeldung)
-- [Understanding and Avoiding CommitFailedException in Kafka](https://feeds.feedblitz.com/~/958534139/0/baeldung)
+- [Building up a SQL Query String in Java](https://feeds.feedblitz.com/~/959091590/0/baeldung~Building-up-a-SQL-Query-String-in-Java)
+- [Building LLM-as-a-Judge Using Recursive Advisors in Spring AI](https://feeds.feedblitz.com/~/959091593/0/baeldung~Building-LLMasaJudge-Using-Recursive-Advisors-in-Spring-AI)
+- [Java Weekly, Issue 653](https://feeds.feedblitz.com/~/958918577/0/baeldung~Java-Weekly-Issue)
+- [Spring AI’s Dynamic Tool Discovery](https://feeds.feedblitz.com/~/958677014/0/baeldung~Spring-AIs-Dynamic-Tool-Discovery)
+- [New Features in Java 26](https://feeds.feedblitz.com/~/958677017/0/baeldung~New-Features-in-Java)
 <!-- BLOG-POST-LIST:END -->
 
 
