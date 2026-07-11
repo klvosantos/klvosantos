@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing Spring MVC HandlerInterceptor](https://feeds.feedblitz.com/~/960129299/0/baeldung~Testing-Spring-MVC-HandlerInterceptor)
 - [Java Weekly, Issue 654](https://feeds.feedblitz.com/~/960038423/0/baeldung~Java-Weekly-Issue)
 - [Building up a SQL Query String in Java](https://feeds.feedblitz.com/~/959091590/0/baeldung~Building-up-a-SQL-Query-String-in-Java)
 - [Building LLM-as-a-Judge Using Recursive Advisors in Spring AI](https://feeds.feedblitz.com/~/959091593/0/baeldung~Building-LLMasaJudge-Using-Recursive-Advisors-in-Spring-AI)
 - [Java Weekly, Issue 653](https://feeds.feedblitz.com/~/958918577/0/baeldung~Java-Weekly-Issue)
-- [Spring AI’s Dynamic Tool Discovery](https://feeds.feedblitz.com/~/958677014/0/baeldung~Spring-AIs-Dynamic-Tool-Discovery)
 <!-- BLOG-POST-LIST:END -->
 
 
