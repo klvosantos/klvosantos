@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Does a Java Program Get Its Own Process ID](https://feeds.feedblitz.com/~/960370808/0/baeldung)
 - [How to Get The RequestBody and ResponseBody in HandlerInterceptor](https://feeds.feedblitz.com/~/960269651/0/baeldung)
 - [LLM Tool Call Reasoning Using Embabel Agentic AI Framework](https://feeds.feedblitz.com/~/960158825/0/baeldung)
 - [Testing Spring MVC HandlerInterceptor](https://feeds.feedblitz.com/~/960129299/0/baeldung)
 - [Java Weekly, Issue 654](https://feeds.feedblitz.com/~/960038423/0/baeldung)
-- [Building up a SQL Query String in Java](https://feeds.feedblitz.com/~/959091590/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
