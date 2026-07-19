@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 655](https://feeds.feedblitz.com/~/960937190/0/baeldung~Java-Weekly-Issue)
 - [Solving org.hibernate.AnnotationException: Illegal Attempt to Map a Non Collection](https://feeds.feedblitz.com/~/960891746/0/baeldung~Solving-orghibernateAnnotationException-Illegal-Attempt-to-Map-a-Non-Collection)
 - [How Does a Java Program Get Its Own Process ID](https://feeds.feedblitz.com/~/960370808/0/baeldung~How-Does-a-Java-Program-Get-Its-Own-Process-ID)
 - [How to Get The RequestBody and ResponseBody in HandlerInterceptor](https://feeds.feedblitz.com/~/960269651/0/baeldung~How-to-Get-The-RequestBody-and-ResponseBody-in-HandlerInterceptor)
 - [LLM Tool Call Reasoning Using Embabel Agentic AI Framework](https://feeds.feedblitz.com/~/960158825/0/baeldung~LLM-Tool-Call-Reasoning-Using-Embabel-Agentic-AI-Framework)
-- [Testing Spring MVC HandlerInterceptor](https://feeds.feedblitz.com/~/960129299/0/baeldung~Testing-Spring-MVC-HandlerInterceptor)
 <!-- BLOG-POST-LIST:END -->
 
 
