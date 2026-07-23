@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Generating Diagrams From Java Code](https://feeds.feedblitz.com/~/962183936/0/baeldung~Generating-Diagrams-From-Java-Code)
 - [Integrating Local LLMs with Spring AI Using LM Studio](https://feeds.feedblitz.com/~/961624313/0/baeldung~Integrating-Local-LLMs-with-Spring-AI-Using-LM-Studio)
 - [How to Fix MySQL java.sql.SQLException: Incorrect string value](https://feeds.feedblitz.com/~/961624316/0/baeldung~How-to-Fix-MySQL-javasqlSQLException-Incorrect-string-value)
 - [Selenium Webdriver submit&lpar;&rpar; vs click&lpar;&rpar;](https://feeds.feedblitz.com/~/961067897/0/baeldung~Selenium-Webdriver-submit-vs-click)
 - [Java Weekly, Issue 655](https://feeds.feedblitz.com/~/960937190/0/baeldung~Java-Weekly-Issue)
-- [Solving org.hibernate.AnnotationException: Illegal Attempt to Map a Non Collection](https://feeds.feedblitz.com/~/960891746/0/baeldung~Solving-orghibernateAnnotationException-Illegal-Attempt-to-Map-a-Non-Collection)
 <!-- BLOG-POST-LIST:END -->
 
 
