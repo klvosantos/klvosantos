@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Weekly, Issue 656](https://feeds.feedblitz.com/~/963067178/0/baeldung~Java-Weekly-Issue)
-- [Generating Diagrams From Java Code](https://feeds.feedblitz.com/~/962183936/0/baeldung~Generating-Diagrams-From-Java-Code)
-- [Integrating Local LLMs with Spring AI Using LM Studio](https://feeds.feedblitz.com/~/961624313/0/baeldung~Integrating-Local-LLMs-with-Spring-AI-Using-LM-Studio)
-- [How to Fix MySQL java.sql.SQLException: Incorrect string value](https://feeds.feedblitz.com/~/961624316/0/baeldung~How-to-Fix-MySQL-javasqlSQLException-Incorrect-string-value)
-- [Selenium Webdriver submit&lpar;&rpar; vs click&lpar;&rpar;](https://feeds.feedblitz.com/~/961067897/0/baeldung~Selenium-Webdriver-submit-vs-click)
+- [Application Startup Tracking in Spring](https://feeds.feedblitz.com/~/963082187/0/baeldung)
+- [Introduction to Apache Causeway](https://feeds.feedblitz.com/~/963082190/0/baeldung)
+- [Java Weekly, Issue 656](https://feeds.feedblitz.com/~/963067178/0/baeldung)
+- [Generating Diagrams From Java Code](https://feeds.feedblitz.com/~/962183936/0/baeldung)
+- [Integrating Local LLMs with Spring AI Using LM Studio](https://feeds.feedblitz.com/~/961624313/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
