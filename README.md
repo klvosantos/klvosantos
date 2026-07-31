@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Application Startup Tracking in Spring](https://feeds.feedblitz.com/~/963082187/0/baeldung)
-- [Introduction to Apache Causeway](https://feeds.feedblitz.com/~/963082190/0/baeldung)
-- [Java Weekly, Issue 656](https://feeds.feedblitz.com/~/963067178/0/baeldung)
-- [Generating Diagrams From Java Code](https://feeds.feedblitz.com/~/962183936/0/baeldung)
-- [Integrating Local LLMs with Spring AI Using LM Studio](https://feeds.feedblitz.com/~/961624313/0/baeldung)
+- [Building Intelligent Document Processing with Apache Camel, Docling and LangChain4j](https://feeds.feedblitz.com/~/964749371/0/baeldung)
+- [CTE Support in Hibernate](https://feeds.feedblitz.com/~/964749374/0/baeldung)
+- [LLM Integration With Apache Camel OpenAI Component](https://feeds.feedblitz.com/~/964742375/0/baeldung)
+- [A Guide to Ahead-of-Time Cache in the Java](https://feeds.feedblitz.com/~/964742378/0/baeldung)
+- [A Guide to Short-Term Memory Sessions in Spring AI](https://feeds.feedblitz.com/~/964742381/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
