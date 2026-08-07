@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Google GenAI Chat and Spring AI](https://feeds.feedblitz.com/~/967131092/0/baeldung)
+- [Spring AI AutoMemoryTools](https://feeds.feedblitz.com/~/967131095/0/baeldung)
+- [Exploring Agent2Agent Protocol &lpar;A2A&rpar; With Spring AI](https://feeds.feedblitz.com/~/967127630/0/baeldung)
 - [Java Weekly, Issue 657](https://feeds.feedblitz.com/~/965486156/0/baeldung)
 - [Check if Spark Dataframe Is Empty](https://feeds.feedblitz.com/~/965089607/0/baeldung)
-- [Building Intelligent Document Processing with Apache Camel, Docling and LangChain4j](https://feeds.feedblitz.com/~/964749371/0/baeldung)
-- [CTE Support in Hibernate](https://feeds.feedblitz.com/~/964749374/0/baeldung)
-- [LLM Integration With Apache Camel OpenAI Component](https://feeds.feedblitz.com/~/964742375/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
