@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 659](https://feeds.feedblitz.com/~/967864352/0/baeldung)
 - [Java Weekly, Issue 658](https://feeds.feedblitz.com/~/967388204/0/baeldung)
 - [Introduction to Google GenAI Chat and Spring AI](https://feeds.feedblitz.com/~/967131092/0/baeldung)
 - [Spring AI AutoMemoryTools](https://feeds.feedblitz.com/~/967131095/0/baeldung)
 - [Exploring Agent2Agent Protocol &lpar;A2A&rpar; With Spring AI](https://feeds.feedblitz.com/~/967127630/0/baeldung)
-- [Java Weekly, Issue 657](https://feeds.feedblitz.com/~/965486156/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
