@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 661](https://feeds.feedblitz.com/~/968274254/0/baeldung~Java-Weekly-Issue)
 - [How to Fix Jackson JSON Parse Error Can not construct instance of java.time.LocalDate](https://feeds.feedblitz.com/~/968126756/0/baeldung~How-to-Fix-Jackson-JSON-Parse-Error-Can-not-construct-instance-of-javatimeLocalDate)
 - [API Mocking and Testing With Microcks](https://feeds.feedblitz.com/~/968126759/0/baeldung~API-Mocking-and-Testing-With-Microcks)
 - [HTTP Client SSRF Mitigation with InetAddressFilter in Spring Boot](https://feeds.feedblitz.com/~/968126762/0/baeldung~HTTP-Client-SSRF-Mitigation-with-InetAddressFilter-in-Spring-Boot)
 - [DB-Scheduler: A Persistent, Cluster-Friendly Scheduler for Java](https://feeds.feedblitz.com/~/968126534/0/baeldung~DBScheduler-A-Persistent-ClusterFriendly-Scheduler-for-Java)
-- [Java Weekly, Issue 660](https://feeds.feedblitz.com/~/968116088/0/baeldung~Java-Weekly-Issue)
 <!-- BLOG-POST-LIST:END -->
 
 
