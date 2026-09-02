@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cold Starts Kill AI Apps](https://www.youtube.com/shorts/H6RnDFyS-z4)
 - [Is AWS re:Invent Worth It? #aws #reinvent #tech](https://www.youtube.com/shorts/BYgvVIH8-F4)
 - [I stopped using terminal tabs.](https://www.youtube.com/watch?v=sZDjE-9esEg)
 - [Mensageria com padrão Publisher Subscriber com Java e Spring](https://www.youtube.com/shorts/uKpFl5Ws448)
 - [OAuth2 e OIDC profissional com Java e Spring: primeiros passos](https://www.youtube.com/watch?v=u-YK9Azcd0o)
-- [Mensageria - desacoplando sistemas: ponto a ponto com AWS SQS](https://www.youtube.com/watch?v=0Ynzp9qjiYs)
 <!-- YOUTUBE:END -->
 
 
