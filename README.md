@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCP Logging in Spring AI](https://feeds.feedblitz.com/~/968567129/0/baeldung~MCP-Logging-in-Spring-AI)
 - [Java Weekly, Issue 662](https://feeds.feedblitz.com/~/968560595/0/baeldung~Java-Weekly-Issue)
 - [LLM Streaming in the Embabel Agentic AI Framework](https://feeds.feedblitz.com/~/968282549/0/baeldung~LLM-Streaming-in-the-Embabel-Agentic-AI-Framework)
 - [Java Weekly, Issue 661](https://feeds.feedblitz.com/~/968274254/0/baeldung~Java-Weekly-Issue)
 - [How to Fix Jackson JSON Parse Error Can not construct instance of java.time.LocalDate](https://feeds.feedblitz.com/~/968126756/0/baeldung~How-to-Fix-Jackson-JSON-Parse-Error-Can-not-construct-instance-of-javatimeLocalDate)
-- [API Mocking and Testing With Microcks](https://feeds.feedblitz.com/~/968126759/0/baeldung~API-Mocking-and-Testing-With-Microcks)
 <!-- BLOG-POST-LIST:END -->
 
 
