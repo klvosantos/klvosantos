@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gson Deserialization and the InaccessibleObjectException](https://feeds.feedblitz.com/~/969124883/0/baeldung~Gson-Deserialization-and-the-InaccessibleObjectException)
-- [Resolving Exception: Cannot Deserialize From Object Value &lpar;No Delegate- Or Property-Based Creator&rpar;](https://feeds.feedblitz.com/~/969076403/0/baeldung~Resolving-Exception-Cannot-Deserialize-From-Object-Value-No-Delegate-Or-PropertyBased-Creator)
-- [Java Weekly, Issue 663](https://feeds.feedblitz.com/~/969048446/0/baeldung~Java-Weekly-Issue)
-- [What’s New in Jackson 3?](https://feeds.feedblitz.com/~/968938295/0/baeldung~Whats-New-in-Jackson)
-- [HTTP/3 Support in HTTP Client API in Java 26](https://feeds.feedblitz.com/~/968937662/0/baeldung~HTTP-Support-in-HTTP-Client-API-in-Java)
+- [Prompt Caching Support in Spring AI with Anthropic Claude](https://feeds.feedblitz.com/~/969174386/0/baeldung)
+- [Gson Deserialization and the InaccessibleObjectException](https://feeds.feedblitz.com/~/969124883/0/baeldung)
+- [Resolving Exception: Cannot Deserialize From Object Value &lpar;No Delegate- Or Property-Based Creator&rpar;](https://feeds.feedblitz.com/~/969076403/0/baeldung)
+- [Java Weekly, Issue 663](https://feeds.feedblitz.com/~/969048446/0/baeldung)
+- [What’s New in Jackson 3?](https://feeds.feedblitz.com/~/968938295/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
