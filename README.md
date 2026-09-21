@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Solon](https://feeds.feedblitz.com/~/969398114/0/baeldung)
 - [Java Weekly, Issue 664](https://feeds.feedblitz.com/~/969333680/0/baeldung)
 - [Prompt Caching Support in Spring AI with Anthropic Claude](https://feeds.feedblitz.com/~/969174386/0/baeldung)
 - [Gson Deserialization and the InaccessibleObjectException](https://feeds.feedblitz.com/~/969124883/0/baeldung)
 - [Resolving Exception: Cannot Deserialize From Object Value &lpar;No Delegate- Or Property-Based Creator&rpar;](https://feeds.feedblitz.com/~/969076403/0/baeldung)
-- [Java Weekly, Issue 663](https://feeds.feedblitz.com/~/969048446/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
