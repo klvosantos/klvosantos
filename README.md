@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to FitNesse – An Acceptance Testing Framework](https://feeds.feedblitz.com/~/969527999/0/baeldung)
 - [Introduction to Triton Java API](https://feeds.feedblitz.com/~/969527177/0/baeldung)
 - [Upgrading Spring Framework Version in Spring Boot](https://feeds.feedblitz.com/~/969518291/0/baeldung)
 - [Introduction to Solon](https://feeds.feedblitz.com/~/969398114/0/baeldung)
 - [Java Weekly, Issue 664](https://feeds.feedblitz.com/~/969333680/0/baeldung)
-- [Prompt Caching Support in Spring AI with Anthropic Claude](https://feeds.feedblitz.com/~/969174386/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
