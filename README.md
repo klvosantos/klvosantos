@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The @Find Annotation in Hibernate](https://feeds.feedblitz.com/~/970277321/0/baeldung)
 - [Performance Improvements in JDK 26](https://feeds.feedblitz.com/~/970060151/0/baeldung)
 - [A Guide to Structured Output in Spring AI](https://feeds.feedblitz.com/~/970058585/0/baeldung)
 - [Introduction to FitNesse – An Acceptance Testing Framework](https://feeds.feedblitz.com/~/969527999/0/baeldung)
 - [Introduction to Triton Java API](https://feeds.feedblitz.com/~/969527177/0/baeldung)
-- [Upgrading Spring Framework Version in Spring Boot](https://feeds.feedblitz.com/~/969518291/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
