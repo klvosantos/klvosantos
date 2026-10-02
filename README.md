@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 666](https://feeds.feedblitz.com/~/970894736/0/baeldung)
 - [New Features in Java 27](https://feeds.feedblitz.com/~/970740575/0/baeldung)
 - [Java Weekly, Issue 665](https://feeds.feedblitz.com/~/970561523/0/baeldung)
 - [The @Find Annotation in Hibernate](https://feeds.feedblitz.com/~/970277321/0/baeldung)
 - [Performance Improvements in JDK 26](https://feeds.feedblitz.com/~/970060151/0/baeldung)
-- [A Guide to Structured Output in Spring AI](https://feeds.feedblitz.com/~/970058585/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
