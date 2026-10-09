@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 667](https://feeds.feedblitz.com/~/971192846/0/baeldung)
 - [Documenting Form Parameters With Spring REST Docs](https://feeds.feedblitz.com/~/971064149/0/baeldung)
 - [Java Weekly, Issue 666](https://feeds.feedblitz.com/~/970894736/0/baeldung)
 - [New Features in Java 27](https://feeds.feedblitz.com/~/970740575/0/baeldung)
 - [Java Weekly, Issue 665](https://feeds.feedblitz.com/~/970561523/0/baeldung)
-- [The @Find Annotation in Hibernate](https://feeds.feedblitz.com/~/970277321/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
