@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 - [Cold Starts Kill AI Apps](https://www.youtube.com/shorts/H6RnDFyS-z4)
 - [Is AWS re:Invent Worth It? #aws #reinvent #tech](https://www.youtube.com/shorts/BYgvVIH8-F4)
 - [I stopped using terminal tabs.](https://www.youtube.com/watch?v=sZDjE-9esEg)
-- [Mensageria com padrão Publisher Subscriber com Java e Spring](https://www.youtube.com/shorts/uKpFl5Ws448)
+- [Cut Next.js Load Times by 85% With this Deployment Method](https://www.youtube.com/shorts/gSsy7ypKqFY)
 <!-- YOUTUBE:END -->
 
 
