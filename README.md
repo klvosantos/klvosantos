@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly, Issue 670](https://feeds.feedblitz.com/~/972505319/0/baeldung)
 - [Java Weekly, Issue 669](https://feeds.feedblitz.com/~/972125879/0/baeldung)
 - [Query Transformation in Spring AI Modular RAG](https://feeds.feedblitz.com/~/972117848/0/baeldung)
 - [Handle Forwarded Headers in Spring Boot](https://feeds.feedblitz.com/~/972117851/0/baeldung)
 - [Safeguarding LLM Output in Spring AI](https://feeds.feedblitz.com/~/971759387/0/baeldung)
-- [Java Weekly, Issue 668](https://feeds.feedblitz.com/~/971746664/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
