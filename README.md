@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Customize the OpenID Connect 1.0 UserInfo Response in Spring Authorization Server](https://feeds.feedblitz.com/~/972819959/0/baeldung)
 - [How to Fix the Error: Missing Artifact com.sun:tools:jar in pom.xml Files](https://feeds.feedblitz.com/~/972630176/0/baeldung)
 - [Automating Shadow DOM in Selenium WebDriver](https://feeds.feedblitz.com/~/972628949/0/baeldung)
 - [Java Weekly, Issue 670](https://feeds.feedblitz.com/~/972505319/0/baeldung)
 - [Java Weekly, Issue 669](https://feeds.feedblitz.com/~/972125879/0/baeldung)
-- [Query Transformation in Spring AI Modular RAG](https://feeds.feedblitz.com/~/972117848/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
