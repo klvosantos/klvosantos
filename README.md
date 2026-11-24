@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intro to Tool Calling in Spring AI 2.0](https://feeds.feedblitz.com/~/973901774/0/baeldung)
 - [Java Weekly, Issue 672](https://feeds.feedblitz.com/~/973557479/0/baeldung)
 - [A Guide to the System Properties Extension Annotations in JUnit 6.1](https://feeds.feedblitz.com/~/973461452/0/baeldung)
 - [Rate Limit Information from Anthropic API Response Headers Using ChatResponseMetadata in Spring AI](https://feeds.feedblitz.com/~/972994280/0/baeldung)
 - [Using the Official OpenAI Java SDK With Spring AI](https://feeds.feedblitz.com/~/972994283/0/baeldung)
-- [Java Weekly, Issue 671](https://feeds.feedblitz.com/~/972991964/0/baeldung)
 <!-- BLOG-POST-LIST:END -->
 
 
